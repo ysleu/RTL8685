@@ -1,0 +1,9 @@
+make user_only
+make romfs
+rm rootfs
+./tools/libstrip/libstrip
+./mksquashfs-lzma romfs rootfs -be -noappend
+tools/packimg/kfspad rootfs linux-2.4.x/vmlinux.lzma linux-2.4.x/vmbin.img
+tools/packimg/genhead  -i linux-2.4.x/vmbin.img -o linux-2.4.x/vm.hdr -k 0xa0000003 -f 0xbfc10000  -a 0x80000000 -e 0x80000000
+cat linux-2.4.x/vm.hdr linux-2.4.x/vmbin.img > linux-2.4.x/vm.img
+ls -l linux-2.4.x/vm.img

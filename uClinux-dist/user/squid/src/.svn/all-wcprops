@@ -1,0 +1,755 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src
+END
+refresh.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/refresh.c
+END
+store_io_ufs.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_io_ufs.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/Makefile.in
+END
+mk-globals-c.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/mk-globals-c.pl
+END
+redirect.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/redirect.c
+END
+test_cache_digest.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/test_cache_digest.c
+END
+access_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/access_log.c
+END
+mk-string-arrays.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/mk-string-arrays.pl
+END
+wais.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/wais.c
+END
+forward.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/forward.c
+END
+aiops.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/aiops.c
+END
+filemap.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/filemap.c
+END
+pconn.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/pconn.c
+END
+cbdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/cbdata.c
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/http.c
+END
+neighbors.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/neighbors.c
+END
+cf_gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/cf_gen.c
+END
+client_side.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/client_side.c
+END
+client_db.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/client_db.c
+END
+HttpHdrCc.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/HttpHdrCc.c
+END
+gopher.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/gopher.c
+END
+dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/dns.c
+END
+carp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/carp.c
+END
+errorpage.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/errorpage.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/debug.c
+END
+squid.conf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/squid.conf
+END
+ftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/ftp.c
+END
+store_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_dir.c
+END
+enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/enums.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/Makefile
+END
+store_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_log.c
+END
+htcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/htcp.c
+END
+acl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/acl.c
+END
+tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/tools.c
+END
+async_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/async_io.c
+END
+Packer.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/Packer.c
+END
+String.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/String.c
+END
+store_dir_ufs.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_dir_ufs.c
+END
+delay_pools.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/delay_pools.c
+END
+MemBuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/MemBuf.c
+END
+cache_cf.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/cache_cf.c
+END
+internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/internal.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/mem.c
+END
+dns_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/dns_internal.c
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/event.c
+END
+asn.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/asn.c
+END
+icp_v3.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/icp_v3.c
+END
+pinger.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/pinger.c
+END
+snmp_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/snmp_core.c
+END
+mime.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/mime.c
+END
+HttpRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/HttpRequest.c
+END
+HttpHdrRange.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/HttpHdrRange.c
+END
+peer_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/peer_select.c
+END
+squid.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/squid.h
+END
+net_db.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/net_db.c
+END
+protos.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/protos.h
+END
+snmp_agent.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/snmp_agent.c
+END
+store_digest.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_digest.c
+END
+ipcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/ipcache.c
+END
+store.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store.c
+END
+send-announce.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/send-announce.c
+END
+cf_gen
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/cf_gen
+END
+ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/ssl.c
+END
+recv-announce.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/recv-announce.c
+END
+cf.data.pre
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/cf.data.pre
+END
+unlinkd.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/unlinkd.c
+END
+multicast.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/multicast.c
+END
+MemPool.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/MemPool.c
+END
+HttpHeaderTools.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/HttpHeaderTools.c
+END
+cachemgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/cachemgr.c
+END
+ipc.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/ipc.c
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/stat.c
+END
+structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/structs.h
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/client.c
+END
+store_swapout.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_swapout.c
+END
+cf.data
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/cf.data
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/defines.h
+END
+stmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/stmem.c
+END
+fd.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/fd.c
+END
+whois.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/whois.c
+END
+disk.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/disk.c
+END
+comm_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/comm_select.c
+END
+mime.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/mime.conf
+END
+HttpStatusLine.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/HttpStatusLine.c
+END
+HttpReply.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/HttpReply.c
+END
+cache_diff.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/cache_diff.c
+END
+cache_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/cache_manager.c
+END
+useragent.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/useragent.c
+END
+store_io_asyncufs.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_io_asyncufs.c
+END
+HttpHdrExtField.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/HttpHdrExtField.c
+END
+store_rebuild.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_rebuild.c
+END
+url.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/url.c
+END
+CacheDigest.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/CacheDigest.c
+END
+StatHist.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/StatHist.c
+END
+ident.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/ident.c
+END
+ipcprog.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/ipcprog.c
+END
+cf_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/cf_parser.c
+END
+leakfinder.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/leakfinder.c
+END
+mib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/mib.txt
+END
+urn.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/urn.c
+END
+store_heap_replacement.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_heap_replacement.c
+END
+store_key_md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_key_md5.c
+END
+dnsserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/dnsserver.c
+END
+fqdncache.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/fqdncache.c
+END
+store_swapin.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_swapin.c
+END
+HttpHdrContRange.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/HttpHdrContRange.c
+END
+authenticate.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/authenticate.c
+END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/helper.c
+END
+ETag.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/ETag.c
+END
+pump.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/pump.c
+END
+icp_v2.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/icp_v2.c
+END
+store_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_io.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/main.c
+END
+HttpMsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/HttpMsg.c
+END
+test-ellipses.pl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/test-ellipses.pl
+END
+icmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/icmp.c
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/globals.h
+END
+HttpHeader.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/HttpHeader.c
+END
+typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/typedefs.h
+END
+peer_digest.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/peer_digest.c
+END
+store_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_client.c
+END
+comm.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/comm.c
+END
+wccp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/wccp.c
+END
+HttpBody.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/HttpBody.c
+END
+store_swapmeta.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/src/store_swapmeta.c
+END

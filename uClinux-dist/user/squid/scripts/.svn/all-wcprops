@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts
+END
+flag_truncs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/flag_truncs.pl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/Makefile.in
+END
+convert.configure.to.os2
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/convert.configure.to.os2
+END
+upgrade-1.0-store.pl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/upgrade-1.0-store.pl
+END
+RunCache
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/RunCache
+END
+cachetrace.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/cachetrace.pl
+END
+access-log-matrix.pl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/access-log-matrix.pl
+END
+RunAccel
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/RunAccel
+END
+tcp-banger.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/tcp-banger.pl
+END
+RunCache.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/RunCache.in
+END
+udp-banger.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/udp-banger.pl
+END
+fileno-to-pathname.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/fileno-to-pathname.pl
+END
+cache-compare.pl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/cache-compare.pl
+END
+RunAccel.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/RunAccel.in
+END
+icp-test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/icp-test.pl
+END
+AnnounceCache.pl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/AnnounceCache.pl
+END
+check_cache.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/check_cache.pl
+END
+icpserver.pl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/icpserver.pl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/scripts/Makefile
+END

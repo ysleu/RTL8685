@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/crypto/ecdh
+END
+ech_ossl.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/crypto/ecdh/ech_ossl.c
+END
+ecdhtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/crypto/ecdh/ecdhtest.c
+END
+ech_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/crypto/ecdh/ech_lib.c
+END
+ech_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/crypto/ecdh/ech_err.c
+END
+ech_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/crypto/ecdh/ech_key.c
+END
+ecdh.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/crypto/ecdh/ecdh.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/crypto/ecdh/Makefile
+END
+ech_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/crypto/ecdh/ech_locl.h
+END

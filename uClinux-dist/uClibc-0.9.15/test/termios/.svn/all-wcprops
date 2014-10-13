@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/test/termios
+END
+termios.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/test/termios/termios.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/test/termios/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/test/termios/Makefile
+END

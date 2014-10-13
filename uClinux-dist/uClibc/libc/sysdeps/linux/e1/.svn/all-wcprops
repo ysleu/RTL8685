@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/e1
+END
+setjmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/e1/setjmp.c
+END
+longjmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/e1/longjmp.c
+END
+vfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/e1/vfork.c
+END
+crt0.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/e1/crt0.S
+END
+crt1.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/e1/crt1.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/e1/Makefile
+END
+syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/e1/syscalls.c
+END

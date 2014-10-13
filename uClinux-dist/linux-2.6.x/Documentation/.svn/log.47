@@ -1,0 +1,80 @@
+<modify-entry
+   name="eisa.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="eisa.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="eisa.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/eisa.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="eisa.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="eisa.txt"
+   name=".svn/tmp/text-base/eisa.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/eisa.txt.svn-base"
+   name=".svn/tmp/text-base/eisa.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/eisa.txt.svn-base"/>
+<modify-entry
+   name="eisa.txt"
+   checksum="9c01d72408db833dc8f7ded1d02d72c8"/>
+<modify-entry
+   name="eisa.txt"
+   text-time="working"/>
+<modify-entry
+   name="eisa.txt"
+   working-size="working"/>
+<modify-entry
+   name="sysrq.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="sysrq.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="sysrq.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/sysrq.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="sysrq.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="sysrq.txt"
+   name=".svn/tmp/text-base/sysrq.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/sysrq.txt.svn-base"
+   name=".svn/tmp/text-base/sysrq.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/sysrq.txt.svn-base"/>
+<modify-entry
+   name="sysrq.txt"
+   checksum="f9b78964336e90fa9a57b42597f89d95"/>
+<modify-entry
+   name="sysrq.txt"
+   text-time="working"/>
+<modify-entry
+   name="sysrq.txt"
+   working-size="working"/>

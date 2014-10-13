@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib
+END
+ipx_ntop.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/ipx_ntop.c
+END
+ipx_pton.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/ipx_pton.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/utils.c
+END
+ll_addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/ll_addr.c
+END
+inet_proto.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/inet_proto.c
+END
+ll_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/ll_map.c
+END
+rt_names.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/rt_names.c
+END
+dnet_ntop.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/dnet_ntop.c
+END
+dnet_pton.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/dnet_pton.c
+END
+ll_proto.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/ll_proto.c
+END
+libnetlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/libnetlink.c
+END
+ll_types.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/ll_types.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/lib/Makefile
+END

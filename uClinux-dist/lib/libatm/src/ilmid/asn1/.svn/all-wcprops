@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1
+END
+str_stk.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/str_stk.h
+END
+asn_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_int.h
+END
+print.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/print.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/Makefile.in
+END
+asn_bits.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_bits.c
+END
+sbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/sbuf.h
+END
+asn_bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_bits.h
+END
+asn_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_config.h
+END
+asn_null.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_null.c
+END
+asn_tag.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_tag.c
+END
+asn_oid.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_oid.c
+END
+asn_len.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_len.c
+END
+asn_null.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_null.h
+END
+asn_tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_tag.h
+END
+asn_oid.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_oid.h
+END
+min_buf.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/min_buf.h
+END
+asn_len.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_len.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/Makefile
+END
+nibble_alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/nibble_alloc.c
+END
+asn_octs.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_octs.c
+END
+nibble_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/nibble_alloc.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/README
+END
+asn_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_list.c
+END
+asn_octs.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_octs.h
+END
+asn_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_list.h
+END
+exp_buf.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/exp_buf.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/Makefile.am
+END
+str_stk.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/str_stk.c
+END
+asn_incl.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_incl.h
+END
+asn_int.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/asn_int.c
+END
+print.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/print.c
+END
+exp_buf.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libatm/src/ilmid/asn1/exp_buf.h
+END

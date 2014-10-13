@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/src
+END
+ethping.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/src/ethping.c
+END
+dot1ag_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/src/dot1ag_eth.c
+END
+ethtrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/src/ethtrace.c
+END
+ieee8021ag.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/src/ieee8021ag.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/src/Makefile.in
+END
+dot1agd.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/src/dot1agd.c
+END
+dot1ag_eth.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/src/dot1ag_eth.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/src/Makefile.am
+END
+dot1ag_ccd.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/src/dot1ag_ccd.c
+END
+ieee8021ag.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/src/ieee8021ag.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/demos/engines/zencod
+END
+hw_zencod.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/demos/engines/zencod/hw_zencod.c
+END
+hw_zencod.ec
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/demos/engines/zencod/hw_zencod.ec
+END
+hw_zencod.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/demos/engines/zencod/hw_zencod.h
+END
+hw_zencod_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/demos/engines/zencod/hw_zencod_err.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/demos/engines/zencod/Makefile
+END
+hw_zencod_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/demos/engines/zencod/hw_zencod_err.h
+END

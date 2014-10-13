@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/utils
+END
+readsoname.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/utils/readsoname.c
+END
+readsoname2.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/utils/readsoname2.c
+END
+bswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/utils/bswap.h
+END
+readelf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/utils/readelf.c
+END
+ldd.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/utils/ldd.c
+END
+readsoname.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/utils/readsoname.h
+END
+ldconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/utils/ldconfig.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/utils/Makefile
+END

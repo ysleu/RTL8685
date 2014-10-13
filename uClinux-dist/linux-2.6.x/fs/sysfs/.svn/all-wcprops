@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/sysfs
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/sysfs/dir.c
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/sysfs/inode.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/sysfs/Kconfig
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/sysfs/file.c
+END
+mount.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/sysfs/mount.c
+END
+symlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/sysfs/symlink.c
+END
+bin.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/sysfs/bin.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/sysfs/Makefile
+END
+group.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/sysfs/group.c
+END
+sysfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/sysfs/sysfs.h
+END

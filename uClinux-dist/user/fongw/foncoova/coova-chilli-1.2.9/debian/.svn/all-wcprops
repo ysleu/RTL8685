@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian
+END
+coova-chilli.chilli.default
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/coova-chilli.chilli.default
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/control
+END
+coova-chilli.docs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/coova-chilli.docs
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/dirs
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/Makefile.in
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/postinst
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/prerm
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/changelog
+END
+conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/conffiles
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/copyright
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/Makefile.am
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/rules
+END
+coova-chilli.chilli.init
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/debian/coova-chilli.chilli.init
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/i2c/other
+END
+ak4xxx-adda.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/i2c/other/ak4xxx-adda.c
+END
+pt2258.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/i2c/other/pt2258.c
+END
+ak4114.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/i2c/other/ak4114.c
+END
+ak4117.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/i2c/other/ak4117.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/i2c/other/Makefile
+END
+tea575x-tuner.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/i2c/other/tea575x-tuner.c
+END

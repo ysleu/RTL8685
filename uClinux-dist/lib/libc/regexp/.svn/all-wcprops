@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp
+END
+try.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/try.c
+END
+regexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/regexp.h
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/timer.c
+END
+tests
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/tests
+END
+README.rdb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/README.rdb
+END
+regmagic.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/regmagic.h
+END
+Config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/Config
+END
+regerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/regerror.c
+END
+regsub.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/regsub.c
+END
+regexp.3
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/regexp.3
+END
+regexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/regexp.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/regexp/README
+END

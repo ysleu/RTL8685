@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k
+END
+fpu_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/fpu_control.h
+END
+README.m68k
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/README.m68k
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/vfork.S
+END
+crt0.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/crt0.c
+END
+float.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/float.h
+END
+ptrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/ptrace.c
+END
+brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/brk.c
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/clone.S
+END
+crti.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/crti.S
+END
+setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/setjmp.S
+END
+__longjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/__longjmp.S
+END
+crtn.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/crtn.S
+END
+bsd-_setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/bsd-_setjmp.S
+END
+crt0.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/crt0.S
+END
+bsd-setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/bsd-setjmp.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux/m68k/Makefile
+END

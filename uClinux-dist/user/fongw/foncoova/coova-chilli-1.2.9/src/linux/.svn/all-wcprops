@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/linux
+END
+xt_coova.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/linux/xt_coova.c
+END
+xt_coova.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/linux/xt_coova.h
+END
+ipt_coova.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/linux/ipt_coova.h
+END
+libxt_coova.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/linux/libxt_coova.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/linux/Makefile
+END

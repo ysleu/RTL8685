@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/vp790_api
+END
+apicnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/vp790_api/apicnt.c
+END
+apiquery.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/vp790_api/apiquery.c
+END
+apiInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/vp790_api/apiInit.c
+END
+vp790_api_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/vp790_api/vp790_api_int.h
+END

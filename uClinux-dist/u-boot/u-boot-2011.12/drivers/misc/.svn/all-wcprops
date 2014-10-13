@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc
+END
+pmic_max8998.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/pmic_max8998.c
+END
+pdsp188x.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/pdsp188x.c
+END
+pmic_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/pmic_core.c
+END
+twl4030_led.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/twl4030_led.c
+END
+pmic_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/pmic_spi.c
+END
+status_led.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/status_led.c
+END
+mc9sdz60.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/mc9sdz60.c
+END
+ds4510.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/ds4510.c
+END
+gpio_led.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/gpio_led.c
+END
+pmic_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/pmic_i2c.c
+END
+ali512x.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/ali512x.c
+END
+fsl_law.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/fsl_law.c
+END
+ns87308.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/ns87308.c
+END
+pmic_fsl.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/pmic_fsl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/Makefile
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/misc/.depend
+END

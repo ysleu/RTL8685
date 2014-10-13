@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/mtd/onenand
+END
+onenand_spl.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/mtd/onenand/onenand_spl.c
+END
+onenand_bbt.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/mtd/onenand/onenand_bbt.c
+END
+onenand_uboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/mtd/onenand/onenand_uboot.c
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/mtd/onenand/.depend
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/mtd/onenand/Makefile
+END
+onenand_base.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/mtd/onenand/onenand_base.c
+END
+samsung.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/mtd/onenand/samsung.c
+END

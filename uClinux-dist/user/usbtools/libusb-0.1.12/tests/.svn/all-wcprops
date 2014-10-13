@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests
+END
+testlibusb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/testlibusb
+END
+testlibusb.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/testlibusb.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/Makefile.in
+END
+find_hubs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/find_hubs.cpp
+END
+get_resolution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/get_resolution.cpp
+END
+hub_strings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/hub_strings.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/Makefile.am
+END
+driver_name.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/driver_name.cpp
+END
+id_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/id_test.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/Makefile
+END
+descriptor_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/descriptor_test.cpp
+END
+find_mice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/find_mice.cpp
+END

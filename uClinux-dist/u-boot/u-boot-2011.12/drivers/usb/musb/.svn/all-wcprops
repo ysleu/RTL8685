@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb
+END
+musb_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/musb_udc.c
+END
+da8xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/da8xx.h
+END
+am35x.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/am35x.h
+END
+davinci.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/davinci.c
+END
+musb_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/musb_core.c
+END
+omap3.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/omap3.c
+END
+musb_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/musb_debug.h
+END
+davinci.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/davinci.h
+END
+blackfin_usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/blackfin_usb.c
+END
+musb_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/musb_core.h
+END
+musb_hcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/musb_hcd.c
+END
+omap3.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/omap3.h
+END
+blackfin_usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/blackfin_usb.h
+END
+musb_hcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/musb_hcd.h
+END
+da8xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/da8xx.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/Makefile
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/.depend
+END
+am35x.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/drivers/usb/musb/am35x.c
+END

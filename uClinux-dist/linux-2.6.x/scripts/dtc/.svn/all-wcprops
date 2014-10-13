@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc
+END
+dtc-lexer.l
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/dtc-lexer.l
+END
+checks.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/checks.c
+END
+Makefile.dtc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/Makefile.dtc
+END
+flattree.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/flattree.c
+END
+srcpos.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/srcpos.c
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/data.c
+END
+dtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/dtc.c
+END
+srcpos.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/srcpos.h
+END
+livetree.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/livetree.c
+END
+dtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/dtc.h
+END
+treesource.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/treesource.c
+END
+version_gen.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/version_gen.h
+END
+dtc-parser.tab.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/dtc-parser.tab.c_shipped
+END
+fstree.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/fstree.c
+END
+dtc-parser.tab.h_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/dtc-parser.tab.h_shipped
+END
+dtc-parser.y
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/dtc-parser.y
+END
+dtc-lexer.lex.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/dtc-lexer.lex.c_shipped
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/scripts/dtc/Makefile
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients
+END
+pcnet_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/pcnet_cs.c
+END
+smc91c92_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/smc91c92_cs.c
+END
+eepro100_cb.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/eepro100_cb.c
+END
+3c589_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/3c589_cs.c
+END
+ax8390.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/ax8390.h
+END
+tulip_cb.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/tulip_cb.c
+END
+ibmtr_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/ibmtr_cs.c
+END
+ositech.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/ositech.h
+END
+sram_mtd.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/sram_mtd.c
+END
+aha152x_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/aha152x_stub.c
+END
+fdomain_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/fdomain_stub.c
+END
+iflash.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/iflash.h
+END
+parport_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/parport_cs.c
+END
+memory_cb.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/memory_cb.c
+END
+xirc2ps_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/xirc2ps_cs.c
+END
+dummy_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/dummy_cs.c
+END
+serial_cb.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/serial_cb.c
+END
+epic_cb.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/epic_cb.c
+END
+ide_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/ide_cs.c
+END
+fmvj18x_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/fmvj18x_cs.c
+END
+3c574_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/3c574_cs.c
+END
+iflash2_mtd.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/iflash2_mtd.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/Makefile
+END
+memory_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/memory_cs.c
+END
+ohci1394_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/ohci1394_stub.c
+END
+serial_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/serial_cs.c
+END
+axnet_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/axnet_cs.c
+END
+iflash2+_mtd.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/iflash2+_mtd.c
+END
+3c575_cb.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/3c575_cb.c
+END
+ftl_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/ftl_cs.c
+END
+qlogic_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/qlogic_stub.c
+END
+apa1480_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/apa1480_stub.c
+END
+pcilynx_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/pcilynx_stub.c
+END
+nmclan_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/pcmcia-cs/clients/nmclan_cs.c
+END

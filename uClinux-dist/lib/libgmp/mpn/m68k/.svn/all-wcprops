@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/m68k
+END
+rshift.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/m68k/rshift.S
+END
+add_n.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/m68k/add_n.S
+END
+sub_n.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/m68k/sub_n.S
+END
+lshift.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/m68k/lshift.S
+END
+syntax.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/m68k/syntax.h
+END

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/install.sh
+END
+mkcerts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/mkcerts.sh
+END
+domd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/domd
+END
+copy.pl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/copy.pl
+END
+extract-names.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/extract-names.pl
+END
+opensslwrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/opensslwrap.sh
+END
+add_cr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/add_cr.pl
+END
+extract-section.pl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/extract-section.pl
+END
+tab_num.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/tab_num.pl
+END
+x86asm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/x86asm.sh
+END
+pod2mantest
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/pod2mantest
+END
+fixNT.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/fixNT.sh
+END
+sp-diff.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/sp-diff.pl
+END
+shlib_wrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/shlib_wrap.sh
+END
+pod2man.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/pod2man.pl
+END
+mkdir-p.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/mkdir-p.pl
+END
+bat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/bat.sh
+END
+pod2mantest.pod
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/pod2mantest.pod
+END
+FreeBSD.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/FreeBSD.sh
+END
+mk1mf.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/mk1mf.pl
+END
+ck_errf.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/ck_errf.pl
+END
+perlpath.pl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/perlpath.pl
+END
+clean-depend.pl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/clean-depend.pl
+END
+dirname.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/dirname.pl
+END
+err-ins.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/err-ins.pl
+END
+mkerr.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/mkerr.pl
+END
+ssleay.num
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/ssleay.num
+END
+mklink.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/mklink.pl
+END
+mkdef.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/mkdef.pl
+END
+point.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/point.sh
+END
+selftest.pl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/selftest.pl
+END
+libeay.num
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/libeay.num
+END
+mkfiles.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/mkfiles.pl
+END
+mkstack.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/mkstack.pl
+END
+src-dep.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/src-dep.pl
+END
+deleof.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/deleof.pl
+END
+cygwin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/cygwin.sh
+END
+speed.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/speed.sh
+END
+do_ms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/do_ms.sh
+END
+files.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/util/files.pl
+END

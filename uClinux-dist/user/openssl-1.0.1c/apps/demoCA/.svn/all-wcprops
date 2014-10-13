@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/apps/demoCA
+END
+serial
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/apps/demoCA/serial
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/apps/demoCA/cacert.pem
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/apps/demoCA/index.txt
+END

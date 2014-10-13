@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing
+END
+sysfs-bus-umc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-bus-umc
+END
+sysfs-ocfs2
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-ocfs2
+END
+sysfs-dev
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-dev
+END
+sysfs-bus-css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-bus-css
+END
+debugfs-kmemtrace
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/debugfs-kmemtrace
+END
+ima_policy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/ima_policy
+END
+sysfs-bus-usb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-bus-usb
+END
+sysfs-kernel-uids
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-kernel-uids
+END
+sysfs-ibft
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-ibft
+END
+sysfs-class-uwb_rc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-class-uwb_rc
+END
+sysfs-firmware-memmap
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-firmware-memmap
+END
+sysfs-class-usb_host
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-class-usb_host
+END
+sysfs-block
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-block
+END
+sysfs-power
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-power
+END
+procfs-diskstats
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/procfs-diskstats
+END
+sysfs-kernel-slab
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-kernel-slab
+END
+sysfs-class-bdi
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-class-bdi
+END
+sysfs-class-pktcdvd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-class-pktcdvd
+END
+sysfs-bus-usb-devices-usbsevseg
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-bus-usb-devices-usbsevseg
+END
+sysfs-class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-class
+END
+sysfs-firmware-sgi_uv
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-firmware-sgi_uv
+END
+debugfs-pktcdvd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/debugfs-pktcdvd
+END
+sysfs-devices
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-devices
+END
+sysfs-firmware-acpi
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-firmware-acpi
+END
+sysfs-kernel-mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-kernel-mm
+END
+sysfs-devices-memory
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-devices-memory
+END
+sysfs-profiling
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-profiling
+END
+sysfs-fs-ext4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-fs-ext4
+END
+sysfs-wusb_cbaf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-wusb_cbaf
+END
+sysfs-kernel-mm-hugepages
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-kernel-mm-hugepages
+END
+sysfs-gpio
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-gpio
+END
+sysfs-bus-pci
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-bus-pci
+END
+sysfs-class-regulator
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-class-regulator
+END
+sysfs-c2port
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ABI/testing/sysfs-c2port
+END

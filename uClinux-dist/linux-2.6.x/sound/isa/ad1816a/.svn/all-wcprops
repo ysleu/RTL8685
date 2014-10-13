@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/isa/ad1816a
+END
+ad1816a.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/isa/ad1816a/ad1816a.c
+END
+ad1816a_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/isa/ad1816a/ad1816a_lib.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/isa/ad1816a/Makefile
+END

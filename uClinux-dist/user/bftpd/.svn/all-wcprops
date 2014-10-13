@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/configure
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/options.h
+END
+commands.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/commands.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/Makefile.in
+END
+readelf.log
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/readelf.log
+END
+bftpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/bftpd.conf
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/config.log
+END
+passwords
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/passwords
+END
+commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/commands.h
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/CHANGELOG
+END
+dirlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/dirlist.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/config.h
+END
+mystring.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/mystring.c
+END
+dirlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/dirlist.h
+END
+Makefile.cp2
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/Makefile.cp2
+END
+mystring.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/mystring.h
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/INSTALL
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/debug.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/COPYING
+END
+mypaths.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/mypaths.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/debug.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/Makefile
+END
+bftpd.log
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/bftpd.log
+END
+ftpdpassword
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/ftpdpassword
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/configure.in
+END
+bftpdutmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/bftpdutmp.c
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/config.status
+END
+login.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/login.c
+END
+commands_admin.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/commands_admin.c
+END
+bftpdutmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/bftpdutmp.h
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/list.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/README
+END
+make.log
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/make.log
+END
+cwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/cwd.c
+END
+login.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/login.h
+END
+commands_admin.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/commands_admin.h
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/acconfig.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/config.h.in
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/list.h
+END
+cwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/cwd.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/TODO
+END
+bftpd.8
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/bftpd.8
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/main.c
+END
+targzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/targzip.h
+END
+logging.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/logging.c
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/main.h
+END
+mksources
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/mksources
+END
+Makefile.back
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/Makefile.back
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/logging.h
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/options.c
+END
+Makefile.cp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/Makefile.cp
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/bftpd/install-sh
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/config.h.in
+END
+INSTALLATION
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/INSTALLATION
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/configure
+END
+INSTALLATION-ARISTA
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/INSTALLATION-ARISTA
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/LICENSE
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/configure.ac
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/missing
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/README
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59293/trunk/adsl/SDK/uClinux-dist/user/dot1ag-utils/install-sh
+END

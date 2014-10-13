@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms
+END
+reqCA.ss
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/reqCA.ss
+END
+applink.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/applink.c
+END
+testencce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/testencce.bat
+END
+tpemce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/tpemce.bat
+END
+uplink.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/uplink.c
+END
+testpem.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/testpem.bat
+END
+mw.bat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/mw.bat
+END
+uplink.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/uplink.h
+END
+x86asm.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/x86asm.bat
+END
+testce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/testce.bat
+END
+do_win64a.bat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/do_win64a.bat
+END
+reqU.ss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/reqU.ss
+END
+keyU.ss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/keyU.ss
+END
+testssce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/testssce.bat
+END
+uplink-common.pl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/uplink-common.pl
+END
+tencce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/tencce.bat
+END
+do_ms.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/do_ms.bat
+END
+do_win64i.bat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/do_win64i.bat
+END
+uplink-x86_64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/uplink-x86_64.pl
+END
+testenc.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/testenc.bat
+END
+tpem.bat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/tpem.bat
+END
+uplink.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/uplink.pl
+END
+uplink-ia64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/uplink-ia64.pl
+END
+bcb4.bat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/bcb4.bat
+END
+keyCA.ss
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/keyCA.ss
+END
+32all.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/32all.bat
+END
+tlhelp32.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/tlhelp32.h
+END
+test.bat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/test.bat
+END
+certCA.ss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/certCA.ss
+END
+do_nasm.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/do_nasm.bat
+END
+cmp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/cmp.pl
+END
+testss.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/testss.bat
+END
+mingw32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/mingw32.bat
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/README
+END
+testpemce.bat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/testpemce.bat
+END
+tenc.bat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/tenc.bat
+END
+uplink-x86.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/uplink-x86.pl
+END
+certCA.srl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/certCA.srl
+END
+req2CA.ss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/req2CA.ss
+END
+.rnd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/.rnd
+END
+certU.ss
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/certU.ss
+END
+do_nt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/do_nt.bat
+END
+speed32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/speed32.bat
+END
+testce2.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/ms/testce2.bat
+END

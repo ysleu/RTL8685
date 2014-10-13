@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp880_api
+END
+apicnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp880_api/apicnt.c
+END
+apiseq_rtl8686_cpu0.obj
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp880_api/apiseq_rtl8686_cpu0.obj
+END
+apiquery.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp880_api/apiquery.c
+END
+apiseq_rtl8686_cpu1.obj
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp880_api/apiseq_rtl8686_cpu1.obj
+END
+apiseq_rtl89xxD.obj
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp880_api/apiseq_rtl89xxD.obj
+END
+apiCal.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp880_api/apiCal.c
+END
+apiseq.obj
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp880_api/apiseq.obj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp880_api/Makefile
+END
+apiInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp880_api/apiInit.c
+END
+vp880_api_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp880_api/vp880_api_int.h
+END

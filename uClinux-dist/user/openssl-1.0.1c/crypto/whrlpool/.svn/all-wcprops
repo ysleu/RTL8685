@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/whrlpool
+END
+wp_block.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/whrlpool/wp_block.c
+END
+wp_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/whrlpool/wp_locl.h
+END
+wp_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/whrlpool/wp_test.c
+END
+wp_dgst.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/whrlpool/wp_dgst.c
+END
+whrlpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/whrlpool/whrlpool.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/whrlpool/Makefile
+END

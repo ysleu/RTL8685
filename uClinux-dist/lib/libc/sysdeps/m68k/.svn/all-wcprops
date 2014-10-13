@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k
+END
+__sbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__sbrk.c
+END
+libc_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/libc_exit.c
+END
+__syscall_0.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__syscall_0.S
+END
+__sigact.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__sigact.c
+END
+__syscall_1.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__syscall_1.S
+END
+getprio.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/getprio.c
+END
+__syscall_2.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__syscall_2.S
+END
+syscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/syscall.c
+END
+__syscall_3.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__syscall_3.S
+END
+__syscall_4.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__syscall_4.S
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/sysdep.h
+END
+__syscall_5.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__syscall_5.S
+END
+select.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/select.c
+END
+_clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/_clone.S
+END
+readdir_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/readdir_r.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/Makefile
+END
+____sig.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/____sig.S
+END
+__setfpucw.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__setfpucw.c
+END
+__init_brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__init_brk.c
+END
+__open.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__open.c
+END
+__fcntl.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__fcntl.c
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/vfork.S
+END
+ieee.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/ieee.c
+END
+__ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__ioctl.c
+END
+readdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/readdir.c
+END
+__brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__brk.c
+END
+__select.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__select.c
+END
+ptrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/ptrace.c
+END
+sigsuspend.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/sigsuspend.c
+END
+makefile.objs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/makefile.objs
+END
+__fpu_control.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libc/sysdeps/m68k/__fpu_control.c
+END

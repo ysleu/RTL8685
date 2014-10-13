@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs
+END
+net.sunset.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/net.sunset.sh
+END
+net.west.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/net.west.sh
+END
+net.sunrise.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/net.sunrise.sh
+END
+net.japan.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/net.japan.sh
+END
+net.nic.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/net.nic.sh
+END
+net.east.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/net.east.sh
+END

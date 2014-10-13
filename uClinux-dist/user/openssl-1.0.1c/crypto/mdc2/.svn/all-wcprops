@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/mdc2
+END
+mdc2test.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/mdc2/mdc2test.c
+END
+mdc2_one.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/mdc2/mdc2_one.c
+END
+mdc2dgst.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/mdc2/mdc2dgst.c
+END
+mdc2.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/mdc2/mdc2.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/mdc2/Makefile
+END

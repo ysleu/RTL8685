@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/fs/ext2
+END
+dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/fs/ext2/dev.c
+END
+ext2fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/fs/ext2/ext2fs.c
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/fs/ext2/.depend
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/fs/ext2/Makefile
+END

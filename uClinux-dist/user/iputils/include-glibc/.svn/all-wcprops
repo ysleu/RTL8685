@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/53735/trunk/adsl/SDK/uClinux-dist/user/iputils/include-glibc
+END
+socketbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/53735/trunk/adsl/SDK/uClinux-dist/user/iputils/include-glibc/socketbits.h
+END
+glibc-bugs.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/53735/trunk/adsl/SDK/uClinux-dist/user/iputils/include-glibc/glibc-bugs.h
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd
+END
+mountd.man
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/mountd.man
+END
+svc_run.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/svc_run.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/Makefile.in
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/auth.c
+END
+mount_dispatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/mount_dispatch.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/cache.c
+END
+rmtab.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/rmtab.c
+END
+fsloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/fsloc.c
+END
+mountd.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/mountd.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/Makefile.am
+END
+fsloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/fsloc.h
+END
+mountd.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/mountd.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/Makefile
+END
+v4root.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/mountd/v4root.c
+END

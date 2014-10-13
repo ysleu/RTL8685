@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/Kconfig
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/init.c
+END
+pcm_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/pcm_lib.c
+END
+jack.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/jack.c
+END
+hrtimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/hrtimer.c
+END
+sound_oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/sound_oss.c
+END
+pcm_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/pcm_timer.c
+END
+info_oss.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/info_oss.c
+END
+control.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/control.c
+END
+timer_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/timer_compat.c
+END
+pcm_native.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/pcm_native.c
+END
+sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/sound.c
+END
+rtctimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/rtctimer.c
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/info.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/Makefile
+END
+isadma.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/isadma.c
+END
+rawmidi_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/rawmidi_compat.c
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/device.c
+END
+sgbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/sgbuf.c
+END
+pcm_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/pcm_memory.c
+END
+hwdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/hwdep.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/memory.c
+END
+hwdep_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/hwdep_compat.c
+END
+pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/pcm.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/timer.c
+END
+vmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/vmaster.c
+END
+pcm_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/pcm_compat.c
+END
+control_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/control_compat.c
+END
+memalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/memalloc.c
+END
+pcm_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/pcm_misc.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/misc.c
+END
+rawmidi.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/sound/core/rawmidi.c
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib
+END
+svr5-shared-installed
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/svr5-shared-installed
+END
+sco5-shared-gcc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/sco5-shared-gcc.sh
+END
+hpux10-cc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/hpux10-cc.sh
+END
+irix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/irix.sh
+END
+Makefile.hpux10-cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/Makefile.hpux10-cc
+END
+solaris.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/solaris.sh
+END
+sco5-shared.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/sco5-shared.sh
+END
+sco5-shared-installed
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/sco5-shared-installed
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/README
+END
+win32dll.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/win32dll.bat
+END
+svr5-shared-gcc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/svr5-shared-gcc.sh
+END
+win32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/win32.bat
+END
+svr5-shared.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/svr5-shared.sh
+END
+solaris-sc4.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/solaris-sc4.sh
+END
+sun.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/openssl-0.9.8b/shlib/sun.sh
+END

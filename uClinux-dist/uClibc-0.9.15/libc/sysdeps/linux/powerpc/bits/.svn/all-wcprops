@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits
+END
+fenvinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/fenvinline.h
+END
+syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/syscalls.h
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/fenv.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/endian.h
+END
+msq.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/msq.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/setjmp.h
+END
+kernel_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/kernel_types.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/types.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/fcntl.h
+END
+wordsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/wordsize.h
+END
+mathdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/mathdef.h
+END
+kernel_stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/kernel_stat.h
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/ipc.h
+END
+ioctl-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/ioctl-types.h
+END
+termios.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/termios.h
+END
+sem.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/sem.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/resource.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/.cvsignore
+END
+shm.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/shm.h
+END
+mman.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/mman.h
+END
+mathinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libc/sysdeps/linux/powerpc/bits/mathinline.h
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal
+END
+kerberos5.m4
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/kerberos5.m4
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/libtool.m4
+END
+libtirpc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/libtirpc.m4
+END
+libevent.m4
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/libevent.m4
+END
+keyutils.m4
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/keyutils.m4
+END
+lt~obsolete.m4
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/lt~obsolete.m4
+END
+libsqlite3.m4
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/libsqlite3.m4
+END
+libblkid.m4
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/libblkid.m4
+END
+rpcsec_vers.m4
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/rpcsec_vers.m4
+END
+ltsugar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/ltsugar.m4
+END
+librpcsecgss.m4
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/librpcsecgss.m4
+END
+ipv6.m4
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/ipv6.m4
+END
+nfs-utils.m4
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/nfs-utils.m4
+END
+ltversion.m4
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/ltversion.m4
+END
+tcp-wrappers.m4
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/tcp-wrappers.m4
+END
+libnfsidmap.m4
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/libnfsidmap.m4
+END
+bsdsignals.m4
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/bsdsignals.m4
+END
+libcap.m4
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/libcap.m4
+END
+ltoptions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/aclocal/ltoptions.m4
+END

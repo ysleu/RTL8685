@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat/dir.c
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat/inode.c
+END
+namei_msdos.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat/namei_msdos.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat/Kconfig
+END
+fat.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat/fat.h
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat/file.c
+END
+fatent.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat/fatent.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat/cache.c
+END
+namei_vfat.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat/namei_vfat.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat/misc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/fat/Makefile
+END

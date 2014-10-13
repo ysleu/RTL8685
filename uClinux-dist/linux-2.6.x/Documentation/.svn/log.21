@@ -1,0 +1,80 @@
+<modify-entry
+   name="HOWTO"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="HOWTO"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="HOWTO"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/HOWTO"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="HOWTO"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="HOWTO"
+   name=".svn/tmp/text-base/HOWTO.svn-base"/>
+<mv
+   dest=".svn/text-base/HOWTO.svn-base"
+   name=".svn/tmp/text-base/HOWTO.svn-base"/>
+<readonly
+   name=".svn/text-base/HOWTO.svn-base"/>
+<modify-entry
+   name="HOWTO"
+   checksum="4a3f25b53bb8ef6654194e05ce37fee7"/>
+<modify-entry
+   name="HOWTO"
+   text-time="working"/>
+<modify-entry
+   name="HOWTO"
+   working-size="working"/>
+<modify-entry
+   name="rfkill.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="rfkill.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="rfkill.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/rfkill.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="rfkill.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="rfkill.txt"
+   name=".svn/tmp/text-base/rfkill.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/rfkill.txt.svn-base"
+   name=".svn/tmp/text-base/rfkill.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/rfkill.txt.svn-base"/>
+<modify-entry
+   name="rfkill.txt"
+   checksum="59019ba1d193ab89f3fb322c967154a4"/>
+<modify-entry
+   name="rfkill.txt"
+   text-time="working"/>
+<modify-entry
+   name="rfkill.txt"
+   working-size="working"/>

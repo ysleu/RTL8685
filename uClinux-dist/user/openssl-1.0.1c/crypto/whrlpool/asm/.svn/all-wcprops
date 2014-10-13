@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/whrlpool/asm
+END
+wp-mmx.pl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/whrlpool/asm/wp-mmx.pl
+END
+wp-x86_64.pl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/openssl-1.0.1c/crypto/whrlpool/asm/wp-x86_64.pl
+END

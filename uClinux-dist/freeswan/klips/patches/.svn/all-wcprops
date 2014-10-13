@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/klips/patches
+END
+kernel.patch.gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/klips/patches/kernel.patch.gen.sh
+END
+net.Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/klips/patches/net.Config.in
+END
+Documentation.Configure.help
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/klips/patches/Documentation.Configure.help
+END
+net.Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/klips/patches/net.Makefile
+END
+net.netsyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/klips/patches/net.netsyms.c
+END
+include.linux.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/klips/patches/include.linux.in.h
+END
+net.ipv4.af_inet.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/klips/patches/net.ipv4.af_inet.c
+END
+drivers.isdn.isdn_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/klips/patches/drivers.isdn.isdn_net.c
+END
+include.linux.socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/klips/patches/include.linux.socket.h
+END

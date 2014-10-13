@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/post/lib_powerpc/fpu
+END
+980619-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/post/lib_powerpc/fpu/980619-1.c
+END
+20001122-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/post/lib_powerpc/fpu/20001122-1.c
+END
+20010114-2.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/post/lib_powerpc/fpu/20010114-2.c
+END
+acc1.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/post/lib_powerpc/fpu/acc1.c
+END
+compare-fp-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/post/lib_powerpc/fpu/compare-fp-1.c
+END
+darwin-ldouble.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/post/lib_powerpc/fpu/darwin-ldouble.c
+END
+20010226-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/post/lib_powerpc/fpu/20010226-1.c
+END
+fpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/post/lib_powerpc/fpu/fpu.c
+END
+mul-subnormal-single-1.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/post/lib_powerpc/fpu/mul-subnormal-single-1.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/post/lib_powerpc/fpu/Makefile
+END

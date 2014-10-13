@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp580_api
+END
+apicnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp580_api/apicnt.c
+END
+apiquery.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp580_api/apiquery.c
+END
+vp580_api_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp580_api/vp580_api_int.h
+END
+apiInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/zarlink/api_lib-2.16.1/vp580_api/apiInit.c
+END

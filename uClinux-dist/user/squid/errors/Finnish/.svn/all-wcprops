@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish
+END
+ERR_INVALID_URL
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_INVALID_URL
+END
+ERR_FTP_PUT_CREATED
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_FTP_PUT_CREATED
+END
+ERR_NO_RELAY
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_NO_RELAY
+END
+ERR_ACCESS_DENIED
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_ACCESS_DENIED
+END
+ERR_LIFETIME_EXP
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_LIFETIME_EXP
+END
+ERR_FORWARDING_DENIED
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_FORWARDING_DENIED
+END
+ERR_DNS_FAIL
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_DNS_FAIL
+END
+ERR_FTP_DISABLED
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_FTP_DISABLED
+END
+ERR_FTP_PUT_MODIFIED
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_FTP_PUT_MODIFIED
+END
+ERR_ONLY_IF_CACHED_MISS
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_ONLY_IF_CACHED_MISS
+END
+ERR_READ_TIMEOUT
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_READ_TIMEOUT
+END
+ERR_UNSUP_REQ
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_UNSUP_REQ
+END
+ERR_CONNECT_FAIL
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_CONNECT_FAIL
+END
+ERR_READ_ERROR
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_READ_ERROR
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/README
+END
+ERR_FTP_PUT_ERROR
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_FTP_PUT_ERROR
+END
+ERR_CACHE_ACCESS_DENIED
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_CACHE_ACCESS_DENIED
+END
+ERR_INVALID_REQ
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_INVALID_REQ
+END
+ERR_SOCKET_FAILURE
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_SOCKET_FAILURE
+END
+ERR_ZERO_SIZE_OBJECT
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_ZERO_SIZE_OBJECT
+END
+ERR_FTP_FAILURE
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_FTP_FAILURE
+END
+ERR_CACHE_MGR_ACCESS_DENIED
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_CACHE_MGR_ACCESS_DENIED
+END
+ERR_URN_RESOLVE
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_URN_RESOLVE
+END
+ERR_WRITE_ERROR
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_WRITE_ERROR
+END
+generic
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/generic
+END
+ERR_CLIENT_ABORT
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_CLIENT_ABORT
+END
+ERR_CANNOT_FORWARD
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Finnish/ERR_CANNOT_FORWARD
+END

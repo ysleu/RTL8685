@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/lbl
+END
+os-osf4.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/lbl/os-osf4.h
+END
+os-sunos4.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/lbl/os-sunos4.h
+END
+os-ultrix4.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/lbl/os-ultrix4.h
+END
+os-osf5.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/lbl/os-osf5.h
+END
+os-solaris2.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/lbl/os-solaris2.h
+END
+os-aix4.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/lbl/os-aix4.h
+END
+os-hpux11.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/lbl/os-hpux11.h
+END

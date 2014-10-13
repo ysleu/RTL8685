@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common
+END
+vp_api_cslac_seq_vp880_rtl8672.obj
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq_vp880_rtl8672.obj
+END
+vp_api_cslac_seq_vp890_rtl8672.obj
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq_vp890_rtl8672.obj
+END
+vp_api_cslac_seq_rtl867x.obj
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq_rtl867x.obj
+END
+vp_api_cslac_seq_vp880_rtl867x.obj
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq_vp880_rtl867x.obj
+END
+vp_api_cslac_seq_vp890_rtl867x.obj
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq_vp890_rtl867x.obj
+END
+vp_api_cslac_seq_rtl89xxC.obj
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq_rtl89xxC.obj
+END
+vp_api_cslac_seq_vp880_rtl89xxC.obj
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq_vp880_rtl89xxC.obj
+END
+vp_api_cslac_seq_vp890_rtl89xxC.obj
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq_vp890_rtl89xxC.obj
+END
+vp_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api.c
+END
+vp_api_cslac_seq.obj
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq.obj
+END
+vp_api_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_common.c
+END
+vp_api_cslac_seq_vp880.obj
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq_vp880.obj
+END
+vp_api_cslac_seq_vp890.obj
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq_vp890.obj
+END
+vp_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_debug.c
+END
+vp_api_cslac_seq_rtl8672.obj
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/vp_api_cslac_seq_rtl8672.obj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.16.1/common/Makefile
+END

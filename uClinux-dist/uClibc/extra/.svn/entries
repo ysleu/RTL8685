@@ -1,0 +1,77 @@
+10
+
+dir
+63278
+http://cadinfo.realtek.com/svn/CN/cnsd5/trunk/adsl/SDK/uClinux-dist/uClibc/extra
+http://cadinfo.realtek.com/svn/CN/cnsd5
+
+
+
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6205ae0b-4059-46eb-a33d-b14f343f8a53
+
+locale
+dir
+
+config
+dir
+
+scripts
+dir
+
+Configs
+dir
+
+libstrip
+dir
+
+Makefile
+file
+
+
+
+
+2014-10-09T08:34:32.921875Z
+bad4ad0d9e6d8097ca2480ad12458b5a
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1533
+

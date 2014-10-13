@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/inode.c
+END
+super.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/super.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/Kconfig
+END
+hpfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/hpfs.h
+END
+dentry.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/dentry.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/buffer.c
+END
+map.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/map.c
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/dir.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/file.c
+END
+name.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/name.c
+END
+ea.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/ea.c
+END
+anode.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/anode.c
+END
+hpfs_fn.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/hpfs_fn.h
+END
+namei.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/namei.c
+END
+dnode.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/dnode.c
+END
+alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/alloc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/fs/hpfs/Makefile
+END

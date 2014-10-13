@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/hppa/hppa1_1/pa7100
+END
+rshift.s
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/hppa/hppa1_1/pa7100/rshift.s
+END
+add_n.s
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/hppa/hppa1_1/pa7100/add_n.s
+END
+addmul_1.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/hppa/hppa1_1/pa7100/addmul_1.S
+END
+sub_n.s
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/hppa/hppa1_1/pa7100/sub_n.s
+END
+submul_1.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/hppa/hppa1_1/pa7100/submul_1.S
+END
+lshift.s
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/libgmp/mpn/hppa/hppa1_1/pa7100/lshift.s
+END

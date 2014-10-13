@@ -1,0 +1,28 @@
+
+mantis 
+    http://172.21.69.20/mantis/view.php?id=948
+
+
+fft_acc/fft_test.c:fft_test()
+-- test 512~4096 pt fft+ifft
+-- input vector: tone, square wave, random
+-- print out error rate
+
+fft_acc/fft_test.c:fft_test3()
+-- test 512~4096 pt fft+ifft
+-- input vecotr: from designer provide, single tone and multiple tone
+-- print out error rate
+
+fft_acc/fft_test.c:fft_test2()
+-- test 512~4096 pt using fft as fast convlution
+-- input 1: h_filter is filter
+-- input 2: sine, random and square
+-- print out error rate
+
+
+
+NOTE:
+-- fft burst length can set 32 ~ 4 Word
+---- using define FFT_TOPCNR_BURST in fft_acc/fftacc.c
+---- need test 4 burst length mode
+-- fft register address config in fft_acc/fftacc_regs.h:FFT_BASE

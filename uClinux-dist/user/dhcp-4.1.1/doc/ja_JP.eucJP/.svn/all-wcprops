@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/doc/ja_JP.eucJP
+END
+dhclient.8
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/doc/ja_JP.eucJP/dhclient.8
+END
+dhclient.conf.5
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/doc/ja_JP.eucJP/dhclient.conf.5
+END
+dhclient-script.8
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/doc/ja_JP.eucJP/dhclient-script.8
+END
+dhcp-eval.5
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/doc/ja_JP.eucJP/dhcp-eval.5
+END
+dhclient.leases.5
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/doc/ja_JP.eucJP/dhclient.leases.5
+END
+dhcp-options.5
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/doc/ja_JP.eucJP/dhcp-options.5
+END

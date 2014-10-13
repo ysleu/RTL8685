@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/nand_spl/board/freescale/mpc8569mds
+END
+nand_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/nand_spl/board/freescale/mpc8569mds/nand_boot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/nand_spl/board/freescale/mpc8569mds/Makefile
+END

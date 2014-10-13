@@ -1,0 +1,19 @@
+END
+iptables-save.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/iptables-save.c
+END
+ip6tables-restore.8
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/ip6tables-restore.8
+END
+xtables.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/58229/trunk/adsl/SDK/uClinux-dist/user/iptables/xtables.c
+END

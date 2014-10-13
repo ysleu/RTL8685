@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/mac/pelican
+END
+pelican_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/mac/pelican/pelican_memory.c
+END
+pelican_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/mac/pelican/pelican_test.c
+END
+pelican.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/mac/pelican/pelican.c
+END

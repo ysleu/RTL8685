@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/powerpc/dts-bindings/fsl/cpm_qe
+END
+qe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/powerpc/dts-bindings/fsl/cpm_qe/qe.txt
+END
+network.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/powerpc/dts-bindings/fsl/cpm_qe/network.txt
+END
+gpio.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/powerpc/dts-bindings/fsl/cpm_qe/gpio.txt
+END
+cpm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/powerpc/dts-bindings/fsl/cpm_qe/cpm.txt
+END
+serial.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/powerpc/dts-bindings/fsl/cpm_qe/serial.txt
+END

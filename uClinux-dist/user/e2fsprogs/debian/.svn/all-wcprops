@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian
+END
+comerr-dev.doc-base
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/comerr-dev.doc-base
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/control
+END
+comerr-dev.examples
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/comerr-dev.examples
+END
+e2fsprogs.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fsprogs.copyright
+END
+uuid-dev.files
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/uuid-dev.files
+END
+comerr-dev.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/comerr-dev.postinst
+END
+e2fslibs-dev.files
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fslibs-dev.files
+END
+e2fsprogs.README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fsprogs.README.Debian
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/rules
+END
+ss-dev.undocumented
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/ss-dev.undocumented
+END
+e2fsprogs.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fsprogs.postinst
+END
+e2fsprogs.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fsprogs.preinst
+END
+e2fsprogs.shlibs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fsprogs.shlibs
+END
+e2fsprogs.docs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fsprogs.docs
+END
+e2fslibs-dev.doc-base
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fslibs-dev.doc-base
+END
+ss-dev.files
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/ss-dev.files
+END
+e2fsck-static.files
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fsck-static.files
+END
+comerr-dev.files
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/comerr-dev.files
+END
+libss2.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/libss2.copyright
+END
+e2fslibs-dev.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fslibs-dev.postinst
+END
+libcomerr2.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/libcomerr2.copyright
+END
+e2fsprogs.files
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fsprogs.files
+END
+shlibs.local
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/shlibs.local
+END
+e2fsprogs.TODO
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/e2fsprogs.TODO
+END
+ss-dev.examples
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/e2fsprogs/debian/ss-dev.examples
+END

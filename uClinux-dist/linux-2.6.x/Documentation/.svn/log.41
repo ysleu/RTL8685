@@ -1,0 +1,40 @@
+<modify-entry
+   name="basic_profiling.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="basic_profiling.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="basic_profiling.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/basic_profiling.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="basic_profiling.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="basic_profiling.txt"
+   name=".svn/tmp/text-base/basic_profiling.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/basic_profiling.txt.svn-base"
+   name=".svn/tmp/text-base/basic_profiling.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/basic_profiling.txt.svn-base"/>
+<modify-entry
+   name="basic_profiling.txt"
+   checksum="1c70596bd41eb49077af5e91e16d2967"/>
+<modify-entry
+   name="basic_profiling.txt"
+   text-time="working"/>
+<modify-entry
+   name="basic_profiling.txt"
+   working-size="working"/>

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd
+END
+gss_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/gss_util.h
+END
+krb5_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/krb5_util.c
+END
+gssd.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/gssd.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/Makefile.in
+END
+context_lucid.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/context_lucid.c
+END
+gss_destroy_creds
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/gss_destroy_creds
+END
+svcgssd.man
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/svcgssd.man
+END
+krb5_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/krb5_util.h
+END
+gssd.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/gssd.h
+END
+svcgssd_main_loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/svcgssd_main_loop.c
+END
+gss_oids.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/gss_oids.c
+END
+svcgssd.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/svcgssd.c
+END
+gss_oids.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/gss_oids.h
+END
+svcgssd.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/svcgssd.h
+END
+gssd_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/gssd_proc.c
+END
+err_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/err_util.c
+END
+svcgssd_mech2file.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/svcgssd_mech2file.c
+END
+err_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/err_util.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/Makefile
+END
+context_mit.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/context_mit.c
+END
+gss_clnt_send_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/gss_clnt_send_err.c
+END
+svcgssd_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/svcgssd_proc.c
+END
+svcgssd_krb5.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/svcgssd_krb5.c
+END
+svcgssd_krb5.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/svcgssd_krb5.h
+END
+write_bytes.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/write_bytes.h
+END
+context_heimdal.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/context_heimdal.c
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/.gitignore
+END
+context.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/context.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/Makefile.am
+END
+gssd.man
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/gssd.man
+END
+context.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/context.h
+END
+gss_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/gss_util.c
+END
+gssd_main_loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/utils/gssd/gssd_main_loop.c
+END

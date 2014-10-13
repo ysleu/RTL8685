@@ -1,0 +1,5 @@
+ARCH   = mips
+CPU    = rlx5281
+BOARD  = rtl8686demo
+VENDOR = Realtek
+SOC    = rtl8686

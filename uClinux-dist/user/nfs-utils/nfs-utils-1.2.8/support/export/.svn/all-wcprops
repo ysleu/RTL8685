@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/support/export
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/support/export/client.c
+END
+hostname.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/support/export/hostname.c
+END
+xtab.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/support/export/xtab.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/support/export/Makefile.in
+END
+export.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/support/export/export.c
+END
+rmtab.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/support/export/rmtab.c
+END
+mount.x
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/support/export/mount.x
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/support/export/Makefile.am
+END
+nfsctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/support/export/nfsctl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/53776/trunk/adsl/SDK/uClinux-dist/user/nfs-utils/nfs-utils-1.2.8/support/export/Makefile
+END

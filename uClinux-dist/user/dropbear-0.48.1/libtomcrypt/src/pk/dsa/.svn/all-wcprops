@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/dsa
+END
+dsa_verify_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/dsa/dsa_verify_hash.c
+END
+dsa_import.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/dsa/dsa_import.c
+END
+dsa_verify_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/dsa/dsa_verify_key.c
+END
+dsa_export.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/dsa/dsa_export.c
+END
+dsa_free.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/dsa/dsa_free.c
+END
+dsa_sign_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/dsa/dsa_sign_hash.c
+END
+dsa_make_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/dsa/dsa_make_key.c
+END

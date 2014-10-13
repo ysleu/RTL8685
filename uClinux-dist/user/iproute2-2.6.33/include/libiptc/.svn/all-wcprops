@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.33/include/libiptc
+END
+libip6tc.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.33/include/libiptc/libip6tc.h
+END
+libiptc.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.33/include/libiptc/libiptc.h
+END
+ipt_kernel_headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.33/include/libiptc/ipt_kernel_headers.h
+END

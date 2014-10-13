@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libpthread/linuxthreads/sysdeps/sparc/sparc64
+END
+sigcontextinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libpthread/linuxthreads/sysdeps/sparc/sparc64/sigcontextinfo.h
+END
+pt-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libpthread/linuxthreads/sysdeps/sparc/sparc64/pt-machine.h
+END

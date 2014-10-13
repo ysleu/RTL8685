@@ -1,0 +1,144 @@
+10
+
+dir
+63278
+http://cadinfo.realtek.com/svn/CN/cnsd5/trunk/adsl/SDK/uClinux-dist/uClibc/libc/sysdeps/linux
+http://cadinfo.realtek.com/svn/CN/cnsd5
+
+
+
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6205ae0b-4059-46eb-a33d-b14f343f8a53
+
+powerpc
+dir
+
+arm
+dir
+
+sh64
+dir
+
+m68k
+dir
+
+alpha
+dir
+
+microblaze
+dir
+
+i960
+dir
+
+common
+dir
+
+i386
+dir
+
+README
+file
+
+
+
+
+2014-10-09T08:36:35.250000Z
+7ecf0a2008a62d3446e882b8d9994160
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+366
+
+cris
+dir
+
+h8300
+dir
+
+v850
+dir
+
+e1
+dir
+
+mips
+dir
+
+sparc
+dir
+
+sh
+dir
+
+Makefile
+file
+
+
+
+
+2014-10-09T08:36:35.265625Z
+2a45996b8cdb1aaa49dfe62b51197874
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1277
+

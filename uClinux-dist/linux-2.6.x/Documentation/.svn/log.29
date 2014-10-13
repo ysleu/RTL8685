@@ -1,0 +1,40 @@
+<modify-entry
+   name="nommu-mmap.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="nommu-mmap.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="nommu-mmap.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/nommu-mmap.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="nommu-mmap.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="nommu-mmap.txt"
+   name=".svn/tmp/text-base/nommu-mmap.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/nommu-mmap.txt.svn-base"
+   name=".svn/tmp/text-base/nommu-mmap.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/nommu-mmap.txt.svn-base"/>
+<modify-entry
+   name="nommu-mmap.txt"
+   checksum="99e739629eec8cd8dad0dbe107af399e"/>
+<modify-entry
+   name="nommu-mmap.txt"
+   text-time="working"/>
+<modify-entry
+   name="nommu-mmap.txt"
+   working-size="working"/>

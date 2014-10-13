@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_dsp/dsp_r1/include
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_dsp/dsp_r1/include/typedef.h
+END
+lexra_radiax.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_dsp/dsp_r1/include/lexra_radiax.h
+END
+dspcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_dsp/dsp_r1/include/dspcodec.h
+END
+codec_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_dsp/dsp_r1/include/codec_api.h
+END
+t38_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_dsp/dsp_r1/include/t38_api.h
+END
+mips.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_dsp/dsp_r1/include/mips.h
+END
+radiax.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_dsp/dsp_r1/include/radiax.h
+END

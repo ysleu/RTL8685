@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/octet
+END
+der_length_octet_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/octet/der_length_octet_string.c
+END
+der_decode_octet_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/octet/der_decode_octet_string.c
+END
+der_encode_octet_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/octet/der_encode_octet_string.c
+END

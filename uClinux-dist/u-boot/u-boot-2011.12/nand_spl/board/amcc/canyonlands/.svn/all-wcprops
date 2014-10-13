@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/nand_spl/board/amcc/canyonlands
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/nand_spl/board/amcc/canyonlands/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/nand_spl/board/amcc/canyonlands/config.mk
+END
+ddr2_fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/nand_spl/board/amcc/canyonlands/ddr2_fixed.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/nand_spl/board/amcc/canyonlands/Makefile
+END

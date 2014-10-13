@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/slackware-dnsmasq
+END
+dnsmasq.SlackBuild
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/slackware-dnsmasq/dnsmasq.SlackBuild
+END
+dnsmasq.leasedir.diff.gz
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/slackware-dnsmasq/dnsmasq.leasedir.diff.gz
+END
+doinst.sh.gz
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/slackware-dnsmasq/doinst.sh.gz
+END
+rc.dnsmasq.gz
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/slackware-dnsmasq/rc.dnsmasq.gz
+END
+slack-desc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/slackware-dnsmasq/slack-desc
+END

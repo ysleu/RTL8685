@@ -1,0 +1,13 @@
+#!/bin/sh
+
+echo === Start to run rc0 ~ rc35 ===
+i=0
+while [ "$i" != "36" ]
+do
+	rc_file=/etc/init.d/rc$i
+	if [ -f "$rc_file" ]; then 
+		echo "----- do_rc [$rc_file] -----"	
+		$rc_file
+	fi	
+	i=$(($i+1))
+done

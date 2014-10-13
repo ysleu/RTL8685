@@ -1,0 +1,40 @@
+<modify-entry
+   name="parport-lowlevel.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="parport-lowlevel.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="parport-lowlevel.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/parport-lowlevel.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="parport-lowlevel.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="parport-lowlevel.txt"
+   name=".svn/tmp/text-base/parport-lowlevel.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/parport-lowlevel.txt.svn-base"
+   name=".svn/tmp/text-base/parport-lowlevel.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/parport-lowlevel.txt.svn-base"/>
+<modify-entry
+   name="parport-lowlevel.txt"
+   checksum="a7d58201239229037269d4fd7ba720ac"/>
+<modify-entry
+   name="parport-lowlevel.txt"
+   text-time="working"/>
+<modify-entry
+   name="parport-lowlevel.txt"
+   working-size="working"/>

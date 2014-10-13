@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/mips32/au1x00
+END
+au1x00_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/mips32/au1x00/au1x00_eth.c
+END
+au1x00_usb_ohci.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/mips32/au1x00/au1x00_usb_ohci.h
+END
+au1x00_usb_ohci.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/mips32/au1x00/au1x00_usb_ohci.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/mips32/au1x00/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/mips32/au1x00/Makefile
+END
+au1x00_serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/mips32/au1x00/au1x00_serial.c
+END

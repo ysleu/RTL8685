@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind
+END
+db.255
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind/db.255
+END
+db.0
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind/db.0
+END
+db.root
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind/db.root
+END
+named.conf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind/named.conf
+END
+rndc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind/rndc.conf
+END
+db.1.0.192.in-addr.arpa
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind/db.1.0.192.in-addr.arpa
+END
+db.2.0.192.in-addr.arpa
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind/db.2.0.192.in-addr.arpa
+END
+db.127
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind/db.127
+END
+db.2.1.192.in-addr.arpa
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind/db.2.1.192.in-addr.arpa
+END
+db.freeswan
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind/db.freeswan
+END
+db.local
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/freeswan/testing/baseconfigs/nic/etc/bind/db.local
+END

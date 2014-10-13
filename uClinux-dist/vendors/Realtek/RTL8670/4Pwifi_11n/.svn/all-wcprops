@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/4Pwifi_11n
+END
+config_kernel_01_fastpath
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/4Pwifi_11n/config_kernel_01_fastpath
+END
+config_user
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/4Pwifi_11n/config_user
+END
+config_kernel
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/4Pwifi_11n/config_kernel
+END
+config_kernel_02_8187
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/4Pwifi_11n/config_kernel_02_8187
+END

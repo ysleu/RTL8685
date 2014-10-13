@@ -1,0 +1,230 @@
+10
+
+dir
+63278
+http://cadinfo.realtek.com/svn/CN/cnsd5/trunk/adsl/SDK/uClinux-dist/lib/libc
+http://cadinfo.realtek.com/svn/CN/cnsd5
+
+
+
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6205ae0b-4059-46eb-a33d-b14f343f8a53
+
+arm
+dir
+
+serial
+dir
+
+termios
+dir
+
+include
+dir
+
+rpc
+dir
+
+or32
+dir
+
+m68k
+dir
+
+net
+dir
+
+getent
+dir
+
+shm
+dir
+
+math
+dir
+
+error
+dir
+
+regexp
+dir
+
+sysdeps
+dir
+
+misc
+dir
+
+malloc-simple
+dir
+
+time
+dir
+
+gtermcap
+dir
+
+stdio2
+dir
+
+main.c
+file
+
+
+
+
+2014-10-09T08:31:42.921875Z
+4cbe301fe04fe6fbf208dce125b4a7ae
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+489
+
+string
+dir
+
+malloc
+dir
+
+sparc
+dir
+
+Makefile
+file
+
+
+
+
+2014-10-09T08:31:42.921875Z
+2db771270b2d624a2f3b8b157c23a203
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2225
+
+COPYING.LIB
+file
+
+
+
+
+2014-10-09T08:31:42.937500Z
+55ca817ccb7d5b5b66355690e9abc605
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25265
+
+.cvsignore
+file
+
+
+
+
+2014-10-09T08:31:42.953125Z
+5527b96759cc507d48e4699bc69563f9
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/utctime
+END
+der_encode_utctime.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/utctime/der_encode_utctime.c
+END
+der_length_utctime.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/utctime/der_length_utctime.c
+END
+der_decode_utctime.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/utctime/der_decode_utctime.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/nand_spl/board/freescale/p1023rds
+END
+nand_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/nand_spl/board/freescale/p1023rds/nand_boot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/nand_spl/board/freescale/p1023rds/Makefile
+END

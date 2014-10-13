@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/dram_share
+END
+dram_share_z0w_z1r.c
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/dram_share/dram_share_z0w_z1r.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/dram_share/Makefile
+END

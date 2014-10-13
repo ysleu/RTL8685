@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/sample/tvdevice/web
+END
+tvcontrolSCPD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/sample/tvdevice/web/tvcontrolSCPD.xml
+END
+tvdevicepres.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/sample/tvdevice/web/tvdevicepres.html
+END
+tvdevicedesc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/sample/tvdevice/web/tvdevicedesc.xml
+END
+tvpictureSCPD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/sample/tvdevice/web/tvpictureSCPD.xml
+END

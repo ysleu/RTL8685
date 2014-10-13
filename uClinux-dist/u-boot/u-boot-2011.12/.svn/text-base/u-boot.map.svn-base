@@ -1,0 +1,2563 @@
+Archive member included because of file (symbol)
+
+/rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_lshrdi3.o)
+                              lib/libgeneric.o (__lshrdi3)
+/rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_ashldi3.o)
+                              lib/libgeneric.o (__ashldi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+console_buffer      0x201             common/libcommon.o
+NetArpWaitTry       0x4               net/libnet.o
+NetArpWaitPacketMAC
+                    0x4               net/libnet.o
+hist_list           0x50              common/libcommon.o
+env_htab            0xc               common/libcommon.o
+flash_info          0x1448            board/Realtek/rtl8686demo/librtl8686demo.o
+hist_lines          0x2814            common/libcommon.o
+NetOurEther         0x6               net/libnet.o
+NetOurIP            0x4               net/libnet.o
+NetServerIP         0x4               net/libnet.o
+monitor_flash_len   0x4               arch/mips/lib/libmips.o
+save_addr           0x4               common/libcommon.o
+___strtok           0x4               lib/libgeneric.o
+NetArpWaitTxPacketSize
+                    0x4               net/libnet.o
+NetArpWaitReplyIP   0x4               net/libnet.o
+NetArpWaitTxPacket  0x4               net/libnet.o
+NetRxPackets        0x10              net/libnet.o
+NetArpWaitPacketIP  0x4               net/libnet.o
+NetState            0x4               net/libnet.o
+BootpTry            0x4               net/libnet.o
+BootFile            0x80              net/libnet.o
+his_pad_char        0x1               common/libcommon.o
+NetServerEther      0x6               net/libnet.o
+pTxBDPtr            0x4               arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+pRxBDPtr            0x4               arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+os_data_init        0x4               common/libcommon.o
+NetOurSubnetMask    0x4               net/libnet.o
+NetBootFileSize     0x2               net/libnet.o
+descriptor_tx       0x380             arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+NetIPID             0x4               net/libnet.o
+NetRxPacket         0x4               net/libnet.o
+images              0x8c              common/libcommon.o
+send_ptr            0x4               common/libcommon.o
+BootpID             0x4               net/libnet.o
+NetOurGatewayIP     0x4               net/libnet.o
+NetEtherNullAddr    0x6               net/libnet.o
+os_data_char        0x4               common/libcommon.o
+NetRestartWrap      0x4               net/libnet.o
+save_size           0x4               common/libcommon.o
+descriptor_rx       0x200             arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+NetArpWaitPacketBuf
+                    0x620             net/libnet.o
+his_eol             0x1               common/libcommon.o
+NetTxPacket         0x4               net/libnet.o
+his_quote           0x1               common/libcommon.o
+NetBootFileXferSize
+                    0x4               net/libnet.o
+NetOurDNSIP         0x4               net/libnet.o
+NetRxPacketLen      0x4               net/libnet.o
+PktBuf              0x1e20            net/libnet.o
+send_parms          0x14              common/libcommon.o
+his_pad_count       0x4               common/libcommon.o
+NetArpWaitTimerStart
+                    0x4               net/libnet.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 arch/mips/cpu/rlx5281/start.o
+ .bss           0x00000000        0x0 arch/mips/cpu/rlx5281/start.o
+ .reginfo       0x00000000       0x18 arch/mips/cpu/rlx5281/start.o
+ .pdr           0x00000000       0x20 arch/mips/cpu/rlx5281/start.o
+ .reginfo       0x00000000       0x18 arch/mips/cpu/rlx5281/librlx5281.o
+ .text.write_one_tlb
+                0x00000000       0x1c arch/mips/cpu/rlx5281/librlx5281.o
+ .text.show_cpu_config
+                0x00000000      0x134 arch/mips/cpu/rlx5281/librlx5281.o
+ .data          0x00000000        0x0 arch/mips/cpu/rlx5281/librlx5281.o
+ .bss           0x00000000        0x0 arch/mips/cpu/rlx5281/librlx5281.o
+ .pdr           0x00000000      0x1a0 arch/mips/cpu/rlx5281/librlx5281.o
+ .reginfo       0x00000000       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._set_dmcr
+                0x00000000       0x20 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_ddr123_calibration
+                0x00000000        0x8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._update_phy_param
+                0x00000000       0x64 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_dqm_calibration
+                0x00000000      0x290 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_count_delay_group_tap
+                0x00000000        0x8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_dram_pins_connection
+                0x00000000        0x8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_hw_auto_calibration
+                0x00000000      0xa70 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._memctlc_show_error_status
+                0x00000000       0xd4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._memctlc_extract_c_r_f_tap
+                0x00000000       0x70 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._memctlc_extract_c_r_r_tap
+                0x00000000       0x70 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._memctlc_extract_c_w_tap
+                0x00000000       0x70 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._memctlc_set_c_r_f_tap
+                0x00000000       0x90 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._memctlc_set_c_r_r_tap
+                0x00000000       0x90 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._memctlc_set_c_w_tap
+                0x00000000       0x94 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._Inc_dqs_delay_tap_A
+                0x00000000      0x208 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_set_DRAM_chipnum
+                0x00000000       0x7c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_set_DRAM_banknum
+                0x00000000      0x100 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_set_DRAM_rownum
+                0x00000000      0x13c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_set_DRAM_colnum
+                0x00000000      0x114 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_set_DRAM_buswidth
+                0x00000000      0x10c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctl_dram_para_set
+                0x00000000       0x9c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_dram_size_detect
+                0x00000000      0x548 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._do_wfr_proc
+                0x00000000      0x118 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._memctlc_cali_phase_C
+                0x00000000      0x37c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._memctlc_cali_phase_B
+                0x00000000      0x200 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._memctlc_cali_phase_A
+                0x00000000      0x1f8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._memctlc_ddr_cali_dq
+                0x00000000      0x3b4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_dqs_calibration
+                0x00000000      0x1cc arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_dqs_calibration_expansion
+                0x00000000      0x380 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.memctlc_ddr_pin_detection
+                0x00000000      0x2b8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.sram_show_mapinfo
+                0x00000000      0x1c8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.sys_get_dramtype_freq_strapping
+                0x00000000       0x90 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.flash_com_addr_rot
+                0x00000000      0x32c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.flash_addr_rot
+                0x00000000      0x310 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.flash_walking_of_0
+                0x00000000      0x2f4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.flash_walking_of_1
+                0x00000000      0x2f0 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.flash_normal_patterns
+                0x00000000      0x490 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text._flash_test
+                0x00000000       0xd4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.flash_test
+                0x00000000      0x34c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata._memctlc_show_error_status
+                0x00000000       0x30 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.4323
+                0x00000000       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.4244
+                0x00000000       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3787
+                0x00000000       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3776
+                0x00000000       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3765
+                0x00000000       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3751
+                0x00000000       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3736
+                0x00000000       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3721
+                0x00000000       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3576
+                0x00000000       0x24 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3511
+                0x00000000       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3483
+                0x00000000       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3456
+                0x00000000       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3429
+                0x00000000       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3382
+                0x00000000       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.stf_patterns
+                0x00000000        0x8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3317
+                0x00000000       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3493
+                0x00000000       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3424
+                0x00000000       0x10 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3363
+                0x00000000       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3303
+                0x00000000       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3210
+                0x00000000       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .data          0x00000000        0x0 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .data.cali_pattern
+                0x00000000      0x160 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .data.ddr2_16bit_size
+                0x00000000       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .data.dramtype_freq_25oc
+                0x00000000       0x80 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .data.dramtype_freq_40oc
+                0x00000000       0x80 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .data.f        0x00000000        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .data.flash_patterns
+                0x00000000       0x38 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .bss           0x00000000        0x0 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .bss.txBDhead  0x00000000        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .pdr           0x00000000     0x1700 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .reginfo       0x00000000       0x18 arch/mips/lib/libmips.o
+ .text          0x00000000        0x0 arch/mips/lib/libmips.o
+ .data          0x00000000        0x0 arch/mips/lib/libmips.o
+ .data.mips_io_port_base
+                0x00000000        0x4 arch/mips/lib/libmips.o
+ .bss           0x00000000        0x0 arch/mips/lib/libmips.o
+ .pdr           0x00000000      0x120 arch/mips/lib/libmips.o
+ .reginfo       0x00000000       0x18 common/libcommon.o
+ .text          0x00000000        0x0 common/libcommon.o
+ .text.setenv_addr
+                0x00000000       0x68 common/libcommon.o
+ .text.setenv_ulong
+                0x00000000       0x4c common/libcommon.o
+ .text.disable_ctrlc
+                0x00000000       0x1c common/libcommon.o
+ .text.dbg      0x00000000       0x10 common/libcommon.o
+ .text.serial_printf
+                0x00000000       0x74 common/libcommon.o
+ .text.malloc_usable_size
+                0x00000000       0x58 common/libcommon.o
+ .text.mallopt  0x00000000       0x98 common/libcommon.o
+ .text.cfree    0x00000000       0x18 common/libcommon.o
+ .text.memalign
+                0x00000000      0x188 common/libcommon.o
+ .text.pvalloc  0x00000000       0x28 common/libcommon.o
+ .text.valloc   0x00000000       0x20 common/libcommon.o
+ .text.realloc  0x00000000      0x4fc common/libcommon.o
+ .text.flash_protect
+                0x00000000       0xd8 common/libcommon.o
+ .text.get_table_entry_id
+                0x00000000       0x8c common/libcommon.o
+ .text.genimg_get_comp_id
+                0x00000000       0x2c common/libcommon.o
+ .text.genimg_get_type_id
+                0x00000000       0x2c common/libcommon.o
+ .text.genimg_get_arch_id
+                0x00000000       0x2c common/libcommon.o
+ .text.genimg_get_os_id
+                0x00000000       0x2c common/libcommon.o
+ .text.getenv_bootm_low
+                0x00000000       0x5c common/libcommon.o
+ .text.getenv_bootm_size
+                0x00000000       0x94 common/libcommon.o
+ .text.getenv_bootm_mapsize
+                0x00000000       0x64 common/libcommon.o
+ .text.get_ram_size
+                0x00000000      0x134 common/libcommon.o
+ .data          0x00000000        0x0 common/libcommon.o
+ .data.mmap_threshold
+                0x00000000        0x4 common/libcommon.o
+ .bss           0x00000000        0x0 common/libcommon.o
+ .bss.n_mmaps_max
+                0x00000000        0x4 common/libcommon.o
+ .pdr           0x00000000     0x1960 common/libcommon.o
+ .reginfo       0x00000000       0x18 disk/libdisk.o
+ .text          0x00000000        0x0 disk/libdisk.o
+ .text.get_dev  0x00000000        0x8 disk/libdisk.o
+ .data          0x00000000        0x0 disk/libdisk.o
+ .bss           0x00000000        0x0 disk/libdisk.o
+ .pdr           0x00000000       0x20 disk/libdisk.o
+ .reginfo       0x00000000       0x18 drivers/pcmcia/libpcmcia.o
+ .text          0x00000000        0x0 drivers/pcmcia/libpcmcia.o
+ .data          0x00000000        0x0 drivers/pcmcia/libpcmcia.o
+ .bss           0x00000000        0x0 drivers/pcmcia/libpcmcia.o
+ .reginfo       0x00000000       0x18 drivers/rtc/librtc.o
+ .text          0x00000000        0x0 drivers/rtc/librtc.o
+ .text.mktime   0x00000000       0xcc drivers/rtc/librtc.o
+ .data          0x00000000        0x0 drivers/rtc/librtc.o
+ .bss           0x00000000        0x0 drivers/rtc/librtc.o
+ .pdr           0x00000000       0x60 drivers/rtc/librtc.o
+ .reginfo       0x00000000       0x18 fs/jffs2/libjffs2.o
+ .text          0x00000000        0x0 fs/jffs2/libjffs2.o
+ .text.cramfs_memset
+                0x00000000       0x28 fs/jffs2/libjffs2.o
+ .text.pull_bits
+                0x00000000       0x5c fs/jffs2/libjffs2.o
+ .text.pull_bit
+                0x00000000       0x34 fs/jffs2/libjffs2.o
+ .data          0x00000000        0x0 fs/jffs2/libjffs2.o
+ .bss           0x00000000        0x0 fs/jffs2/libjffs2.o
+ .pdr           0x00000000      0x320 fs/jffs2/libjffs2.o
+ .reginfo       0x00000000       0x18 lib/libgeneric.o
+ .text          0x00000000        0x0 lib/libgeneric.o
+ .text.crc7     0x00000000       0x40 lib/libgeneric.o
+ .text.display_options
+                0x00000000       0x3c lib/libgeneric.o
+ .text.hmatch_r
+                0x00000000       0xfc lib/libgeneric.o
+ .text.hstrstr_r
+                0x00000000      0x104 lib/libgeneric.o
+ .text.ldiv     0x00000000       0x3c lib/libgeneric.o
+ .text.strcmp_compar
+                0x00000000       0x20 lib/libgeneric.o
+ .text.strmhz   0x00000000       0xc0 lib/libgeneric.o
+ .text.strcat   0x00000000       0x34 lib/libgeneric.o
+ .text.strncat  0x00000000       0x50 lib/libgeneric.o
+ .text.strrchr  0x00000000       0x6c lib/libgeneric.o
+ .text.strspn   0x00000000       0x48 lib/libgeneric.o
+ .text.strpbrk  0x00000000       0x38 lib/libgeneric.o
+ .text.strtok   0x00000000       0xc0 lib/libgeneric.o
+ .text.strsep   0x00000000       0x64 lib/libgeneric.o
+ .text.strswab  0x00000000       0x48 lib/libgeneric.o
+ .text.bcopy    0x00000000       0x30 lib/libgeneric.o
+ .text.memscan  0x00000000       0x28 lib/libgeneric.o
+ .text.strstr   0x00000000       0xb8 lib/libgeneric.o
+ .text.memchr   0x00000000       0x30 lib/libgeneric.o
+ .text.mdelay   0x00000000       0x4c lib/libgeneric.o
+ .text.ustrtoul
+                0x00000000       0xb4 lib/libgeneric.o
+ .text.simple_itoa
+                0x00000000       0x54 lib/libgeneric.o
+ .text.__assert_fail
+                0x00000000       0x2c lib/libgeneric.o
+ .rodata.crc7_syndrome_table
+                0x00000000      0x100 lib/libgeneric.o
+ .data          0x00000000        0x0 lib/libgeneric.o
+ .bss           0x00000000        0x0 lib/libgeneric.o
+ .bss.local.3838
+                0x00000000       0x18 lib/libgeneric.o
+ .pdr           0x00000000      0x860 lib/libgeneric.o
+ COMMON         0x00000000        0x4 lib/libgeneric.o
+ .reginfo       0x00000000       0x18 lib/zlib/libz.o
+ .text          0x00000000        0x0 lib/zlib/libz.o
+ .text.inflateInit_
+                0x00000000       0x28 lib/zlib/libz.o
+ .data          0x00000000        0x0 lib/zlib/libz.o
+ .data.rel.ro.local.z_errmsg
+                0x00000000       0x28 lib/zlib/libz.o
+ .bss           0x00000000        0x0 lib/zlib/libz.o
+ .pdr           0x00000000      0x140 lib/zlib/libz.o
+ .reginfo       0x00000000       0x18 net/libnet.o
+ .text          0x00000000        0x0 net/libnet.o
+ .text.eth_get_dev_by_index
+                0x00000000       0x44 net/libnet.o
+ .text.eth_setenv_enetaddr
+                0x00000000       0x68 net/libnet.o
+ .text.eth_get_dev_by_name
+                0x00000000       0xb8 net/libnet.o
+ .text.VLAN_to_string
+                0x00000000       0x50 net/libnet.o
+ .rodata.__FUNCTION__.3794
+                0x00000000       0x14 net/libnet.o
+ .data          0x00000000        0x0 net/libnet.o
+ .data.TftpRRQTimeoutMSecs
+                0x00000000        0x4 net/libnet.o
+ .bss           0x00000000        0x0 net/libnet.o
+ .pdr           0x00000000      0x640 net/libnet.o
+ .reginfo       0x00000000       0x18 board/Realtek/rtl8686demo/librtl8686demo.o
+ .text          0x00000000      0x140 board/Realtek/rtl8686demo/librtl8686demo.o
+ .text.__spi_flash_preinit
+                0x00000000      0x160 board/Realtek/rtl8686demo/librtl8686demo.o
+ .text._set_dram_buswidth
+                0x00000000       0x50 board/Realtek/rtl8686demo/librtl8686demo.o
+ .text.get_input
+                0x00000000       0xbc board/Realtek/rtl8686demo/librtl8686demo.o
+ .text.do_mem_mtest_dtr
+                0x00000000      0x2a4 board/Realtek/rtl8686demo/librtl8686demo.o
+ .data          0x00000000        0x0 board/Realtek/rtl8686demo/librtl8686demo.o
+ .bss           0x00000000        0x0 board/Realtek/rtl8686demo/librtl8686demo.o
+ .pdr           0x00000000      0x420 board/Realtek/rtl8686demo/librtl8686demo.o
+ .data          0x00000000        0x0 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_lshrdi3.o)
+ .bss           0x00000000        0x0 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_lshrdi3.o)
+ .reginfo       0x00000000       0x18 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_lshrdi3.o)
+ .pdr           0x00000000       0x20 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_lshrdi3.o)
+ .data          0x00000000        0x0 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_ashldi3.o)
+ .reginfo       0x00000000       0x18 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_ashldi3.o)
+ .pdr           0x00000000       0x20 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_ashldi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x00000000                . = 0x0
+                0x00000000                . = ALIGN (0x4)
+
+.text           0x9fc00000    0x27600
+ *(.text*)
+ .text          0x9fc00000      0x5b0 arch/mips/cpu/rlx5281/start.o
+                0x9fc00000                _start
+                0x9fc004a8                relocate_code
+ .text          0x9fc005b0       0xc0 arch/mips/cpu/rlx5281/librlx5281.o
+                0x9fc005b0                mips_cache_reset
+                0x9fc005e8                dcache_status
+                0x9fc005f8                dcache_disable
+                0x9fc00610                rlx5281_cache_flush_dcache
+                0x9fc00640                rlx5281_cache_invali_icache
+ .text.set_cpu_config
+                0x9fc00670       0xbc arch/mips/cpu/rlx5281/librlx5281.o
+                0x9fc00670                set_cpu_config
+ .text.next_cpu_config
+                0x9fc0072c       0x84 arch/mips/cpu/rlx5281/librlx5281.o
+                0x9fc0072c                next_cpu_config
+ .text.flush_cache
+                0x9fc007b0       0x38 arch/mips/cpu/rlx5281/librlx5281.o
+                0x9fc007b0                flush_cache
+ .text.do_reset
+                0x9fc007e8       0x58 arch/mips/cpu/rlx5281/librlx5281.o
+                0x9fc007e8                do_reset
+ .text.enable_interrupts
+                0x9fc00840        0x8 arch/mips/cpu/rlx5281/librlx5281.o
+                0x9fc00840                enable_interrupts
+ .text.disable_interrupts
+                0x9fc00848        0x8 arch/mips/cpu/rlx5281/librlx5281.o
+                0x9fc00848                disable_interrupts
+ .text          0x9fc00850     0x2040 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc00850                memctls_init
+                0x9fc00974                memctls_is_DDR
+                0x9fc009b0                memctls_is_DDR2
+                0x9fc009ec                memctls_is_DDR3
+                0x9fc00a30                memctls_ddr_calibration
+                0x9fc018b0                memctls_dram_auto_detect
+                0x9fc01c3c                memctls_ddr1_dll_reset
+                0x9fc01dbc                memctls_ddr2_dll_reset
+                0x9fc02024                memctls_ddr3_dll_reset
+                0x9fc022fc                dsp_burst_read_write
+                0x9fc0234c                memctls_trig_dram_reinit
+                0x9fc02420                _sys_adj_mem_clk
+                0x9fc024ec                sys_adj_mem_clk
+                0x9fc02550                lowlevel_init
+                0x9fc02620                CP0_status_read
+                0x9fc0262c                CP0_status_write
+                0x9fc02640                en_wb_buf_merge
+                0x9fc02670                dis_wb_buf_merge
+                0x9fc026a0                is_wb_buf_merge_en
+                0x9fc026c8                en_wb_buf
+                0x9fc026f8                dis_wb_buf
+                0x9fc02728                is_wb_en
+                0x9fc02750                en_cache_wa
+                0x9fc02780                dis_cache_wa
+                0x9fc027b0                is_wa_en
+                0x9fc027dc                en_uncache_write_merg
+                0x9fc027f8                dis_uncache_write_merg
+                0x9fc02814                dis_bran_predic
+                0x9fc02824                en_bran_predic
+                0x9fc02838                is_b_predic_en
+                0x9fc02860                lx5281_WriteBpctl
+                0x9fc02874                lx5281_ReadBpctl
+ .text.memctlc_set_dqm_delay
+                0x9fc02890       0xe8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02890                memctlc_set_dqm_delay
+ .text.memctlc_config_DRAM_size
+                0x9fc02978       0x28 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02978                memctlc_config_DRAM_size
+ .text._get_DRAM_csnum
+                0x9fc029a0       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc029a0                _get_DRAM_csnum
+ .text.memctlc_dram_size
+                0x9fc029bc       0x54 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc029bc                memctlc_dram_size
+ .text.memctlc_is_DDR
+                0x9fc02a10       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02a10                memctlc_is_DDR
+ .text.memctlc_is_DDR3
+                0x9fc02a2c       0x24 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02a2c                memctlc_is_DDR3
+ .text.memctlc_is_DDR2
+                0x9fc02a50       0x20 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02a50                memctlc_is_DDR2
+ .text._DTR_wtr_frq_mhz
+                0x9fc02a70       0x3c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02a70                _DTR_wtr_frq_mhz
+ .text._DTR_rtp_frq_mhz
+                0x9fc02aac       0x3c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02aac                _DTR_rtp_frq_mhz
+ .text._DTR_rp_frq_mhz
+                0x9fc02ae8       0x38 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02ae8                _DTR_rp_frq_mhz
+ .text._DTR_rrd_frq_mhz
+                0x9fc02b20       0x3c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02b20                _DTR_rrd_frq_mhz
+ .text._DTR_fawg_frq_mhz
+                0x9fc02b5c       0x38 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02b5c                _DTR_fawg_frq_mhz
+ .text._DTR_rcd_frq_mhz
+                0x9fc02b94       0x3c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02b94                _DTR_rcd_frq_mhz
+ .text._DTR_ras_frq_mhz
+                0x9fc02bd0       0x44 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02bd0                _DTR_ras_frq_mhz
+ .text._DTR_rfc_frq_mhz
+                0x9fc02c14       0x38 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02c14                _DTR_rfc_frq_mhz
+ .text._DTR_wr_frq_mhz
+                0x9fc02c4c       0x3c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02c4c                _DTR_wr_frq_mhz
+ .text._DTR_DDR3_MRS_setting
+                0x9fc02c88      0x19c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02c88                _DTR_DDR3_MRS_setting
+ .text._DTR_DDR2_MRS_setting
+                0x9fc02e24      0x118 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02e24                _DTR_DDR2_MRS_setting
+ .text._DTR_DDR1_MRS_setting
+                0x9fc02f3c       0x7c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02f3c                _DTR_DDR1_MRS_setting
+ .text._DTR_wr  0x9fc02fb8       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02fb8                _DTR_wr
+ .text._DTR_rrd
+                0x9fc02fd4       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02fd4                _DTR_rrd
+ .text._DTR_rtp
+                0x9fc02ff0       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc02ff0                _DTR_rtp
+ .text._DTR_wtr
+                0x9fc0300c       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0300c                _DTR_wtr
+ .text._DTR_cwl
+                0x9fc03028       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03028                _DTR_cwl
+ .text._DTR_two_cas
+                0x9fc03044       0x2c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03044                _DTR_two_cas
+ .text._DCR_get_chipsel
+                0x9fc03070       0x24 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03070                _DCR_get_chipsel
+ .text._DCR_get_rowcnt
+                0x9fc03094       0x20 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03094                _DCR_get_rowcnt
+ .text._DCR_get_bankcnt
+                0x9fc030b4       0x38 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc030b4                _DCR_get_bankcnt
+ .text.memctlc_dram_phy_reset
+                0x9fc030ec       0x2c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc030ec                memctlc_dram_phy_reset
+ .text.memctlc_ddr1_dll_reset
+                0x9fc03118       0xf0 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03118                memctlc_ddr1_dll_reset
+ .text.memctlc_clk_rev_check
+                0x9fc03208       0x8c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03208                memctlc_clk_rev_check
+ .text.memctlc_check_90phase_range
+                0x9fc03294      0x160 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03294                memctlc_check_90phase_range
+ .text.memctlc_check_DQS_range
+                0x9fc033f4      0x1c4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc033f4                memctlc_check_DQS_range
+ .text._DCR_get_colcnt
+                0x9fc035b8       0x60 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc035b8                _DCR_get_colcnt
+ .text._DCR_get_buswidth
+                0x9fc03618       0x70 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03618                _DCR_get_buswidth
+ .text.memctlc_extract_min_dqs_window
+                0x9fc03688       0xbc arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03688                memctlc_extract_min_dqs_window
+ .text.memctlc_check_DCR
+                0x9fc03744      0x16c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03744                memctlc_check_DCR
+ .text._DTR_suggestion
+                0x9fc038b0      0x3e4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc038b0                _DTR_suggestion
+ .text.memctlc_DDR3_config_DTR
+                0x9fc03c94      0x234 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03c94                memctlc_DDR3_config_DTR
+ .text._DTR_refresh_freq_mhz
+                0x9fc03ec8       0xa8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03ec8                _DTR_refresh_freq_mhz
+ .text.memctlc_check_DTR_DDR
+                0x9fc03f70      0x660 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc03f70                memctlc_check_DTR_DDR
+ .text.memctlc_check_DTR_DDR2
+                0x9fc045d0      0x8d0 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc045d0                memctlc_check_DTR_DDR2
+ .text.memctlc_check_DTR_DDR3
+                0x9fc04ea0      0xac8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc04ea0                memctlc_check_DTR_DDR3
+ .text.memctlc_check_DTR
+                0x9fc05968       0xa0 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc05968                memctlc_check_DTR
+ .text.memctlc_DDR2_config_DTR
+                0x9fc05a08      0x1b4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc05a08                memctlc_DDR2_config_DTR
+ .text.memctlc_config_DTR
+                0x9fc05bbc       0x70 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc05bbc                memctlc_config_DTR
+ .text.memctlc_ZQ_calibration
+                0x9fc05c2c      0x100 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc05c2c                memctlc_ZQ_calibration
+ .text.memctlc_check_ZQ
+                0x9fc05d2c       0xb4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc05d2c                memctlc_check_ZQ
+ .text.memctlc_ddr2_dll_reset
+                0x9fc05de0      0x14c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc05de0                memctlc_ddr2_dll_reset
+ .text.memctlc_ddr3_dll_reset
+                0x9fc05f2c      0x1f8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc05f2c                memctlc_ddr3_dll_reset
+ .text.memctlc_init_dram
+                0x9fc06124      0x480 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06124                memctlc_init_dram
+ .text.__memctl_unmapping_disable
+                0x9fc065a4       0x60 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc065a4                __memctl_unmapping_disable
+ .text.memctl_unmapping_disable
+                0x9fc06604       0x88 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06604                memctl_unmapping_disable
+ .text.__memctl_unmapping
+                0x9fc0668c       0x80 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0668c                __memctl_unmapping
+ .text.memctl_unmapping
+                0x9fc0670c      0x170 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0670c                memctl_unmapping
+ .text._is_Master_CPU
+                0x9fc0687c        0x8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0687c                _is_Master_CPU
+ .text.soc_vir_to_phy_addr
+                0x9fc06884       0x10 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06884                soc_vir_to_phy_addr
+ .text.__sram_mapping
+                0x9fc06894       0x8c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06894                __sram_mapping
+ .text.__sram_unmapping
+                0x9fc06920       0x60 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06920                __sram_unmapping
+ .text.sram_unmapping
+                0x9fc06980       0x5c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06980                sram_unmapping
+ .text.sram_mapping
+                0x9fc069dc      0x1e0 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc069dc                sram_mapping
+ .text._is_CKSEL_25MHz
+                0x9fc06bbc       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06bbc                _is_CKSEL_25MHz
+ .text.sys_DSP_freq_mhz
+                0x9fc06bd8       0x64 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06bd8                sys_DSP_freq_mhz
+ .text.sys_CPU_freq_mhz
+                0x9fc06c3c       0x64 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06c3c                sys_CPU_freq_mhz
+ .text.sys_LX_freq_mhz
+                0x9fc06ca0       0xa8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06ca0                sys_LX_freq_mhz
+ .text.sys_DRAM_freq_mhz
+                0x9fc06d48       0x84 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06d48                sys_DRAM_freq_mhz
+ .text.sys_adj_clk
+                0x9fc06dcc      0x224 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06dcc                sys_adj_clk
+ .text.disable_DRAM_prefech
+                0x9fc06ff0       0x58 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc06ff0                disable_DRAM_prefech
+ .text.enable_DRAM_prefech
+                0x9fc07048       0xdc arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc07048                enable_DRAM_prefech
+ .text.cache_flush_adjacent_toggle_line128
+                0x9fc07124      0x300 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc07124                cache_flush_adjacent_toggle_line128
+ .text.cache_flush_dispersed_toggle_word
+                0x9fc07424      0x380 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc07424                cache_flush_dispersed_toggle_word
+ .text.cache_flush_adjacent_toggle_word
+                0x9fc077a4      0x1b4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc077a4                cache_flush_adjacent_toggle_word
+ .text.cache_flush_adj_addr
+                0x9fc07958      0x174 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc07958                cache_flush_adj_addr
+ .text.unaligned_test
+                0x9fc07acc      0x67c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc07acc                unaligned_test
+ .text.dram_byte_access
+                0x9fc08148      0x1f8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc08148                dram_byte_access
+ .text.dram_half_word_access
+                0x9fc08340      0x1e8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc08340                dram_half_word_access
+ .text.dram_com_addr_rot
+                0x9fc08528      0x22c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc08528                dram_com_addr_rot
+ .text.dram_addr_rot
+                0x9fc08754      0x21c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc08754                dram_addr_rot
+ .text.dram_walking_of_0
+                0x9fc08970      0x1e0 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc08970                dram_walking_of_0
+ .text.dram_walking_of_1
+                0x9fc08b50      0x1e0 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc08b50                dram_walking_of_1
+ .text.dram_normal_patterns
+                0x9fc08d30      0x1dc arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc08d30                dram_normal_patterns
+ .text.cache_flush_dispersed
+                0x9fc08f0c      0x528 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc08f0c                cache_flush_dispersed
+ .text.cache_flush_adjacent
+                0x9fc09434      0x2f8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc09434                cache_flush_adjacent
+ .text.cache_flush_test
+                0x9fc0972c      0x320 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0972c                cache_flush_test
+ .text.memcpy_test
+                0x9fc09a4c      0x1f8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc09a4c                memcpy_test
+ .text._dram_test
+                0x9fc09c44      0x154 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc09c44                _dram_test
+ .text.dram_test
+                0x9fc09d98      0x27c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc09d98                dram_test
+ .text.get_timer
+                0x9fc0a014       0xb4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a014                get_timer
+ .text.__udelay
+                0x9fc0a0c8       0x68 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a0c8                __udelay
+ .text.rtl8676_get_busfreq
+                0x9fc0a130       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a130                rtl8676_get_busfreq
+ .text.timer_init
+                0x9fc0a148       0x8c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a148                timer_init
+ .text.serial_putc
+                0x9fc0a1d4       0x74 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a1d4                serial_putc
+ .text.serial_puts
+                0x9fc0a248       0x50 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a248                serial_puts
+ .text.serial_tstc
+                0x9fc0a298       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a298                serial_tstc
+ .text.serial_getc
+                0x9fc0a2ac       0x48 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a2ac                serial_getc
+ .text.serial_setbrg
+                0x9fc0a2f4       0xb4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a2f4                serial_setbrg
+ .text.serial_init
+                0x9fc0a3a8       0x64 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a3a8                serial_init
+ .text.cpu_eth_init
+                0x9fc0a40c       0xf0 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a40c                cpu_eth_init
+ .text.rtl8676_write_hwaddr
+                0x9fc0a4fc       0x34 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.rtl8676_halt
+                0x9fc0a530       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.rtl8676_recv
+                0x9fc0a548       0x58 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.rtl8676_send
+                0x9fc0a5a0       0x38 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.rtl8676_init
+                0x9fc0a5d8       0x34 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .text.Lan_RXENABLE
+                0x9fc0a60c        0x8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a60c                Lan_RXENABLE
+ .text.Lan_RXDISABLE
+                0x9fc0a614        0x8 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a614                Lan_RXDISABLE
+ .text.Lan_Stop
+                0x9fc0a61c       0x64 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a61c                Lan_Stop
+ .text.Lan_Initialize
+                0x9fc0a680      0x238 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a680                Lan_Initialize
+ .text.Lan_WriteMac
+                0x9fc0a8b8       0x7c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a8b8                Lan_WriteMac
+ .text.isEthDbgLv
+                0x9fc0a934       0x50 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a934                isEthDbgLv
+ .text.Lan_Transmit
+                0x9fc0a984      0x254 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0a984                Lan_Transmit
+ .text.Lan_Receive
+                0x9fc0abd8      0x24c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0abd8                Lan_Receive
+ .text.swCore_init
+                0x9fc0ae24      0x20c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc0ae24                swCore_init
+ .text.__board_early_init_f
+                0x9fc0b030        0x8 arch/mips/lib/libmips.o
+                0x9fc0b030                __board_early_init_f
+                0x9fc0b030                board_early_init_f
+ .text.hang     0x9fc0b038       0x30 arch/mips/lib/libmips.o
+                0x9fc0b038                hang
+ .text.init_func_ram
+                0x9fc0b068       0x98 arch/mips/lib/libmips.o
+ .text.display_banner
+                0x9fc0b100       0x3c arch/mips/lib/libmips.o
+ .text.init_baudrate
+                0x9fc0b13c       0x58 arch/mips/lib/libmips.o
+ .text.board_init_r
+                0x9fc0b194      0x214 arch/mips/lib/libmips.o
+                0x9fc0b194                board_init_r
+ .text.board_init_f
+                0x9fc0b3a8      0x118 arch/mips/lib/libmips.o
+                0x9fc0b3a8                board_init_f
+ .text.linux_env_set
+                0x9fc0b4c0      0x128 arch/mips/lib/libmips.o
+ .text.do_bootm_linux
+                0x9fc0b5e8      0x404 arch/mips/lib/libmips.o
+                0x9fc0b5e8                do_bootm_linux
+ .text.do_bdinfo
+                0x9fc0b9ec      0x17c common/libcommon.o
+                0x9fc0b9ec                do_bdinfo
+ .text.do_go_exec
+                0x9fc0bb68       0x14 common/libcommon.o
+                0x9fc0bb68                do_go_exec
+ .text.do_go    0x9fc0bb7c       0xd0 common/libcommon.o
+                0x9fc0bb7c                do_go
+ .text.__arch_preboot_os
+                0x9fc0bc4c        0x8 common/libcommon.o
+                0x9fc0bc4c                arch_preboot_os
+                0x9fc0bc4c                __arch_preboot_os
+ .text.do_imls  0x9fc0bc54      0x164 common/libcommon.o
+ .text.image_info
+                0x9fc0bdb8      0x140 common/libcommon.o
+ .text.do_iminfo
+                0x9fc0bef8       0xe8 common/libcommon.o
+                0x9fc0bef8                do_iminfo
+ .text.do_bootd
+                0x9fc0bfe0       0x50 common/libcommon.o
+                0x9fc0bfe0                do_bootd
+ .text.do_bootm_rtems
+                0x9fc0c030       0x78 common/libcommon.o
+ .text.do_bootm_netbsd
+                0x9fc0c0a8      0x1e8 common/libcommon.o
+ .text.bootm_load_os
+                0x9fc0c290      0x240 common/libcommon.o
+ .text.bootm_start
+                0x9fc0c4d0      0x4dc common/libcommon.o
+ .text.do_bootm_subcommand
+                0x9fc0c9ac      0x288 common/libcommon.o
+                0x9fc0c9ac                do_bootm_subcommand
+ .text.do_bootm
+                0x9fc0cc34      0x410 common/libcommon.o
+                0x9fc0cc34                do_bootm
+ .text.bootm_maybe_autostart
+                0x9fc0d044       0xbc common/libcommon.o
+                0x9fc0d044                bootm_maybe_autostart
+ .text.do_coninfo
+                0x9fc0d100      0x184 common/libcommon.o
+                0x9fc0d100                do_coninfo
+ .text.do_echo  0x9fc0d284       0xf8 common/libcommon.o
+                0x9fc0d284                do_echo
+ .text.flash_sect_roundb
+                0x9fc0d37c       0xdc common/libcommon.o
+                0x9fc0d37c                flash_sect_roundb
+ .text.flash_fill_sect_ranges
+                0x9fc0d458      0x1ac common/libcommon.o
+ .text.flash_sect_protect
+                0x9fc0d604      0x128 common/libcommon.o
+                0x9fc0d604                flash_sect_protect
+ .text.addr_spec
+                0x9fc0d72c      0x104 common/libcommon.o
+ .text.abbrev_spec
+                0x9fc0d830      0x1c4 common/libcommon.o
+ .text.do_protect
+                0x9fc0d9f4      0x390 common/libcommon.o
+                0x9fc0d9f4                do_protect
+ .text.flash_sect_erase
+                0x9fc0dd84       0xdc common/libcommon.o
+                0x9fc0dd84                flash_sect_erase
+ .text.do_flerase
+                0x9fc0de60      0x24c common/libcommon.o
+                0x9fc0de60                do_flerase
+ .text.do_flinfo
+                0x9fc0e0ac       0xc0 common/libcommon.o
+                0x9fc0e0ac                do_flinfo
+ .text.do_help  0x9fc0e16c       0x68 common/libcommon.o
+                0x9fc0e16c                do_help
+ .text.evalexp  0x9fc0e1d4       0xb4 common/libcommon.o
+ .text.binary_test
+                0x9fc0e288      0x234 common/libcommon.o
+                0x9fc0e288                binary_test
+ .text.do_itest
+                0x9fc0e4bc       0xd8 common/libcommon.o
+                0x9fc0e4bc                do_itest
+ .text.jffs2_part_info
+                0x9fc0e594       0xc0 common/libcommon.o
+ .text.mtdparts_init
+                0x9fc0e654      0x484 common/libcommon.o
+                0x9fc0e654                mtdparts_init
+ .text.do_jffs2_fsinfo
+                0x9fc0ead8       0xa4 common/libcommon.o
+                0x9fc0ead8                do_jffs2_fsinfo
+ .text.do_jffs2_ls
+                0x9fc0eb7c       0xa4 common/libcommon.o
+                0x9fc0eb7c                do_jffs2_ls
+ .text.do_jffs2_fsload
+                0x9fc0ec20      0x1c8 common/libcommon.o
+                0x9fc0ec20                do_jffs2_fsload
+ .text.ktrans   0x9fc0ede8       0x3c common/libcommon.o
+                0x9fc0ede8                ktrans
+ .text.chk1     0x9fc0ee24       0x2c common/libcommon.o
+                0x9fc0ee24                chk1
+ .text.bin_data_init
+                0x9fc0ee50       0x28 common/libcommon.o
+ .text.bin_data_char
+                0x9fc0ee78       0x3c common/libcommon.o
+ .text.k_data_init
+                0x9fc0eeb4       0x24 common/libcommon.o
+                0x9fc0eeb4                k_data_init
+ .text.k_data_save
+                0x9fc0eed8       0x40 common/libcommon.o
+                0x9fc0eed8                k_data_save
+ .text.k_data_restore
+                0x9fc0ef18       0x40 common/libcommon.o
+                0x9fc0ef18                k_data_restore
+ .text.k_data_char
+                0x9fc0ef58       0xa4 common/libcommon.o
+                0x9fc0ef58                k_data_char
+ .text.send_pad
+                0x9fc0effc       0x64 common/libcommon.o
+                0x9fc0effc                send_pad
+ .text.s1_sendpacket
+                0x9fc0f060       0x5c common/libcommon.o
+                0x9fc0f060                s1_sendpacket
+ .text.handle_send_packet
+                0x9fc0f0bc      0x244 common/libcommon.o
+                0x9fc0f0bc                handle_send_packet
+ .text.send_nack
+                0x9fc0f300       0x8c common/libcommon.o
+                0x9fc0f300                send_nack
+ .text.send_ack
+                0x9fc0f38c       0x8c common/libcommon.o
+                0x9fc0f38c                send_ack
+ .text.load_serial_ymodem
+                0x9fc0f418      0x1e8 common/libcommon.o
+ .text.getcxmodem
+                0x9fc0f600       0x4c common/libcommon.o
+ .text.do_load_serial_bin
+                0x9fc0f64c      0x714 common/libcommon.o
+                0x9fc0f64c                do_load_serial_bin
+ .text.load_serial
+                0x9fc0fd60      0x344 common/libcommon.o
+ .text.do_load_serial
+                0x9fc100a4      0x164 common/libcommon.o
+                0x9fc100a4                do_load_serial
+ .text.do_mem_crc
+                0x9fc10208      0x11c common/libcommon.o
+                0x9fc10208                do_mem_crc
+ .text.do_mem_base
+                0x9fc10324       0x68 common/libcommon.o
+                0x9fc10324                do_mem_base
+ .text.do_mem_mtest
+                0x9fc1038c      0x258 common/libcommon.o
+                0x9fc1038c                do_mem_mtest
+ .text.do_mem_loop
+                0x9fc105e4      0x17c common/libcommon.o
+                0x9fc105e4                do_mem_loop
+ .text.do_mem_cmp
+                0x9fc10760      0x244 common/libcommon.o
+                0x9fc10760                do_mem_cmp
+ .text.do_mem_mw
+                0x9fc109a4      0x15c common/libcommon.o
+                0x9fc109a4                do_mem_mw
+ .text.do_mem_cp
+                0x9fc10b00      0x1f0 common/libcommon.o
+                0x9fc10b00                do_mem_cp
+ .text.mod_mem  0x9fc10cf0      0x228 common/libcommon.o
+ .text.do_mem_nm
+                0x9fc10f18       0x48 common/libcommon.o
+                0x9fc10f18                do_mem_nm
+ .text.do_mem_mm
+                0x9fc10f60       0x48 common/libcommon.o
+                0x9fc10f60                do_mem_mm
+ .text.do_mem_md
+                0x9fc10fa8      0x174 common/libcommon.o
+                0x9fc10fa8                do_mem_md
+ .text.do_sleep
+                0x9fc1111c       0xf4 common/libcommon.o
+                0x9fc1111c                do_sleep
+ .text.netboot_common
+                0x9fc11210      0x3bc common/libcommon.o
+ .text.do_tftpb
+                0x9fc115cc       0x24 common/libcommon.o
+                0x9fc115cc                do_tftpb
+ .text.do_bootp
+                0x9fc115f0       0x24 common/libcommon.o
+                0x9fc115f0                do_bootp
+ .text.get_env_id
+                0x9fc11614       0x1c common/libcommon.o
+                0x9fc11614                get_env_id
+ .text.do_env   0x9fc11630       0xb4 common/libcommon.o
+ .text.do_env_delete
+                0x9fc116e4       0x38 common/libcommon.o
+ .text.do_env_import
+                0x9fc1171c      0x300 common/libcommon.o
+ .text.do_env_default
+                0x9fc11a1c       0x84 common/libcommon.o
+ .text.env_reloc
+                0x9fc11aa0       0x24 common/libcommon.o
+                0x9fc11aa0                env_reloc
+ .text.envmatch
+                0x9fc11ac4       0xac common/libcommon.o
+                0x9fc11ac4                envmatch
+ .text.getenv_f
+                0x9fc11b70      0x134 common/libcommon.o
+                0x9fc11b70                getenv_f
+ .text.do_env_save
+                0x9fc11ca4       0x50 common/libcommon.o
+                0x9fc11ca4                do_env_save
+ .text.getenv   0x9fc11cf4       0x8c common/libcommon.o
+                0x9fc11cf4                getenv
+ .text.getenv_ulong
+                0x9fc11d80       0x6c common/libcommon.o
+                0x9fc11d80                getenv_ulong
+ .text.env_print
+                0x9fc11dec       0xe0 common/libcommon.o
+ .text.do_env_print
+                0x9fc11ecc      0x100 common/libcommon.o
+                0x9fc11ecc                do_env_print
+ .text._do_env_set
+                0x9fc11fcc      0x518 common/libcommon.o
+                0x9fc11fcc                _do_env_set
+ .text.do_env_set
+                0x9fc124e4       0x3c common/libcommon.o
+                0x9fc124e4                do_env_set
+ .text.setenv   0x9fc12520       0x70 common/libcommon.o
+                0x9fc12520                setenv
+ .text.do_env_export
+                0x9fc12590      0x318 common/libcommon.o
+ .text.do_env_edit
+                0x9fc128a8       0xc0 common/libcommon.o
+                0x9fc128a8                do_env_edit
+ .text.source   0x9fc12968      0x244 common/libcommon.o
+                0x9fc12968                source
+ .text.do_source
+                0x9fc12bac       0x78 common/libcommon.o
+                0x9fc12bac                do_source
+ .text.do_version
+                0x9fc12c24       0x64 common/libcommon.o
+                0x9fc12c24                do_version
+ .text.do_imgextract
+                0x9fc12c88      0x3d8 common/libcommon.o
+                0x9fc12c88                do_imgextract
+ .text.fixup_cmdtable
+                0x9fc13060       0x78 common/libcommon.o
+                0x9fc13060                fixup_cmdtable
+ .text.cmd_get_data_size
+                0x9fc130d8       0x94 common/libcommon.o
+                0x9fc130d8                cmd_get_data_size
+ .text.cmd_usage
+                0x9fc1316c       0xa0 common/libcommon.o
+                0x9fc1316c                cmd_usage
+ .text.find_cmd_tbl
+                0x9fc1320c      0x110 common/libcommon.o
+                0x9fc1320c                find_cmd_tbl
+ .text.find_cmd
+                0x9fc1331c       0x3c common/libcommon.o
+                0x9fc1331c                find_cmd
+ .text._do_help
+                0x9fc13358      0x238 common/libcommon.o
+                0x9fc13358                _do_help
+ .text.console_setfile
+                0x9fc13590       0xd0 common/libcommon.o
+ .text.fgetc    0x9fc13660       0x3c common/libcommon.o
+                0x9fc13660                fgetc
+ .text.ftstc    0x9fc1369c       0x3c common/libcommon.o
+                0x9fc1369c                ftstc
+ .text.fputc    0x9fc136d8       0x44 common/libcommon.o
+                0x9fc136d8                fputc
+ .text.fputs    0x9fc1371c       0x40 common/libcommon.o
+                0x9fc1371c                fputs
+ .text.had_ctrlc
+                0x9fc1375c       0x1c common/libcommon.o
+                0x9fc1375c                had_ctrlc
+ .text.clear_ctrlc
+                0x9fc13778       0x18 common/libcommon.o
+                0x9fc13778                clear_ctrlc
+ .text.console_init_f
+                0x9fc13790       0x14 common/libcommon.o
+                0x9fc13790                console_init_f
+ .text.stdio_print_current_devices
+                0x9fc137a4        0x8 common/libcommon.o
+                0x9fc137a4                stdio_print_current_devices
+ .text.console_init_r
+                0x9fc137ac      0x154 common/libcommon.o
+                0x9fc137ac                console_init_r
+ .text.search_device
+                0x9fc13900       0x50 common/libcommon.o
+                0x9fc13900                search_device
+ .text.console_assign
+                0x9fc13950       0x80 common/libcommon.o
+                0x9fc13950                console_assign
+ .text.fprintf  0x9fc139d0       0x78 common/libcommon.o
+                0x9fc139d0                fprintf
+ .text.puts     0x9fc13a48       0x4c common/libcommon.o
+                0x9fc13a48                puts
+ .text.vprintf  0x9fc13a94       0x68 common/libcommon.o
+                0x9fc13a94                vprintf
+ .text.printf   0x9fc13afc       0x7c common/libcommon.o
+                0x9fc13afc                printf
+ .text.putc     0x9fc13b78       0x50 common/libcommon.o
+                0x9fc13b78                putc
+ .text.tstc     0x9fc13bc8       0x48 common/libcommon.o
+                0x9fc13bc8                tstc
+ .text.getc     0x9fc13c10       0x48 common/libcommon.o
+                0x9fc13c10                getc
+ .text.ctrlc    0x9fc13c58       0x88 common/libcommon.o
+                0x9fc13c58                ctrlc
+ .text.malloc_bin_reloc
+                0x9fc13ce0       0x48 common/libcommon.o
+                0x9fc13ce0                malloc_bin_reloc
+ .text.mem_malloc_init
+                0x9fc13d28       0x3c common/libcommon.o
+                0x9fc13d28                mem_malloc_init
+ .text.sbrk     0x9fc13d64       0x94 common/libcommon.o
+                0x9fc13d64                sbrk
+ .text.malloc_trim
+                0x9fc13df8      0x120 common/libcommon.o
+                0x9fc13df8                malloc_trim
+ .text.free     0x9fc13f18      0x25c common/libcommon.o
+                0x9fc13f18                free
+ .text.malloc   0x9fc14174      0x720 common/libcommon.o
+                0x9fc14174                malloc
+ .text.calloc   0x9fc14894      0x10c common/libcommon.o
+                0x9fc14894                calloc
+ .text.env_get_addr
+                0x9fc149a0       0x34 common/libcommon.o
+                0x9fc149a0                env_get_addr
+ .text.env_get_char_memory
+                0x9fc149d4       0x34 common/libcommon.o
+                0x9fc149d4                env_get_char_memory
+ .text.set_default_env
+                0x9fc14a08       0xd4 common/libcommon.o
+                0x9fc14a08                set_default_env
+ .text.env_relocate
+                0x9fc14adc       0x6c common/libcommon.o
+                0x9fc14adc                env_relocate
+ .text.env_import
+                0x9fc14b48      0x110 common/libcommon.o
+                0x9fc14b48                env_import
+ .text.env_get_char
+                0x9fc14c58       0x54 common/libcommon.o
+                0x9fc14c58                env_get_char
+ .text.env_get_char_spec
+                0x9fc14cac       0x14 common/libcommon.o
+                0x9fc14cac                env_get_char_spec
+ .text.env_relocate_spec
+                0x9fc14cc0       0x20 common/libcommon.o
+                0x9fc14cc0                env_relocate_spec
+ .text.env_init
+                0x9fc14ce0       0x80 common/libcommon.o
+                0x9fc14ce0                env_init
+ .text.saveenv  0x9fc14d60      0x20c common/libcommon.o
+                0x9fc14d60                saveenv
+ .text.dummy    0x9fc14f6c        0x8 common/libcommon.o
+ .text.get_version
+                0x9fc14f74        0x8 common/libcommon.o
+                0x9fc14f74                get_version
+ .text.jumptable_init
+                0x9fc14f7c      0x194 common/libcommon.o
+                0x9fc14f7c                jumptable_init
+ .text.addr2info
+                0x9fc15110       0x54 common/libcommon.o
+                0x9fc15110                addr2info
+ .text.flash_perror
+                0x9fc15164      0x144 common/libcommon.o
+                0x9fc15164                flash_perror
+ .text.flash_write
+                0x9fc152a8      0x194 common/libcommon.o
+                0x9fc152a8                flash_write
+ .text.image_multi_count
+                0x9fc1543c       0x20 common/libcommon.o
+                0x9fc1543c                image_multi_count
+ .text.image_multi_getimg
+                0x9fc1545c       0xbc common/libcommon.o
+                0x9fc1545c                image_multi_getimg
+ .text.get_table_entry_name
+                0x9fc15518       0x38 common/libcommon.o
+                0x9fc15518                get_table_entry_name
+ .text.genimg_get_os_name
+                0x9fc15550       0x2c common/libcommon.o
+                0x9fc15550                genimg_get_os_name
+ .text.genimg_get_arch_name
+                0x9fc1557c       0x2c common/libcommon.o
+                0x9fc1557c                genimg_get_arch_name
+ .text.genimg_get_type_name
+                0x9fc155a8       0x2c common/libcommon.o
+                0x9fc155a8                genimg_get_type_name
+ .text.genimg_get_comp_name
+                0x9fc155d4       0x2c common/libcommon.o
+                0x9fc155d4                genimg_get_comp_name
+ .text.genimg_get_format
+                0x9fc15600       0x18 common/libcommon.o
+                0x9fc15600                genimg_get_format
+ .text.genimg_get_image
+                0x9fc15618        0x8 common/libcommon.o
+                0x9fc15618                genimg_get_image
+ .text.genimg_has_config
+                0x9fc15620        0x8 common/libcommon.o
+                0x9fc15620                genimg_has_config
+ .text.genimg_print_size
+                0x9fc15628       0x5c common/libcommon.o
+                0x9fc15628                genimg_print_size
+ .text.memmove_wd
+                0x9fc15684       0x28 common/libcommon.o
+                0x9fc15684                memmove_wd
+ .text.getenv_yesno
+                0x9fc156ac       0x48 common/libcommon.o
+                0x9fc156ac                getenv_yesno
+ .text.image_print_contents
+                0x9fc156f4      0x2d8 common/libcommon.o
+                0x9fc156f4                image_print_contents
+ .text.image_check_dcrc
+                0x9fc159cc       0x54 common/libcommon.o
+                0x9fc159cc                image_check_dcrc
+ .text.image_check_hcrc
+                0x9fc15a20       0x78 common/libcommon.o
+                0x9fc15a20                image_check_hcrc
+ .text.boot_get_ramdisk
+                0x9fc15a98      0x334 common/libcommon.o
+                0x9fc15a98                boot_get_ramdisk
+ .text.__show_boot_progress
+                0x9fc15dcc        0x8 common/libcommon.o
+                0x9fc15dcc                __show_boot_progress
+                0x9fc15dcc                show_boot_progress
+ .text.parse_line
+                0x9fc15dd4       0xcc common/libcommon.o
+                0x9fc15dd4                parse_line
+ .text.run_command
+                0x9fc15ea0      0x4f4 common/libcommon.o
+                0x9fc15ea0                run_command
+ .text.do_run   0x9fc16394       0xf4 common/libcommon.o
+                0x9fc16394                do_run
+ .text.delete_char
+                0x9fc16488      0x170 common/libcommon.o
+ .text.cread_add_char
+                0x9fc165f8      0x16c common/libcommon.o
+ .text.readline_into_buffer
+                0x9fc16764      0xb54 common/libcommon.o
+                0x9fc16764                readline_into_buffer
+ .text.readline
+                0x9fc172b8       0x20 common/libcommon.o
+                0x9fc172b8                readline
+ .text.main_loop
+                0x9fc172d8      0x1fc common/libcommon.o
+                0x9fc172d8                main_loop
+ .text.hex2_bin
+                0x9fc174d4       0xb0 common/libcommon.o
+ .text.srec_decode
+                0x9fc17584      0x2bc common/libcommon.o
+                0x9fc17584                srec_decode
+ .text.stdio_get_list
+                0x9fc17840       0x18 common/libcommon.o
+                0x9fc17840                stdio_get_list
+ .text.stdio_clone
+                0x9fc17858       0x8c common/libcommon.o
+                0x9fc17858                stdio_clone
+ .text.stdio_register
+                0x9fc178e4       0x6c common/libcommon.o
+                0x9fc178e4                stdio_register
+ .text.stdio_init
+                0x9fc17950       0xe0 common/libcommon.o
+                0x9fc17950                stdio_init
+ .text.stdio_get_by_name
+                0x9fc17a30       0x84 common/libcommon.o
+                0x9fc17a30                stdio_get_by_name
+ .text.parse_num
+                0x9fc17ab4      0x15c common/libcommon.o
+                0x9fc17ab4                parse_num
+ .text.xyzModem_error
+                0x9fc17c10       0xa8 common/libcommon.o
+                0x9fc17c10                xyzModem_error
+ .text.xyzModem_stream_close
+                0x9fc17cb8       0x78 common/libcommon.o
+                0x9fc17cb8                xyzModem_stream_close
+ .text.CYGACC_COMM_IF_PUTC
+                0x9fc17d30       0x20 common/libcommon.o
+                0x9fc17d30                CYGACC_COMM_IF_PUTC
+ .text.CYGACC_COMM_IF_GETC_TIMEOUT
+                0x9fc17d50       0xb0 common/libcommon.o
+                0x9fc17d50                CYGACC_COMM_IF_GETC_TIMEOUT
+ .text.xyzModem_stream_terminate
+                0x9fc17e00      0x17c common/libcommon.o
+                0x9fc17e00                xyzModem_stream_terminate
+ .text.xyzModem_get_hdr
+                0x9fc17f7c      0x3bc common/libcommon.o
+ .text.xyzModem_stream_read
+                0x9fc18338      0x33c common/libcommon.o
+                0x9fc18338                xyzModem_stream_read
+ .text.xyzModem_stream_open
+                0x9fc18674      0x210 common/libcommon.o
+                0x9fc18674                xyzModem_stream_open
+ .text.GregorianDay
+                0x9fc18884      0x144 drivers/rtc/librtc.o
+                0x9fc18884                GregorianDay
+ .text.to_tm    0x9fc189c8      0x108 drivers/rtc/librtc.o
+                0x9fc189c8                to_tm
+ .text.rtime_decompress
+                0x9fc18ad0       0xc8 fs/jffs2/libjffs2.o
+                0x9fc18ad0                rtime_decompress
+ .text.rubin_do_decompress
+                0x9fc18b98      0x13c fs/jffs2/libjffs2.o
+                0x9fc18b98                rubin_do_decompress
+ .text.dynrubin_decompress
+                0x9fc18cd4       0x60 fs/jffs2/libjffs2.o
+                0x9fc18cd4                dynrubin_decompress
+ .text.zlib_decompress
+                0x9fc18d34       0x28 fs/jffs2/libjffs2.o
+                0x9fc18d34                zlib_decompress
+ .text.mkmodestr
+                0x9fc18d5c      0x170 fs/jffs2/libjffs2.o
+                0x9fc18d5c                mkmodestr
+ .text.insert_node
+                0x9fc18ecc       0xfc fs/jffs2/libjffs2.o
+ .text.jffs2_free_cache
+                0x9fc18fc8       0xc4 fs/jffs2/libjffs2.o
+                0x9fc18fc8                jffs2_free_cache
+ .text.get_fl_mem
+                0x9fc1908c       0xb0 fs/jffs2/libjffs2.o
+ .text.jffs2_1pass_rescan_needed
+                0x9fc1913c       0xb4 fs/jffs2/libjffs2.o
+                0x9fc1913c                jffs2_1pass_rescan_needed
+ .text.jffs2_get_list
+                0x9fc191f0      0x714 fs/jffs2/libjffs2.o
+ .text.jffs2_1pass_info
+                0x9fc19904      0x164 fs/jffs2/libjffs2.o
+                0x9fc19904                jffs2_1pass_info
+ .text.get_node_mem
+                0x9fc19a68       0xd0 fs/jffs2/libjffs2.o
+ .text.jffs2_1pass_find_inode
+                0x9fc19b38      0x1c8 fs/jffs2/libjffs2.o
+ .text.jffs2_1pass_search_inode
+                0x9fc19d00      0x1ec fs/jffs2/libjffs2.o
+ .text.jffs2_1pass_load
+                0x9fc19eec      0x500 fs/jffs2/libjffs2.o
+                0x9fc19eec                jffs2_1pass_load
+ .text.T.109    0x9fc1a3ec      0x730 fs/jffs2/libjffs2.o
+ .text.jffs2_1pass_ls
+                0x9fc1ab1c       0x90 fs/jffs2/libjffs2.o
+                0x9fc1ab1c                jffs2_1pass_ls
+ .text.read_symbol
+                0x9fc1abac       0xc0 fs/jffs2/libjffs2.o
+ .text.decompress_huffman
+                0x9fc1ac6c      0x22c fs/jffs2/libjffs2.o
+ .text.fill_code_tables
+                0x9fc1ae98      0x10c fs/jffs2/libjffs2.o
+ .text.init_code_tables
+                0x9fc1afa4       0x88 fs/jffs2/libjffs2.o
+ .text.decompress_block
+                0x9fc1b02c      0xa3c fs/jffs2/libjffs2.o
+                0x9fc1b02c                decompress_block
+ .text.cyg_crc16
+                0x9fc1ba68       0x5c lib/libgeneric.o
+                0x9fc1ba68                cyg_crc16
+ .text.crc32_no_comp
+                0x9fc1bac4      0x188 lib/libgeneric.o
+                0x9fc1bac4                crc32_no_comp
+ .text.crc32    0x9fc1bc4c       0x34 lib/libgeneric.o
+                0x9fc1bc4c                crc32
+ .text.crc32_wd
+                0x9fc1bc80       0x18 lib/libgeneric.o
+                0x9fc1bc80                crc32_wd
+ .text.print_size
+                0x9fc1bc98      0x210 lib/libgeneric.o
+                0x9fc1bc98                print_size
+ .text.print_buffer
+                0x9fc1bea8      0x224 lib/libgeneric.o
+                0x9fc1bea8                print_buffer
+ .text.zunzip   0x9fc1c0cc      0x180 lib/libgeneric.o
+                0x9fc1c0cc                zunzip
+ .text.gunzip   0x9fc1c24c       0xec lib/libgeneric.o
+                0x9fc1c24c                gunzip
+ .text.zfree    0x9fc1c338       0x1c lib/libgeneric.o
+                0x9fc1c338                zfree
+ .text.zalloc   0x9fc1c354       0x2c lib/libgeneric.o
+                0x9fc1c354                zalloc
+ .text.hdestroy_r
+                0x9fc1c380       0xc8 lib/libgeneric.o
+                0x9fc1c380                hdestroy_r
+ .text.cmpkey   0x9fc1c448       0x28 lib/libgeneric.o
+ .text.hcreate_r
+                0x9fc1c470       0xd8 lib/libgeneric.o
+                0x9fc1c470                hcreate_r
+ .text.hexport_r
+                0x9fc1c548      0x334 lib/libgeneric.o
+                0x9fc1c548                hexport_r
+ .text.hsearch_r
+                0x9fc1c87c      0x330 lib/libgeneric.o
+                0x9fc1c87c                hsearch_r
+ .text.hdelete_r
+                0x9fc1cbac       0xc0 lib/libgeneric.o
+                0x9fc1cbac                hdelete_r
+ .text.himport_r
+                0x9fc1cc6c      0x2f0 lib/libgeneric.o
+                0x9fc1cc6c                himport_r
+ .text.string_to_ip
+                0x9fc1cf5c       0xb8 lib/libgeneric.o
+                0x9fc1cf5c                string_to_ip
+ .text.qsort    0x9fc1d014      0x188 lib/libgeneric.o
+                0x9fc1d014                qsort
+ .text.__div64_32
+                0x9fc1d19c      0x15c lib/libgeneric.o
+                0x9fc1d19c                __div64_32
+ .text.strcpy   0x9fc1d2f8       0x24 lib/libgeneric.o
+                0x9fc1d2f8                strcpy
+ .text.strncpy  0x9fc1d31c       0x2c lib/libgeneric.o
+                0x9fc1d31c                strncpy
+ .text.strcmp   0x9fc1d348       0x30 lib/libgeneric.o
+                0x9fc1d348                strcmp
+ .text.strncmp  0x9fc1d378       0x44 lib/libgeneric.o
+                0x9fc1d378                strncmp
+ .text.strchr   0x9fc1d3bc       0x38 lib/libgeneric.o
+                0x9fc1d3bc                strchr
+ .text.strlen   0x9fc1d3f4       0x1c lib/libgeneric.o
+                0x9fc1d3f4                strlen
+ .text.strnlen  0x9fc1d410       0x28 lib/libgeneric.o
+                0x9fc1d410                strnlen
+ .text.memset   0x9fc1d438       0x7c lib/libgeneric.o
+                0x9fc1d438                memset
+ .text.memcpy   0x9fc1d4b4       0x84 lib/libgeneric.o
+                0x9fc1d4b4                memcpy
+ .text.memmove  0x9fc1d538       0x68 lib/libgeneric.o
+                0x9fc1d538                memmove
+ .text.memcmp   0x9fc1d5a0       0x38 lib/libgeneric.o
+                0x9fc1d5a0                memcmp
+ .text.strdup   0x9fc1d5d8       0x70 lib/libgeneric.o
+                0x9fc1d5d8                strdup
+ .text.udelay   0x9fc1d648       0x74 lib/libgeneric.o
+                0x9fc1d648                udelay
+ .text.simple_strtoul
+                0x9fc1d6bc       0xd4 lib/libgeneric.o
+                0x9fc1d6bc                simple_strtoul
+ .text.simple_strtol
+                0x9fc1d790       0x50 lib/libgeneric.o
+                0x9fc1d790                simple_strtol
+ .text.simple_strtoull
+                0x9fc1d7e0      0x114 lib/libgeneric.o
+                0x9fc1d7e0                simple_strtoull
+ .text.put_dec_trunc
+                0x9fc1d8f4      0x134 lib/libgeneric.o
+ .text.panic    0x9fc1da28       0x80 lib/libgeneric.o
+                0x9fc1da28                panic
+ .text.string   0x9fc1daa8       0xd8 lib/libgeneric.o
+ .text.put_dec  0x9fc1db80      0x1e8 lib/libgeneric.o
+ .text.number   0x9fc1dd68      0x2f4 lib/libgeneric.o
+ .text.vsprintf
+                0x9fc1e05c      0x7d4 lib/libgeneric.o
+                0x9fc1e05c                vsprintf
+ .text.sprintf  0x9fc1e830       0x40 lib/libgeneric.o
+                0x9fc1e830                sprintf
+ .text.strict_strtoul
+                0x9fc1e870       0xb4 lib/libgeneric.o
+                0x9fc1e870                strict_strtoul
+ .text.inflate_fast
+                0x9fc1e924      0x5c4 lib/zlib/libz.o
+                0x9fc1e924                inflate_fast
+ .text.inflate_table
+                0x9fc1eee8      0x538 lib/zlib/libz.o
+                0x9fc1eee8                inflate_table
+ .text.inflateReset
+                0x9fc1f420       0x70 lib/zlib/libz.o
+                0x9fc1f420                inflateReset
+ .text.inflateInit2_
+                0x9fc1f490      0x130 lib/zlib/libz.o
+                0x9fc1f490                inflateInit2_
+ .text.inflateEnd
+                0x9fc1f5c0       0x78 lib/zlib/libz.o
+                0x9fc1f5c0                inflateEnd
+ .text.adler32  0x9fc1f638      0x300 lib/zlib/libz.o
+                0x9fc1f638                adler32
+ .text.zcfree   0x9fc1f938       0x1c lib/zlib/libz.o
+                0x9fc1f938                zcfree
+ .text.zcalloc  0x9fc1f954       0x20 lib/zlib/libz.o
+                0x9fc1f954                zcalloc
+ .text.inflate  0x9fc1f974     0x17e0 lib/zlib/libz.o
+                0x9fc1f974                inflate
+ .text.BootpRequest
+                0x9fc21154      0x2dc net/libnet.o
+                0x9fc21154                BootpRequest
+ .text.BootpHandler
+                0x9fc21430      0x448 net/libnet.o
+ .text.BootpTimeout
+                0x9fc21878       0x74 net/libnet.o
+ .text.__def_eth_init
+                0x9fc218ec        0x8 net/libnet.o
+                0x9fc218ec                board_eth_init
+ .text.eth_get_dev
+                0x9fc218f4       0x1c net/libnet.o
+                0x9fc218f4                eth_get_dev
+ .text.eth_get_dev_index
+                0x9fc21910       0x58 net/libnet.o
+                0x9fc21910                eth_get_dev_index
+ .text.eth_halt
+                0x9fc21968       0x54 net/libnet.o
+                0x9fc21968                eth_halt
+ .text.eth_send
+                0x9fc219bc       0x38 net/libnet.o
+                0x9fc219bc                eth_send
+ .text.eth_rx   0x9fc219f4       0x30 net/libnet.o
+                0x9fc219f4                eth_rx
+ .text.eth_get_name
+                0x9fc21a24       0x2c net/libnet.o
+                0x9fc21a24                eth_get_name
+ .text.eth_current_changed
+                0x9fc21a50       0xa8 net/libnet.o
+ .text.eth_set_current
+                0x9fc21af8      0x10c net/libnet.o
+                0x9fc21af8                eth_set_current
+ .text.eth_try_another
+                0x9fc21c04       0xc0 net/libnet.o
+                0x9fc21c04                eth_try_another
+ .text.eth_register
+                0x9fc21cc4       0x9c net/libnet.o
+                0x9fc21cc4                eth_register
+ .text.eth_parse_enetaddr
+                0x9fc21d60       0xb0 net/libnet.o
+                0x9fc21d60                eth_parse_enetaddr
+ .text.eth_getenv_enetaddr
+                0x9fc21e10       0x8c net/libnet.o
+                0x9fc21e10                eth_getenv_enetaddr
+ .text.eth_getenv_enetaddr_by_index
+                0x9fc21e9c       0x7c net/libnet.o
+                0x9fc21e9c                eth_getenv_enetaddr_by_index
+ .text.eth_init
+                0x9fc21f18      0x130 net/libnet.o
+                0x9fc21f18                eth_init
+ .text.eth_write_hwaddr
+                0x9fc22048      0x1f8 net/libnet.o
+                0x9fc22048                eth_write_hwaddr
+ .text.eth_initialize
+                0x9fc22240      0x2b0 net/libnet.o
+                0x9fc22240                eth_initialize
+ .text.startAgainTimeout
+                0x9fc224f0       0x1c net/libnet.o
+ .text.startAgainHandler
+                0x9fc2250c        0x8 net/libnet.o
+ .text.NetSetHandler
+                0x9fc22514       0x18 net/libnet.o
+                0x9fc22514                NetSetHandler
+ .text.NetCksum
+                0x9fc2252c       0x38 net/libnet.o
+                0x9fc2252c                NetCksum
+ .text.NetCksumOk
+                0x9fc22564       0x3c net/libnet.o
+                0x9fc22564                NetCksumOk
+ .text.NetEthHdrSize
+                0x9fc225a0       0x3c net/libnet.o
+                0x9fc225a0                NetEthHdrSize
+ .text.copy_filename
+                0x9fc225dc       0x4c net/libnet.o
+                0x9fc225dc                copy_filename
+ .text.string_to_VLAN
+                0x9fc22628       0x5c net/libnet.o
+                0x9fc22628                string_to_VLAN
+ .text.getenv_VLAN
+                0x9fc22684       0x3c net/libnet.o
+                0x9fc22684                getenv_VLAN
+ .text.ip_to_string
+                0x9fc226c0       0x5c net/libnet.o
+                0x9fc226c0                ip_to_string
+ .text.NetSetIP
+                0x9fc2271c      0x10c net/libnet.o
+                0x9fc2271c                NetSetIP
+ .text.NetSetEther
+                0x9fc22828       0xac net/libnet.o
+                0x9fc22828                NetSetEther
+ .text.NetSendPacket
+                0x9fc228d4       0x18 net/libnet.o
+                0x9fc228d4                NetSendPacket
+ .text.NetReceive
+                0x9fc228ec      0x454 net/libnet.o
+                0x9fc228ec                NetReceive
+ .text.NetSetTimeout
+                0x9fc22d40       0x64 net/libnet.o
+                0x9fc22d40                NetSetTimeout
+ .text.NetStartAgain
+                0x9fc22da4      0x198 net/libnet.o
+                0x9fc22da4                NetStartAgain
+ .text.net_auto_load
+                0x9fc22f3c       0x6c net/libnet.o
+                0x9fc22f3c                net_auto_load
+ .text.getenv_IPaddr
+                0x9fc22fa8       0x3c net/libnet.o
+ .text.ArpRequest
+                0x9fc22fe4      0x180 net/libnet.o
+                0x9fc22fe4                ArpRequest
+ .text.NetSendUDPPacket
+                0x9fc23164      0x1d8 net/libnet.o
+                0x9fc23164                NetSendUDPPacket
+ .text.ArpTimeoutCheck
+                0x9fc2333c       0xb4 net/libnet.o
+                0x9fc2333c                ArpTimeoutCheck
+ .text.NetLoop  0x9fc233f0      0x584 net/libnet.o
+                0x9fc233f0                NetLoop
+ .text.TftpSend
+                0x9fc23974      0x230 net/libnet.o
+ .text.TftpStart
+                0x9fc23ba4      0x40c net/libnet.o
+                0x9fc23ba4                TftpStart
+ .text.TftpTimeout
+                0x9fc23fb0       0xc8 net/libnet.o
+ .text.TftpHandler
+                0x9fc24078      0x41c net/libnet.o
+ .text.checkboard
+                0x9fc24494      0x280 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc24494                checkboard
+ .text.initdram
+                0x9fc24714       0x18 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc24714                initdram
+ .text.__spi_commands
+                0x9fc2472c     0x1574 board/Realtek/rtl8686demo/librtl8686demo.o
+ .text.__get_spi_SR
+                0x9fc25ca0       0x48 board/Realtek/rtl8686demo/librtl8686demo.o
+ .text.__wait_Ready
+                0x9fc25ce8       0xbc board/Realtek/rtl8686demo/librtl8686demo.o
+ .text.__wait_WEL
+                0x9fc25da4      0x158 board/Realtek/rtl8686demo/librtl8686demo.o
+ .text.__spi_write_BlockProtect_Register
+                0x9fc25efc       0x74 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc25efc                __spi_write_BlockProtect_Register
+ .text.__spi_init_io_status
+                0x9fc25f70      0x19c board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc25f70                __spi_init_io_status
+ .text.write_buff
+                0x9fc2610c      0x338 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc2610c                write_buff
+ .text.flash_erase
+                0x9fc26444      0x238 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc26444                flash_erase
+ .text.flash_print_info
+                0x9fc2667c      0x144 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc2667c                flash_print_info
+ .text.flash_init
+                0x9fc267c0      0x644 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc267c0                flash_init
+ .text.get_memory_dram_ocd_parameters
+                0x9fc26e04       0x68 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc26e04                get_memory_dram_ocd_parameters
+ .text.get_memory_dram_odt_parameters
+                0x9fc26e6c       0x68 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc26e6c                get_memory_dram_odt_parameters
+ .text.get_memory_ZQ_parameters
+                0x9fc26ed4       0x68 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc26ed4                get_memory_ZQ_parameters
+ .text.get_memory_delay_parameters
+                0x9fc26f3c       0x68 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc26f3c                get_memory_delay_parameters
+ .text.show_DRAM_phy_parameters
+                0x9fc26fa4      0x10c board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc26fa4                show_DRAM_phy_parameters
+ .text.board_DRAM_freq_mhz
+                0x9fc270b0       0x18 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc270b0                board_DRAM_freq_mhz
+ .text.chk_dram_cfg
+                0x9fc270c8      0x2b8 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc270c8                chk_dram_cfg
+ .text.board_LX_freq_mhz
+                0x9fc27380       0x18 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc27380                board_LX_freq_mhz
+ .text.board_LX_freq_hz
+                0x9fc27398       0x40 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc27398                board_LX_freq_hz
+ .text.board_CPU_freq_mhz
+                0x9fc273d8       0x18 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc273d8                board_CPU_freq_mhz
+ .text.board_CPU_freq_hz
+                0x9fc273f0       0x40 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc273f0                board_CPU_freq_hz
+ .text.board_DSP_freq_mhz
+                0x9fc27430       0x18 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc27430                board_DSP_freq_mhz
+ .text.board_DSP_freq_hz
+                0x9fc27448       0x40 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc27448                board_DSP_freq_hz
+ .text.rtl8686_sys_adj_cpu_clk
+                0x9fc27488       0x44 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc27488                rtl8686_sys_adj_cpu_clk
+ .text.rtl8686_sys_adj_mem_clk
+                0x9fc274cc       0x24 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc274cc                rtl8686_sys_adj_mem_clk
+ .text.do_dram_test
+                0x9fc274f0       0x24 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc274f0                do_dram_test
+ .text.do_dram_dig
+                0x9fc27514       0x50 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc27514                do_dram_dig
+ *fill*         0x9fc27564        0xc 00
+ .text          0x9fc27570       0x50 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_lshrdi3.o)
+                0x9fc27570                __lshrdi3
+ .text          0x9fc275c0       0x40 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_ashldi3.o)
+                0x9fc275c0                __ashldi3
+                0x9fc27600                . = ALIGN (0x4)
+
+.rodata         0x9fc27600     0x806c
+ *(SORT(.rodata*))
+ .rodata        0x9fc27600       0x20 net/libnet.o
+ .rodata.C.28.3084
+                0x9fc27620       0x30 drivers/rtc/librtc.o
+ .rodata.CSWTCH.49
+                0x9fc27650       0x58 common/libcommon.o
+ .rodata.TftpSend
+                0x9fc276a8       0x1c net/libnet.o
+ .rodata._DTR_DDR2_MRS_setting
+                0x9fc276c4       0x2c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata._DTR_DDR3_MRS_setting
+                0x9fc276f0       0x3c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3180
+                0x9fc2772c       0x10 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3214
+                0x9fc2773c       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3252
+                0x9fc27754       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3264
+                0x9fc27768       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3272
+                0x9fc2777c        0xc board/Realtek/rtl8686demo/librtl8686demo.o
+ .rodata.__FUNCTION__.3287
+                0x9fc27788       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3295
+                0x9fc2779c       0x1c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3323
+                0x9fc277b8       0x10 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3364
+                0x9fc277c8       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3406
+                0x9fc277dc       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3444
+                0x9fc277f4       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3486
+                0x9fc27808        0xc arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3544
+                0x9fc27814       0x10 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.3560
+                0x9fc27824       0x1c common/libcommon.o
+ .rodata.__FUNCTION__.3604
+                0x9fc27840       0x20 common/libcommon.o
+ .rodata.__FUNCTION__.4210
+                0x9fc27860        0xc board/Realtek/rtl8686demo/librtl8686demo.o
+ .rodata.__FUNCTION__.4382
+                0x9fc2786c        0xc board/Realtek/rtl8686demo/librtl8686demo.o
+ .rodata.__FUNCTION__.4593
+                0x9fc27878       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__FUNCTION__.5065
+                0x9fc27890       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__func__.3185
+                0x9fc278a4        0xc arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__func__.3201
+                0x9fc278b0        0x8 common/libcommon.o
+ .rodata.__func__.3209
+                0x9fc278b8       0x10 common/libcommon.o
+ .rodata.__func__.3234
+                0x9fc278c8        0xc common/libcommon.o
+ .rodata.__func__.3237
+                0x9fc278d4       0x10 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.__func__.3918
+                0x9fc278e4       0x10 common/libcommon.o
+ .rodata.__func__.3998
+                0x9fc278f4       0x10 common/libcommon.o
+ .rodata._ctype
+                0x9fc27904      0x100 lib/libgeneric.o
+                0x9fc27904                _ctype
+ .rodata.binary_test
+                0x9fc27a04       0x30 common/libcommon.o
+ .rodata.crc16_tab
+                0x9fc27a34      0x200 lib/libgeneric.o
+ .rodata.crc_table
+                0x9fc27c34      0x400 lib/libgeneric.o
+ .rodata.day_name.3123
+                0x9fc28034       0x18 fs/jffs2/libjffs2.o
+ .rodata.dbase.3643
+                0x9fc2804c       0x40 lib/zlib/libz.o
+ .rodata.default_environment
+                0x9fc2808c      0x10c common/libcommon.o
+                0x9fc2808c                default_environment
+ .rodata.dext.3644
+                0x9fc28198       0x40 lib/zlib/libz.o
+ .rodata.digits.3394
+                0x9fc281d8       0x10 lib/libgeneric.o
+ .rodata.distfix
+                0x9fc281e8       0x80 lib/zlib/libz.o
+ .rodata.erase_seq
+                0x9fc28268        0x4 common/libcommon.o
+ .rodata.hex_asc
+                0x9fc2826c       0x14 lib/libgeneric.o
+                0x9fc2826c                hex_asc
+ .rodata.huffman_order
+                0x9fc28280       0x14 fs/jffs2/libjffs2.o
+ .rodata.inflate
+                0x9fc28294       0x74 lib/zlib/libz.o
+ .rodata.jffs2_1pass_load
+                0x9fc28308       0x1c fs/jffs2/libjffs2.o
+ .rodata.lbase.3641
+                0x9fc28324       0x40 lib/zlib/libz.o
+ .rodata.lenfix
+                0x9fc28364      0x800 lib/zlib/libz.o
+ .rodata.lext.3642
+                0x9fc28b64       0x40 lib/zlib/libz.o
+ .rodata.memctlc_ddr3_dll_reset
+                0x9fc28ba4       0x18 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .rodata.mon_lengths.3146
+                0x9fc28bbc       0x60 fs/jffs2/libjffs2.o
+ .rodata.mon_name.3124
+                0x9fc28c1c       0x24 fs/jffs2/libjffs2.o
+ .rodata.names.3377
+                0x9fc28c40        0x8 lib/libgeneric.o
+ .rodata.order.3945
+                0x9fc28c48       0x28 lib/zlib/libz.o
+ .rodata.readline_into_buffer
+                0x9fc28c70       0x20 common/libcommon.o
+ .rodata.srec_decode
+                0x9fc28c90       0x28 common/libcommon.o
+ .rodata.str1.4
+                0x9fc28cb8       0x3a arch/mips/cpu/rlx5281/librlx5281.o
+                                 0x40 (size before relaxing)
+ *fill*         0x9fc28cf2        0x2 00
+ .rodata.str1.4
+                0x9fc28cf4     0x1d81 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                               0x1e28 (size before relaxing)
+ *fill*         0x9fc2aa75        0x3 00
+ .rodata.str1.4
+                0x9fc2aa78      0x113 arch/mips/lib/libmips.o
+                                0x118 (size before relaxing)
+ *fill*         0x9fc2ab8b        0x1 00
+ .rodata.str1.4
+                0x9fc2ab8c     0x3699 common/libcommon.o
+                               0x39b8 (size before relaxing)
+ *fill*         0x9fc2e225        0x3 00
+ .rodata.str1.4
+                0x9fc2e228      0x358 fs/jffs2/libjffs2.o
+                                0x36c (size before relaxing)
+ .rodata.str1.4
+                0x9fc2e580      0x163 lib/libgeneric.o
+                                0x178 (size before relaxing)
+ *fill*         0x9fc2e6e3        0x1 00
+ .rodata.str1.4
+                0x9fc2e6e4      0x23d lib/zlib/libz.o
+                                0x244 (size before relaxing)
+ *fill*         0x9fc2e921        0x3 00
+ .rodata.str1.4
+                0x9fc2e924      0x649 net/libnet.o
+                                0x6f0 (size before relaxing)
+ *fill*         0x9fc2ef6d        0x3 00
+ .rodata.str1.4
+                0x9fc2ef70      0x694 board/Realtek/rtl8686demo/librtl8686demo.o
+                                0x704 (size before relaxing)
+ .rodata.tab_seq
+                0x9fc2f604        0xc common/libcommon.o
+ .rodata.version_string
+                0x9fc2f610       0x34 common/libcommon.o
+                0x9fc2f610                version_string
+ .rodata.xyzModem_error
+                0x9fc2f644       0x20 common/libcommon.o
+ .rodata.year_lengths.3147
+                0x9fc2f664        0x8 fs/jffs2/libjffs2.o
+
+.rel.dyn        0x9fc2f66c       0x10
+ .rel.dyn       0x9fc2f66c       0x10 arch/mips/cpu/rlx5281/start.o
+                0x9fc2f67c                . = ALIGN (0x4)
+
+.data           0x9fc2f67c      0xf14
+ *(.data*)
+ .data.ddr2_8bit_size
+                0x9fc2f67c       0x14 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc2f67c                ddr2_8bit_size
+ .data.auto_cali_value
+                0x9fc2f690       0x20 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc2f690                auto_cali_value
+ .data.sys_clk_control_dram25
+                0x9fc2f6b0       0x3c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc2f6b0                sys_clk_control_dram25
+ .data.sys_clk_control_dram40
+                0x9fc2f6ec       0x3c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc2f6ec                sys_clk_control_dram40
+ .data.sys_clk_mckg_phase90
+                0x9fc2f728       0x3c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc2f728                sys_clk_mckg_phase90
+ .data.sys_clk_mckg_clk_div
+                0x9fc2f764       0x3c arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc2f764                sys_clk_mckg_clk_div
+ .data.dram_patterns
+                0x9fc2f7a0       0x50 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc2f7a0                dram_patterns
+ .data.line_toggle_pattern
+                0x9fc2f7f0       0x20 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc2f7f0                line_toggle_pattern
+ .data.toggle_pattern
+                0x9fc2f810       0x30 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc2f810                toggle_pattern
+ .data.regbase  0x9fc2f840        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc2f840                regbase
+ .data.rel.init_sequence
+                0x9fc2f844       0x34 arch/mips/lib/libmips.o
+                0x9fc2f844                init_sequence
+ .data.rel.ro.local.failed
+                0x9fc2f878        0x4 arch/mips/lib/libmips.o
+ .data.rel.boot_os
+                0x9fc2f87c       0x4c common/libcommon.o
+ .data.rel.local.cmd_bootm_sub
+                0x9fc2f8c8       0x90 common/libcommon.o
+ .data.rel.ro.local.op_table
+                0x9fc2f958       0x68 common/libcommon.o
+ .data.do_echo  0x9fc2f9c0        0x4 common/libcommon.o
+ .data.dp_last_length
+                0x9fc2f9c4        0x4 common/libcommon.o
+ .data.load_addr
+                0x9fc2f9c8        0x4 common/libcommon.o
+                0x9fc2f9c8                load_addr
+ .data.rel.cmd_env_sub
+                0x9fc2f9cc       0xd8 common/libcommon.o
+ .data.env_id   0x9fc2faa4        0x4 common/libcommon.o
+ .data.trim_threshold
+                0x9fc2faa8        0x4 common/libcommon.o
+ .data.rel.local.av_
+                0x9fc2faac      0x408 common/libcommon.o
+ .data.sbrk_base
+                0x9fc2feb4        0x4 common/libcommon.o
+ .data.rel.local.env_name_spec
+                0x9fc2feb8        0x4 common/libcommon.o
+                0x9fc2feb8                env_name_spec
+ .data.env_ptr  0x9fc2febc        0x4 common/libcommon.o
+                0x9fc2febc                env_ptr
+ .data.rel.ro.local.uimage_comp
+                0x9fc2fec0       0x48 common/libcommon.o
+ .data.rel.ro.local.uimage_type
+                0x9fc2ff08       0xc0 common/libcommon.o
+ .data.rel.ro.local.uimage_arch
+                0x9fc2ffc8       0xf0 common/libcommon.o
+ .data.rel.ro.local.uimage_os
+                0x9fc300b8       0x54 common/libcommon.o
+ .data.hist_cur
+                0x9fc3010c        0x4 common/libcommon.o
+ .data.rel.local.stdio_names
+                0x9fc30110        0xc common/libcommon.o
+                0x9fc30110                stdio_names
+ .data.month_days
+                0x9fc3011c       0x30 drivers/rtc/librtc.o
+ .data.rel.ro.local.compr_names
+                0x9fc3014c       0x1c fs/jffs2/libjffs2.o
+ .data.rel.ro.local.l.3982
+                0x9fc30168        0x4 fs/jffs2/libjffs2.o
+ .data.NetBcastAddr
+                0x9fc3016c        0x8 net/libnet.o
+                0x9fc3016c                NetBcastAddr
+ .data.NetOurVLAN
+                0x9fc30174        0x2 net/libnet.o
+                0x9fc30174                NetOurVLAN
+ .data.NetOurNativeVLAN
+                0x9fc30176        0x2 net/libnet.o
+                0x9fc30176                NetOurNativeVLAN
+ .data.TftpRRQTimeoutCountMax
+                0x9fc30178        0x4 net/libnet.o
+                0x9fc30178                TftpRRQTimeoutCountMax
+ .data.TftpBlkSizeOption
+                0x9fc3017c        0x2 net/libnet.o
+ *fill*         0x9fc3017e        0x2 00
+ .data.TftpTimeoutMSecs
+                0x9fc30180        0x4 net/libnet.o
+ .data.TftpTimeoutCountMax
+                0x9fc30184        0x4 net/libnet.o
+ .data.TftpBlkSize
+                0x9fc30188        0x2 net/libnet.o
+ *fill*         0x9fc3018a        0x2 00
+ .data.PSR      0x9fc3018c        0x4 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc3018c                PSR
+ .data.rel.ro.local.spi_chips
+                0x9fc30190      0x2c0 board/Realtek/rtl8686demo/librtl8686demo.o
+ .data.DQS_RANGE
+                0x9fc30450       0xa0 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc30450                DQS_RANGE
+ .data.W90_RANGE
+                0x9fc304f0       0xa0 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc304f0                W90_RANGE
+
+.got.plt        0x9fc30590        0x0
+ .got.plt       0x00000000        0x0 arch/mips/cpu/rlx5281/start.o
+                0x9fc30590                . = .
+                0x9fc38580                _gp = (ALIGN (0x10) + 0x7ff0)
+
+.got            0x9fc30590      0x818
+                0x9fc30590                __got_start = .
+ *(.got)
+ .got           0x9fc30590      0x818 arch/mips/cpu/rlx5281/start.o
+                0x9fc30590                _GLOBAL_OFFSET_TABLE_
+                0x9fc30da8                __got_end = .
+                0x9fc30da8                . = ALIGN (0x4)
+
+.sdata
+ *(.sdata*)
+                0x9fc30da8                . = ALIGN (0x4)
+
+.u_boot_cmd     0x9fc30da8      0x450
+                0x9fc30da8                __u_boot_cmd_start = .
+ *(.u_boot_cmd)
+ .u_boot_cmd    0x9fc30da8      0x420 common/libcommon.o
+                0x9fc30da8                __u_boot_cmd_bdinfo
+                0x9fc30dc0                __u_boot_cmd_go
+                0x9fc30dd8                __u_boot_cmd_reset
+                0x9fc30df0                __u_boot_cmd_bootm
+                0x9fc30e08                __u_boot_cmd_boot
+                0x9fc30e20                __u_boot_cmd_bootd
+                0x9fc30e38                __u_boot_cmd_iminfo
+                0x9fc30e50                __u_boot_cmd_imls
+                0x9fc30e68                __u_boot_cmd_coninfo
+                0x9fc30e80                __u_boot_cmd_echo
+                0x9fc30e98                __u_boot_cmd_flinfo
+                0x9fc30eb0                __u_boot_cmd_erase
+                0x9fc30ec8                __u_boot_cmd_protect
+                0x9fc30ee0                __u_boot_cmd_help
+                0x9fc30ef8                __u_boot_cmd_question_mark
+                0x9fc30f10                __u_boot_cmd_itest
+                0x9fc30f28                __u_boot_cmd_fsload
+                0x9fc30f40                __u_boot_cmd_ls
+                0x9fc30f58                __u_boot_cmd_fsinfo
+                0x9fc30f70                __u_boot_cmd_loads
+                0x9fc30f88                __u_boot_cmd_loadb
+                0x9fc30fa0                __u_boot_cmd_loady
+                0x9fc30fb8                __u_boot_cmd_md
+                0x9fc30fd0                __u_boot_cmd_mm
+                0x9fc30fe8                __u_boot_cmd_nm
+                0x9fc31000                __u_boot_cmd_mw
+                0x9fc31018                __u_boot_cmd_cp
+                0x9fc31030                __u_boot_cmd_cmp
+                0x9fc31048                __u_boot_cmd_crc32
+                0x9fc31060                __u_boot_cmd_base
+                0x9fc31078                __u_boot_cmd_loop
+                0x9fc31090                __u_boot_cmd_mtest
+                0x9fc310a8                __u_boot_cmd_sleep
+                0x9fc310c0                __u_boot_cmd_bootp
+                0x9fc310d8                __u_boot_cmd_tftpboot
+                0x9fc310f0                __u_boot_cmd_saveenv
+                0x9fc31108                __u_boot_cmd_env
+                0x9fc31120                __u_boot_cmd_editenv
+                0x9fc31138                __u_boot_cmd_printenv
+                0x9fc31150                __u_boot_cmd_setenv
+                0x9fc31168                __u_boot_cmd_run
+                0x9fc31180                __u_boot_cmd_source
+                0x9fc31198                __u_boot_cmd_version
+                0x9fc311b0                __u_boot_cmd_imxtract
+ .u_boot_cmd    0x9fc311c8       0x30 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc311c8                __u_boot_cmd_mdram_dig
+                0x9fc311e0                __u_boot_cmd_mdram_test
+                0x9fc311f8                __u_boot_cmd_end = .
+                0x9fc311f8                . = ALIGN (0x4)
+                0x9fc311f8                uboot_end_data = .
+                0x00000206                num_got_entries = ((__got_end - __got_start) >> 0x2)
+                0x9fc311f8                . = ALIGN (0x4)
+
+.sbss
+ *(.sbss*)
+                0x9fc311f8                . = ALIGN (0x4)
+
+.bss            0x9fc311f8     0x7334
+ *(.bss*)
+ .bss.$19.3673  0x9fc311f8        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .bss.$18.3672  0x9fc311fc        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .bss.$17.3671  0x9fc31200        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .bss.last_t0.3050
+                0x9fc31204        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .bss.cnt.3049  0x9fc31208        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .bss.timestamp
+                0x9fc3120c        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .bss.txBDtail  0x9fc31210        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc31210                txBDtail
+ .bss.rxBDtail  0x9fc31214        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc31214                rxBDtail
+ .bss.Lan_Initialed
+                0x9fc31218        0x4 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc31218                Lan_Initialed
+ .bss.linux_argc
+                0x9fc3121c        0x4 arch/mips/lib/libmips.o
+ .bss.linux_argv
+                0x9fc31220        0x4 arch/mips/lib/libmips.o
+ .bss.linux_env
+                0x9fc31224        0x4 arch/mips/lib/libmips.o
+ .bss.linux_env_p
+                0x9fc31228        0x4 arch/mips/lib/libmips.o
+ .bss.linux_env_idx
+                0x9fc3122c        0x4 arch/mips/lib/libmips.o
+ .bss.relocated.3598
+                0x9fc31230        0x4 common/libcommon.o
+ .bss.current_mtd_dev
+                0x9fc31234        0x4 common/libcommon.o
+                0x9fc31234                current_mtd_dev
+ .bss.current_mtd_partnum
+                0x9fc31238        0x1 common/libcommon.o
+                0x9fc31238                current_mtd_partnum
+ *fill*         0x9fc31239        0x3 00
+ .bss.initialized.3624
+                0x9fc3123c        0x4 common/libcommon.o
+ .bss.a_b       0x9fc31240       0x18 common/libcommon.o
+ .bss.os_data_state
+                0x9fc31258        0x4 common/libcommon.o
+ .bss.os_data_state_saved
+                0x9fc3125c        0x4 common/libcommon.o
+ .bss.os_data_addr
+                0x9fc31260        0x4 common/libcommon.o
+ .bss.os_data_addr_saved
+                0x9fc31264        0x4 common/libcommon.o
+ .bss.bin_start_address
+                0x9fc31268        0x4 common/libcommon.o
+ .bss.k_data_escape
+                0x9fc3126c        0x4 common/libcommon.o
+ .bss.k_data_escape_saved
+                0x9fc31270        0x4 common/libcommon.o
+ .bss.base_address
+                0x9fc31274        0x4 common/libcommon.o
+ .bss.dp_last_addr
+                0x9fc31278        0x4 common/libcommon.o
+ .bss.dp_last_size
+                0x9fc3127c        0x4 common/libcommon.o
+ .bss.mm_last_addr
+                0x9fc31280        0x4 common/libcommon.o
+ .bss.mm_last_size
+                0x9fc31284        0x4 common/libcommon.o
+ .bss.ctrlc_was_pressed
+                0x9fc31288        0x4 common/libcommon.o
+ .bss.ctrlc_disabled
+                0x9fc3128c        0x4 common/libcommon.o
+ .bss.mem_malloc_start
+                0x9fc31290        0x4 common/libcommon.o
+                0x9fc31290                mem_malloc_start
+ .bss.mem_malloc_end
+                0x9fc31294        0x4 common/libcommon.o
+                0x9fc31294                mem_malloc_end
+ .bss.mem_malloc_brk
+                0x9fc31298        0x4 common/libcommon.o
+                0x9fc31298                mem_malloc_brk
+ .bss.top_pad   0x9fc3129c        0x4 common/libcommon.o
+ .bss.current_mallinfo
+                0x9fc312a0       0x28 common/libcommon.o
+ .bss.max_sbrked_mem
+                0x9fc312c8        0x4 common/libcommon.o
+ .bss.max_total_mem
+                0x9fc312cc        0x4 common/libcommon.o
+ .bss.hist_num  0x9fc312d0        0x4 common/libcommon.o
+                0x9fc312d0                hist_num
+ .bss.initted.3710
+                0x9fc312d4        0x4 common/libcommon.o
+ .bss.hist_max  0x9fc312d8        0x4 common/libcommon.o
+ .bss.hist_add_idx
+                0x9fc312dc        0x4 common/libcommon.o
+ .bss.lastcommand.3409
+                0x9fc312e0      0x200 common/libcommon.o
+ .bss.stdio_devices
+                0x9fc314e0        0xc common/libcommon.o
+                0x9fc314e0                stdio_devices
+ .bss.devs      0x9fc314ec       0x3c common/libcommon.o
+ .bss.xyz       0x9fc31528      0x43c common/libcommon.o
+ .bss.current_part
+                0x9fc31964        0x4 fs/jffs2/libjffs2.o
+ .bss.errno     0x9fc31968        0x4 lib/libgeneric.o
+                0x9fc31968                errno
+ .bss.env_changed_id.4024
+                0x9fc3196c        0x4 net/libnet.o
+ .bss.act.4023  0x9fc31970        0x4 net/libnet.o
+ .bss.first_failed.4003
+                0x9fc31974        0x4 net/libnet.o
+ .bss.eth_devices
+                0x9fc31978        0x4 net/libnet.o
+ .bss.eth_current
+                0x9fc3197c        0x4 net/libnet.o
+ .bss.NetOurNISDomain
+                0x9fc31980       0x20 net/libnet.o
+                0x9fc31980                NetOurNISDomain
+ .bss.NetOurHostName
+                0x9fc319a0       0x20 net/libnet.o
+                0x9fc319a0                NetOurHostName
+ .bss.NetOurRootPath
+                0x9fc319c0       0x40 net/libnet.o
+                0x9fc319c0                NetOurRootPath
+ .bss.env_changed_id.3194
+                0x9fc31a00        0x4 net/libnet.o
+ .bss.NetRestarted
+                0x9fc31a04        0x4 net/libnet.o
+ .bss.NetDevExists
+                0x9fc31a08        0x4 net/libnet.o
+ .bss.packetHandler
+                0x9fc31a0c        0x4 net/libnet.o
+ .bss.timeHandler
+                0x9fc31a10        0x4 net/libnet.o
+ .bss.timeStart
+                0x9fc31a14        0x4 net/libnet.o
+ .bss.timeDelta
+                0x9fc31a18        0x4 net/libnet.o
+ .bss.NetTryCount
+                0x9fc31a1c        0x4 net/libnet.o
+ .bss.TftpRemoteIP
+                0x9fc31a20        0x4 net/libnet.o
+ .bss.TftpRemotePort
+                0x9fc31a24        0x4 net/libnet.o
+ .bss.TftpOurPort
+                0x9fc31a28        0x4 net/libnet.o
+ .bss.TftpTimeoutCount
+                0x9fc31a2c        0x4 net/libnet.o
+ .bss.TftpBlock
+                0x9fc31a30        0x4 net/libnet.o
+ .bss.TftpLastBlock
+                0x9fc31a34        0x4 net/libnet.o
+ .bss.TftpBlockWrap
+                0x9fc31a38        0x4 net/libnet.o
+ .bss.TftpBlockWrapOffset
+                0x9fc31a3c        0x4 net/libnet.o
+ .bss.TftpState
+                0x9fc31a40        0x4 net/libnet.o
+ .bss.default_filename
+                0x9fc31a44       0x10 net/libnet.o
+ .bss.tftp_filename
+                0x9fc31a54       0x80 net/libnet.o
+ .bss.spi_en_4b
+                0x9fc31ad4        0x4 board/Realtek/rtl8686demo/librtl8686demo.o
+ .bss.spi_flash_num_of_chips
+                0x9fc31ad8        0x4 board/Realtek/rtl8686demo/librtl8686demo.o
+ .bss.i.4081    0x9fc31adc        0x4 board/Realtek/rtl8686demo/librtl8686demo.o
+ .bss.spi_flash_total_size
+                0x9fc31ae0        0x4 board/Realtek/rtl8686demo/librtl8686demo.o
+ COMMON         0x9fc31ae4      0x588 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                0x9fc31ae4                pTxBDPtr
+                0x9fc31ae8                pRxBDPtr
+                0x9fc31aec                descriptor_tx
+                0x9fc31e6c                descriptor_rx
+ COMMON         0x9fc3206c        0x4 arch/mips/lib/libmips.o
+                0x9fc3206c                monitor_flash_len
+ COMMON         0x9fc32070     0x2b34 common/libcommon.o
+                0x9fc32070                console_buffer
+                0x9fc32274                hist_list
+                0x9fc322c4                env_htab
+                0x9fc322d0                hist_lines
+                0x9fc34ae4                save_addr
+                0x9fc34ae8                his_pad_char
+                0x9fc34aec                os_data_init
+                0x9fc34af0                images
+                0x9fc34b7c                send_ptr
+                0x9fc34b80                os_data_char
+                0x9fc34b84                save_size
+                0x9fc34b88                his_eol
+                0x9fc34b89                his_quote
+                0x9fc34b8c                send_parms
+                0x9fc34ba0                his_pad_count
+ COMMON         0x9fc34ba4     0x2540 net/libnet.o
+                0x9fc34ba4                NetArpWaitTry
+                0x9fc34ba8                NetArpWaitPacketMAC
+                0x9fc34bac                NetOurEther
+                0x9fc34bb4                NetOurIP
+                0x9fc34bb8                NetServerIP
+                0x9fc34bbc                NetArpWaitTxPacketSize
+                0x9fc34bc0                NetArpWaitReplyIP
+                0x9fc34bc4                NetArpWaitTxPacket
+                0x9fc34bc8                NetRxPackets
+                0x9fc34bd8                NetArpWaitPacketIP
+                0x9fc34bdc                NetState
+                0x9fc34be0                BootpTry
+                0x9fc34be4                BootFile
+                0x9fc34c64                NetServerEther
+                0x9fc34c6c                NetOurSubnetMask
+                0x9fc34c70                NetBootFileSize
+                0x9fc34c74                NetIPID
+                0x9fc34c78                NetRxPacket
+                0x9fc34c7c                BootpID
+                0x9fc34c80                NetOurGatewayIP
+                0x9fc34c84                NetEtherNullAddr
+                0x9fc34c8c                NetRestartWrap
+                0x9fc34c90                NetArpWaitPacketBuf
+                0x9fc352b0                NetTxPacket
+                0x9fc352b4                NetBootFileXferSize
+                0x9fc352b8                NetOurDNSIP
+                0x9fc352bc                NetRxPacketLen
+                0x9fc352c0                PktBuf
+                0x9fc370e0                NetArpWaitTimerStart
+ COMMON         0x9fc370e4     0x1448 board/Realtek/rtl8686demo/librtl8686demo.o
+                0x9fc370e4                flash_info
+                0x9fc3852c                uboot_end = .
+Address of section .text set to 0x9fc00000
+LOAD arch/mips/cpu/rlx5281/start.o
+START GROUP
+LOAD api/libapi.o
+LOAD arch/mips/cpu/rlx5281/librlx5281.o
+LOAD arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+LOAD arch/mips/lib/libmips.o
+LOAD common/libcommon.o
+LOAD disk/libdisk.o
+LOAD drivers/bios_emulator/libatibiosemu.o
+LOAD drivers/block/libblock.o
+LOAD drivers/dma/libdma.o
+LOAD drivers/fpga/libfpga.o
+LOAD drivers/gpio/libgpio.o
+LOAD drivers/hwmon/libhwmon.o
+LOAD drivers/i2c/libi2c.o
+LOAD drivers/input/libinput.o
+LOAD drivers/misc/libmisc.o
+LOAD drivers/mmc/libmmc.o
+LOAD drivers/mtd/libmtd.o
+LOAD drivers/mtd/nand/libnand.o
+LOAD drivers/mtd/onenand/libonenand.o
+LOAD drivers/mtd/spi/libspi_flash.o
+LOAD drivers/mtd/ubi/libubi.o
+LOAD drivers/net/libnet.o
+LOAD drivers/net/phy/libphy.o
+LOAD drivers/pci/libpci.o
+LOAD drivers/pcmcia/libpcmcia.o
+LOAD drivers/power/libpower.o
+LOAD drivers/rtc/librtc.o
+LOAD drivers/serial/libserial.o
+LOAD drivers/spi/libspi.o
+LOAD drivers/twserial/libtws.o
+LOAD drivers/usb/eth/libusb_eth.o
+LOAD drivers/usb/gadget/libusb_gadget.o
+LOAD drivers/usb/host/libusb_host.o
+LOAD drivers/usb/musb/libusb_musb.o
+LOAD drivers/usb/phy/libusb_phy.o
+LOAD drivers/usb/ulpi/libusb_ulpi.o
+LOAD drivers/video/libvideo.o
+LOAD drivers/watchdog/libwatchdog.o
+LOAD fs/cramfs/libcramfs.o
+LOAD fs/ext2/libext2fs.o
+LOAD fs/fat/libfat.o
+LOAD fs/fdos/libfdos.o
+LOAD fs/jffs2/libjffs2.o
+LOAD fs/reiserfs/libreiserfs.o
+LOAD fs/ubifs/libubifs.o
+LOAD fs/yaffs2/libyaffs2.o
+LOAD lib/libfdt/libfdt.o
+LOAD lib/libgeneric.o
+LOAD lib/lzma/liblzma.o
+LOAD lib/lzo/liblzo.o
+LOAD lib/zlib/libz.o
+LOAD net/libnet.o
+LOAD post/libpost.o
+LOAD board/Realtek/rtl8686demo/librtl8686demo.o
+END GROUP
+LOAD /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a
+OUTPUT(u-boot elf32-tradbigmips)
+
+.comment        0x00000000       0x22
+ .comment       0x00000000       0x22 arch/mips/cpu/rlx5281/librlx5281.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000000      0x15e arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .comment       0x00000000       0x46 arch/mips/lib/libmips.o
+ .comment       0x00000000      0x43d common/libcommon.o
+ .comment       0x00000000       0x23 disk/libdisk.o
+ .comment       0x00000000       0x46 drivers/pcmcia/libpcmcia.o
+ .comment       0x00000000       0x23 drivers/rtc/librtc.o
+ .comment       0x00000000       0xaf fs/jffs2/libjffs2.o
+ .comment       0x00000000      0x230 lib/libgeneric.o
+ .comment       0x00000000       0x23 lib/zlib/libz.o
+ .comment       0x00000000       0x8c net/libnet.o
+ .comment       0x00000000       0x8c board/Realtek/rtl8686demo/librtl8686demo.o
+ .comment       0x00000000       0x23 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_lshrdi3.o)
+ .comment       0x00000000       0x23 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_ashldi3.o)
+
+.gnu.attributes
+                0x00000000       0x10
+ .gnu.attributes
+                0x00000000       0x10 arch/mips/cpu/rlx5281/librlx5281.o
+ .gnu.attributes
+                0x00000010       0x10 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .gnu.attributes
+                0x00000020       0x10 arch/mips/lib/libmips.o
+ .gnu.attributes
+                0x00000030       0x10 common/libcommon.o
+ .gnu.attributes
+                0x00000040       0x10 disk/libdisk.o
+ .gnu.attributes
+                0x00000050       0x10 drivers/pcmcia/libpcmcia.o
+ .gnu.attributes
+                0x00000060       0x10 drivers/rtc/librtc.o
+ .gnu.attributes
+                0x00000070       0x10 fs/jffs2/libjffs2.o
+ .gnu.attributes
+                0x00000080       0x10 lib/libgeneric.o
+ .gnu.attributes
+                0x00000090       0x10 lib/zlib/libz.o
+ .gnu.attributes
+                0x000000a0       0x10 net/libnet.o
+ .gnu.attributes
+                0x000000b0       0x10 board/Realtek/rtl8686demo/librtl8686demo.o
+ .gnu.attributes
+                0x000000c0       0x10 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_lshrdi3.o)
+ .gnu.attributes
+                0x000000d0       0x10 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_ashldi3.o)
+
+.mdebug.abi32   0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 arch/mips/cpu/rlx5281/librlx5281.o
+ .mdebug.abi32  0x00000000        0x0 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .mdebug.abi32  0x00000000        0x0 arch/mips/lib/libmips.o
+ .mdebug.abi32  0x00000000        0x0 common/libcommon.o
+ .mdebug.abi32  0x00000000        0x0 disk/libdisk.o
+ .mdebug.abi32  0x00000000        0x0 drivers/pcmcia/libpcmcia.o
+ .mdebug.abi32  0x00000000        0x0 drivers/rtc/librtc.o
+ .mdebug.abi32  0x00000000        0x0 fs/jffs2/libjffs2.o
+ .mdebug.abi32  0x00000000        0x0 lib/libgeneric.o
+ .mdebug.abi32  0x00000000        0x0 lib/zlib/libz.o
+ .mdebug.abi32  0x00000000        0x0 net/libnet.o
+ .mdebug.abi32  0x00000000        0x0 board/Realtek/rtl8686demo/librtl8686demo.o
+ .mdebug.abi32  0x00000000        0x0 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_lshrdi3.o)
+ .mdebug.abi32  0x00000000        0x0 /rsdk-1.5.6-5281-EB-2.6.30-0.9.30.3-110915/bin/../lib/gcc/mips-linux/4.4.6/5281/libgcc.a(_ashldi3.o)
+
+.pdr            0x00000000        0x0
+ .pdr           0x00000000        0x0 drivers/pcmcia/libpcmcia.o
+
+.debug_line     0x00000000     0xcedf
+ .debug_line    0x00000000      0x11c arch/mips/cpu/rlx5281/start.o
+ .debug_line    0x0000011c      0x28a arch/mips/cpu/rlx5281/librlx5281.o
+ .debug_line    0x000003a6     0x3355 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .debug_line    0x000036fb      0x4af arch/mips/lib/libmips.o
+ .debug_line    0x00003baa     0x47e1 common/libcommon.o
+ .debug_line    0x0000838b       0xd4 disk/libdisk.o
+ .debug_line    0x0000845f       0x82 drivers/pcmcia/libpcmcia.o
+ .debug_line    0x000084e1       0xde drivers/rtc/librtc.o
+ .debug_line    0x000085bf      0xd3f fs/jffs2/libjffs2.o
+ .debug_line    0x000092fe     0x169c lib/libgeneric.o
+ .debug_line    0x0000a99a      0x7ab lib/zlib/libz.o
+ .debug_line    0x0000b145     0x106c net/libnet.o
+ .debug_line    0x0000c1b1      0xd2e board/Realtek/rtl8686demo/librtl8686demo.o
+
+.debug_info     0x00000000    0x1f20e
+ .debug_info    0x00000000       0x7b arch/mips/cpu/rlx5281/start.o
+ .debug_info    0x0000007b      0x3e9 arch/mips/cpu/rlx5281/librlx5281.o
+ .debug_info    0x00000464     0x59b6 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .debug_info    0x00005e1a      0xc1f arch/mips/lib/libmips.o
+ .debug_info    0x00006a39     0xcd21 common/libcommon.o
+ .debug_info    0x0001375a      0x26d disk/libdisk.o
+ .debug_info    0x000139c7       0xfe drivers/pcmcia/libpcmcia.o
+ .debug_info    0x00013ac5      0x25b drivers/rtc/librtc.o
+ .debug_info    0x00013d20     0x30d0 fs/jffs2/libjffs2.o
+ .debug_info    0x00016df0     0x2f79 lib/libgeneric.o
+ .debug_info    0x00019d69      0xfef lib/zlib/libz.o
+ .debug_info    0x0001ad58     0x2d27 net/libnet.o
+ .debug_info    0x0001da7f     0x178f board/Realtek/rtl8686demo/librtl8686demo.o
+
+.debug_abbrev   0x00000000     0x80a9
+ .debug_abbrev  0x00000000       0x14 arch/mips/cpu/rlx5281/start.o
+ .debug_abbrev  0x00000014      0x1d5 arch/mips/cpu/rlx5281/librlx5281.o
+ .debug_abbrev  0x000001e9      0xe11 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .debug_abbrev  0x00000ffa      0x452 arch/mips/lib/libmips.o
+ .debug_abbrev  0x0000144c     0x39b0 common/libcommon.o
+ .debug_abbrev  0x00004dfc       0xdf disk/libdisk.o
+ .debug_abbrev  0x00004edb       0x7e drivers/pcmcia/libpcmcia.o
+ .debug_abbrev  0x00004f59      0x129 drivers/rtc/librtc.o
+ .debug_abbrev  0x00005082      0x8c2 fs/jffs2/libjffs2.o
+ .debug_abbrev  0x00005944     0x1164 lib/libgeneric.o
+ .debug_abbrev  0x00006aa8      0x30c lib/zlib/libz.o
+ .debug_abbrev  0x00006db4      0xc52 net/libnet.o
+ .debug_abbrev  0x00007a06      0x6a3 board/Realtek/rtl8686demo/librtl8686demo.o
+
+.debug_aranges  0x00000000     0x1970
+ .debug_aranges
+                0x00000000       0x20 arch/mips/cpu/rlx5281/start.o
+ .debug_aranges
+                0x00000020       0x90 arch/mips/cpu/rlx5281/librlx5281.o
+ .debug_aranges
+                0x000000b0      0x648 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .debug_aranges
+                0x000006f8       0x78 arch/mips/lib/libmips.o
+ .debug_aranges
+                0x00000770      0x928 common/libcommon.o
+ .debug_aranges
+                0x00001098       0x20 disk/libdisk.o
+ .debug_aranges
+                0x000010b8       0x30 drivers/rtc/librtc.o
+ .debug_aranges
+                0x000010e8      0x140 fs/jffs2/libjffs2.o
+ .debug_aranges
+                0x00001228      0x368 lib/libgeneric.o
+ .debug_aranges
+                0x00001590       0x68 lib/zlib/libz.o
+ .debug_aranges
+                0x000015f8      0x1f0 net/libnet.o
+ .debug_aranges
+                0x000017e8      0x188 board/Realtek/rtl8686demo/librtl8686demo.o
+
+.debug_pubnames
+                0x00000000     0x34db
+ .debug_pubnames
+                0x00000000       0xbb arch/mips/cpu/rlx5281/librlx5281.o
+ .debug_pubnames
+                0x000000bb      0xf87 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .debug_pubnames
+                0x00001042       0xc7 arch/mips/lib/libmips.o
+ .debug_pubnames
+                0x00001109     0x13a9 common/libcommon.o
+ .debug_pubnames
+                0x000024b2       0x1e disk/libdisk.o
+ .debug_pubnames
+                0x000024d0       0x38 drivers/rtc/librtc.o
+ .debug_pubnames
+                0x00002508      0x173 fs/jffs2/libjffs2.o
+ .debug_pubnames
+                0x0000267b      0x48a lib/libgeneric.o
+ .debug_pubnames
+                0x00002b05       0xb4 lib/zlib/libz.o
+ .debug_pubnames
+                0x00002bb9      0x5d9 net/libnet.o
+ .debug_pubnames
+                0x00003192      0x349 board/Realtek/rtl8686demo/librtl8686demo.o
+
+.debug_frame    0x00000000     0x4348
+ .debug_frame   0x00000000       0xd0 arch/mips/cpu/rlx5281/librlx5281.o
+ .debug_frame   0x000000d0     0x1210 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .debug_frame   0x000012e0      0x130 arch/mips/lib/libmips.o
+ .debug_frame   0x00001410     0x186c common/libcommon.o
+ .debug_frame   0x00002c7c       0x20 disk/libdisk.o
+ .debug_frame   0x00002c9c       0x4c drivers/rtc/librtc.o
+ .debug_frame   0x00002ce8      0x36c fs/jffs2/libjffs2.o
+ .debug_frame   0x00003054      0x7d8 lib/libgeneric.o
+ .debug_frame   0x0000382c      0x130 lib/zlib/libz.o
+ .debug_frame   0x0000395c      0x5c4 net/libnet.o
+ .debug_frame   0x00003f20      0x428 board/Realtek/rtl8686demo/librtl8686demo.o
+
+.debug_str      0x00000000     0x68ac
+ .debug_str     0x00000000      0x179 arch/mips/cpu/rlx5281/librlx5281.o
+                                0x2e0 (size before relaxing)
+ .debug_str     0x00000179     0x1b93 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+                               0x26df (size before relaxing)
+ .debug_str     0x00001d0c      0x3a9 arch/mips/lib/libmips.o
+                                0x78f (size before relaxing)
+ .debug_str     0x000020b5     0x2209 common/libcommon.o
+                               0x6157 (size before relaxing)
+ .debug_str     0x000042be       0xd4 disk/libdisk.o
+                                0x181 (size before relaxing)
+ .debug_str     0x00004392       0x60 drivers/pcmcia/libpcmcia.o
+                                0x1df (size before relaxing)
+ .debug_str     0x000043f2       0x8d drivers/rtc/librtc.o
+                                0x17b (size before relaxing)
+ .debug_str     0x0000447f      0x93e fs/jffs2/libjffs2.o
+                               0x107a (size before relaxing)
+ .debug_str     0x00004dbd      0x568 lib/libgeneric.o
+                               0x144f (size before relaxing)
+ .debug_str     0x00005325      0x305 lib/zlib/libz.o
+                                0x580 (size before relaxing)
+ .debug_str     0x0000562a      0xb4d net/libnet.o
+                               0x14a3 (size before relaxing)
+ .debug_str     0x00006177      0x735 board/Realtek/rtl8686demo/librtl8686demo.o
+                                0xd3c (size before relaxing)
+
+.debug_loc      0x00000000    0x17e1c
+ .debug_loc     0x00000000      0x13e arch/mips/cpu/rlx5281/librlx5281.o
+ .debug_loc     0x0000013e     0x6014 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .debug_loc     0x00006152      0x35b arch/mips/lib/libmips.o
+ .debug_loc     0x000064ad     0x92a1 common/libcommon.o
+ .debug_loc     0x0000f74e      0x133 drivers/rtc/librtc.o
+ .debug_loc     0x0000f881     0x1ad1 fs/jffs2/libjffs2.o
+ .debug_loc     0x00011352     0x28ac lib/libgeneric.o
+ .debug_loc     0x00013bfe     0x17ec lib/zlib/libz.o
+ .debug_loc     0x000153ea     0x16b5 net/libnet.o
+ .debug_loc     0x00016a9f     0x137d board/Realtek/rtl8686demo/librtl8686demo.o
+
+.debug_ranges   0x00000000     0x3280
+ .debug_ranges  0x00000000       0x60 arch/mips/cpu/rlx5281/librlx5281.o
+ .debug_ranges  0x00000060      0x900 arch/mips/cpu/rlx5281/rtl8686/librtl8686.o
+ .debug_ranges  0x00000960      0x110 arch/mips/lib/libmips.o
+ .debug_ranges  0x00000a70     0x1148 common/libcommon.o
+ .debug_ranges  0x00001bb8       0x18 disk/libdisk.o
+ .debug_ranges  0x00001bd0       0x28 drivers/rtc/librtc.o
+ .debug_ranges  0x00001bf8      0x6a8 fs/jffs2/libjffs2.o
+ .debug_ranges  0x000022a0      0x570 lib/libgeneric.o
+ .debug_ranges  0x00002810       0x60 lib/zlib/libz.o
+ .debug_ranges  0x00002870      0x6f8 net/libnet.o
+ .debug_ranges  0x00002f68      0x318 board/Realtek/rtl8686demo/librtl8686demo.o

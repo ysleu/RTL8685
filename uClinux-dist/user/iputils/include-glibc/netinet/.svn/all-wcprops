@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/53735/trunk/adsl/SDK/uClinux-dist/user/iputils/include-glibc/netinet
+END
+ip_icmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/53735/trunk/adsl/SDK/uClinux-dist/user/iputils/include-glibc/netinet/ip_icmp.h
+END
+in.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/53735/trunk/adsl/SDK/uClinux-dist/user/iputils/include-glibc/netinet/in.h
+END
+ip.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/53735/trunk/adsl/SDK/uClinux-dist/user/iputils/include-glibc/netinet/ip.h
+END

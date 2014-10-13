@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs
+END
+PHY_REG_1T2R.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/PHY_REG_1T2R.txt
+END
+PHY_to1T1R_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/PHY_to1T1R_a.txt
+END
+PHY_to1T2R_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/PHY_to1T2R_a.txt
+END
+PHY_to1T2R.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/PHY_to1T2R.txt
+END
+PHY_to1T1R_b.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/PHY_to1T1R_b.txt
+END
+PHY_to2T2R.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/PHY_to2T2R.txt
+END
+PHY_to1T2R_b.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/PHY_to1T2R_b.txt
+END
+MACPHY_REG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/MACPHY_REG.txt
+END
+AGC_TAB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/AGC_TAB.txt
+END
+PHY_REG_PG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/PHY_REG_PG.txt
+END
+phy_reg_MP.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/phy_reg_MP.txt
+END
+phy_reg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/phy_reg.txt
+END
+rtl8192sfw.bin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/rtl8192sfw.bin
+END
+radio_a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/radio_a.txt
+END
+macreg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/macreg.txt
+END
+radio_b.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/rtl8192su/fs/radio_b.txt
+END

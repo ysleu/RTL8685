@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x
+END
+proslic_datatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/proslic_datatypes.h
+END
+proslic_timer_intf.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/proslic_timer_intf.h
+END
+si3226_gr909_patch.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/si3226_gr909_patch.c
+END
+proslic_ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/proslic_ctrl.h
+END
+si3226_patch.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/si3226_patch.c
+END
+si3226_intf.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/si3226_intf.c
+END
+sys_driv_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/sys_driv_type.h
+END
+proslic_ctrl_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/proslic_ctrl_spi.c
+END
+ProSLIC.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/ProSLIC.c
+END
+si3226_intf.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/si3226_intf.h
+END
+proslic.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/proslic.h
+END
+si3226_registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/si3226_registers.h
+END
+si3226_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/si3226_constants.c
+END
+si3226_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/si3226_constants.h
+END
+proslic_timer_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/proslic_timer_linux.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/Makefile
+END
+si3226.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api_si322x/si3226.h
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/include/linux/netfilter_ipv4
+END
+ip_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iproute2-2.6.19/include/linux/netfilter_ipv4/ip_tables.h
+END

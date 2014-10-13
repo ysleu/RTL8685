@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676
+END
+rtl8196.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/rtl8196.h
+END
+mipsregs.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/mipsregs.h
+END
+cp0_util.S
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/cp0_util.S
+END
+swTable.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/swTable.c
+END
+swCore.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/swCore.c
+END
+asicregs.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/asicregs.h
+END
+eregdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/eregdef.h
+END
+swTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/swTable.h
+END
+swCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/swCore.h
+END
+vlanTable.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/vlanTable.c
+END
+swNic_poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/swNic_poll.c
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/loader.h
+END
+rtl_errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/rtl_errno.h
+END
+vlanTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/vlanTable.h
+END
+rlx5281_ctr.S
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/rlx5281_ctr.S
+END
+au1x00_serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/au1x00_serial.c
+END
+swNic_poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/swNic_poll.h
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/timer.c
+END
+rtk_soc_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/rtk_soc_common.h
+END
+macro.s
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/macro.s
+END
+rtl_depend.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/rtl_depend.h
+END
+memctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/memctl.h
+END
+8676_lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/8676_lowlevel_init.S
+END
+memctl_dram_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/memctl_dram_init.S
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/config.mk
+END
+rtl_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/rtl_types.h
+END
+rtl8676_serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/rtl8676_serial.c
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/lowlevel_init.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/Makefile
+END
+rtl8676_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8676/rtl8676_eth.c
+END

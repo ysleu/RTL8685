@@ -1,0 +1,20 @@
+if [ -x "/bin/dns_task" ]; then
+	echo "dns_task staring..."
+	dns_task &
+fi
+
+if [ -x "/bin/ivrserver" ]; then	
+	echo "solar ivrserver..."
+	ivrserver&
+fi
+
+if [ -x "/bin/solar" ]; then
+        echo "solar staring..."
+        solar&
+fi
+
+if [ -x "/bin/solar_monitor" ]; then
+        echo "solar monitor staring..."
+        solar_monitor&
+fi
+

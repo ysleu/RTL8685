@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove
+END
+icTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/icTest.h
+END
+cryptoModel.c
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/cryptoModel.c
+END
+parserTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/parserTest.h
+END
+naptTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/naptTest.c
+END
+l34Test.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l34Test.c
+END
+l2PacketTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l2PacketTest.c
+END
+_desktop.ini
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/_desktop.ini
+END
+cryptoModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/cryptoModel.h
+END
+naptTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/naptTest.h
+END
+l34Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l34Test.h
+END
+l2PacketTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l2PacketTest.h
+END
+aclModel.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/aclModel.c
+END
+tblTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/tblTest.c
+END
+naptModel.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/naptModel.c
+END
+l34Model.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l34Model.c
+END
+aclModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/aclModel.h
+END
+dumpAcl.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/dumpAcl.c
+END
+naptModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/naptModel.h
+END
+l34Model.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l34Model.h
+END
+translatorTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/translatorTest.c
+END
+l34PacketTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l34PacketTest.c
+END
+ft2Test.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/ft2Test.c
+END
+vsv_conn.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/vsv_conn.c
+END
+l2Model.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l2Model.c
+END
+translatorTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/translatorTest.h
+END
+l34PacketTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l34PacketTest.h
+END
+ft2Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/ft2Test.h
+END
+tblComp.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/tblComp.c
+END
+vsv_conn.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/vsv_conn.h
+END
+l2Model.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l2Model.h
+END
+dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/dump.c
+END
+tblComp.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/tblComp.h
+END
+nicTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/nicTest.c
+END
+dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/dump.h
+END
+read2vera.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/read2vera.c
+END
+l2Test.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l2Test.c
+END
+nicTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/nicTest.h
+END
+cryptoTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/cryptoTest.c
+END
+l2Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/l2Test.h
+END
+cryptoTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/cryptoTest.h
+END
+c2vera.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/c2vera.h
+END
+write2vera.c
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/write2vera.c
+END
+icTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/icTest.c
+END
+parserTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/gdma/remove/parserTest.c
+END

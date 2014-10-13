@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen
+END
+adacurses-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/adacurses-config.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/Makefile.in
+END
+terminal_interface-curses.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses.ads.m4
+END
+html.m4
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/html.m4
+END
+terminal_interface-curses-menus-item_user_data.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-menus-item_user_data.ads.m4
+END
+gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/gen.c
+END
+terminal_interface-curses-forms-form_user_data.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-forms-form_user_data.ads.m4
+END
+terminal_interface-curses-menus-menu_user_data.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-menus-menu_user_data.ads.m4
+END
+terminal_interface-curses.adb.m4
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses.adb.m4
+END
+terminal_interface-curses-panels.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-panels.ads.m4
+END
+terminal_interface-curses-forms.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-forms.ads.m4
+END
+table.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/table.m4
+END
+terminal_interface-curses-menus.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-menus.ads.m4
+END
+normal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/normal.m4
+END
+terminal_interface-curses-panels-user_data.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-panels-user_data.ads.m4
+END
+terminal_interface-curses-mouse.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-mouse.ads.m4
+END
+terminal_interface-curses-forms-field_types.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-forms-field_types.ads.m4
+END
+terminal_interface-curses-aux.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-aux.ads.m4
+END
+adacurses-config
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/adacurses-config
+END
+terminal_interface-curses-forms-field_user_data.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-forms-field_user_data.ads.m4
+END
+terminal_interface-curses-trace.ads.m4
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/gen/terminal_interface-curses-trace.ads.m4
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles
+END
+Ve_profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Ve_profile.h
+END
+Realtek_88601.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Realtek_88601.h
+END
+ZLR96622L_A0.vpw
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/ZLR96622L_A0.vpw
+END
+Le880NB_HV.vpw
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le880NB_HV.vpw
+END
+Le890NB_HV.vpw
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le890NB_HV.vpw
+END
+Le890NB_LVHV.vpw
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le890NB_LVHV.vpw
+END
+Realtek_88601_zsi.vpw
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Realtek_88601_zsi.vpw
+END
+ZLR96622L_A0.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/ZLR96622L_A0.c
+END
+Le89156_100V_IB_Profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le89156_100V_IB_Profile.c
+END
+Le880NB_HV.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le880NB_HV.c
+END
+Le890NB_HV.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le890NB_HV.c
+END
+Le890NB_LVHV.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le890NB_LVHV.c
+END
+Le890WB_HV.vpw
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le890WB_HV.vpw
+END
+ZLR96622L_A0.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/ZLR96622L_A0.h
+END
+Le89156_100V_IB_Profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le89156_100V_IB_Profile.h
+END
+Le880NB_HV.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le880NB_HV.h
+END
+Realtek_88601_zsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Realtek_88601_zsi.c
+END
+Le890NB_HV.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le890NB_HV.h
+END
+Le890NB_LVHV.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le890NB_LVHV.h
+END
+Le890WB_HV.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le890WB_HV.c
+END
+Realtek_88601.vpw
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Realtek_88601.vpw
+END
+Realtek_88601_zsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Realtek_88601_zsi.h
+END
+Ve_profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Ve_profile.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Makefile
+END
+Le890WB_HV.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Le890WB_HV.h
+END
+Realtek_88601.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/profiles/Realtek_88601.c
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar
+END
+lib_hline_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_hline_set.c
+END
+charable.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/charable.c
+END
+lib_vid_attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_vid_attr.c
+END
+lib_in_wchnstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_in_wchnstr.c
+END
+lib_get_wch.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_get_wch.c
+END
+lib_cchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_cchar.c
+END
+lib_pecho_wchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_pecho_wchar.c
+END
+lib_unget_wch.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_unget_wch.c
+END
+lib_erasewchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_erasewchar.c
+END
+lib_inwstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_inwstr.c
+END
+lib_key_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_key_name.c
+END
+lib_vline_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_vline_set.c
+END
+lib_add_wch.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_add_wch.c
+END
+lib_ins_wch.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_ins_wch.c
+END
+lib_slk_wset.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_slk_wset.c
+END
+lib_wacs.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_wacs.c
+END
+lib_get_wstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_get_wstr.c
+END
+lib_wunctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_wunctrl.c
+END
+lib_box_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_box_set.c
+END
+lib_in_wch.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/ncurses/widechar/lib_in_wch.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/genlib/util
+END
+strintmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/genlib/util/strintmap.c
+END
+membuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/genlib/util/membuffer.c
+END
+upnp_timeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/genlib/util/upnp_timeout.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/genlib/util/Makefile
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/genlib/util/util.c
+END

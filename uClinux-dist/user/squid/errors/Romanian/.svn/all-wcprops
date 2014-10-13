@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian
+END
+ERR_FTP_PUT_CREATED
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_FTP_PUT_CREATED
+END
+ERR_INVALID_URL
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_INVALID_URL
+END
+ERR_NO_RELAY
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_NO_RELAY
+END
+ERR_ACCESS_DENIED
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_ACCESS_DENIED
+END
+ERR_FORWARDING_DENIED
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_FORWARDING_DENIED
+END
+ERR_LIFETIME_EXP
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_LIFETIME_EXP
+END
+ERR_DNS_FAIL
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_DNS_FAIL
+END
+ERR_FTP_DISABLED
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_FTP_DISABLED
+END
+ERR_FTP_PUT_MODIFIED
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_FTP_PUT_MODIFIED
+END
+ERR_ONLY_IF_CACHED_MISS
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_ONLY_IF_CACHED_MISS
+END
+ERR_READ_TIMEOUT
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_READ_TIMEOUT
+END
+ERR_UNSUP_REQ
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_UNSUP_REQ
+END
+ERR_TOO_BIG
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_TOO_BIG
+END
+ERR_CONNECT_FAIL
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_CONNECT_FAIL
+END
+ERR_READ_ERROR
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_READ_ERROR
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/README
+END
+ERR_FTP_PUT_ERROR
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_FTP_PUT_ERROR
+END
+ERR_FTP_UNAVAILABLE
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_FTP_UNAVAILABLE
+END
+ERR_CACHE_ACCESS_DENIED
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_CACHE_ACCESS_DENIED
+END
+ERR_SHUTTING_DOWN
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_SHUTTING_DOWN
+END
+ERR_INVALID_REQ
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_INVALID_REQ
+END
+ERR_SOCKET_FAILURE
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_SOCKET_FAILURE
+END
+ERR_ZERO_SIZE_OBJECT
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_ZERO_SIZE_OBJECT
+END
+ERR_FTP_FAILURE
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_FTP_FAILURE
+END
+ERR_CACHE_MGR_ACCESS_DENIED
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_CACHE_MGR_ACCESS_DENIED
+END
+ERR_URN_RESOLVE
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_URN_RESOLVE
+END
+ERR_WRITE_ERROR
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_WRITE_ERROR
+END
+ERR_FTP_NOT_FOUND
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_FTP_NOT_FOUND
+END
+ERR_FTP_FORBIDDEN
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_FTP_FORBIDDEN
+END
+ERR_CANNOT_FORWARD
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/squid/errors/Romanian/ERR_CANNOT_FORWARD
+END

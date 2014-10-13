@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/includes
+END
+xml_config_gramma.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/56105/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/includes/xml_config_gramma.h
+END
+xml_config_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/56105/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/includes/xml_config_define.h
+END
+xml_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/55521/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/includes/xml_config.h
+END
+mib.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/includes/mib.h
+END

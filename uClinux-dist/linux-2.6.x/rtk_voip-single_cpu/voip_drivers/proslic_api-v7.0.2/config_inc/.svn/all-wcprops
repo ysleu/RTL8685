@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc
+END
+proslic_api_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/proslic_api_config.h
+END
+vdaa_api_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/vdaa_api_config.h
+END
+si3217x_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/si3217x_constants.h
+END
+si3226x_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/si3226x_constants.h
+END
+si32xxx_multibom_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/si32xxx_multibom_constants.h
+END
+proslic_tstin_limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/proslic_tstin_limits.h
+END
+si_voice_datatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/si_voice_datatypes.h
+END
+rtk_sys_driv_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/rtk_sys_driv_type.h
+END
+si3226_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/si3226_constants.h
+END
+si321x_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/si321x_constants.h
+END
+vdaa_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/vdaa_constants.h
+END
+si324x_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/config_inc/si324x_constants.h
+END

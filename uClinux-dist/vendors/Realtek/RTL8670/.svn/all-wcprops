@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/63141/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670
+END
+config.arch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/config.arch
+END
+services
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/services
+END
+boa.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/boa.conf
+END
+rcS
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/56098/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rcS
+END
+rc-first
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rc-first
+END
+mime.types
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/mime.types
+END
+inittab
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/inittab
+END
+shells
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/shells
+END
+termcap
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/termcap
+END
+config_nommu.arch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/config_nommu.arch
+END
+rc_dev_voip
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50839/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rc_dev_voip
+END
+passwd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/passwd
+END
+config.vendor
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/config.vendor
+END
+rc_rcmvoip
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rc_rcmvoip
+END
+rc_voip.dual_linux
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/57693/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rc_voip.dual_linux
+END
+rc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rc
+END
+config.uClibc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/config.uClibc
+END
+Config
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/Config
+END
+squashfs-pf.in
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50839/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/squashfs-pf.in
+END
+config.vendor-2.6.x
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/config.vendor-2.6.x
+END
+config.linux-2.4.x
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/config.linux-2.4.x
+END
+config.linux-2.6.x
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/config.linux-2.6.x
+END
+rc-3.4.x
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/58702/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rc-3.4.x
+END
+rc_voip.aipc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/59605/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rc_voip.aipc
+END
+rc-2.6.x
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rc-2.6.x
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/62967/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/Makefile
+END
+mdev.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/mdev.conf
+END
+inittab_slave
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/56098/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/inittab_slave
+END
+busybox
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/busybox
+END
+rc_dsp_console
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50839/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rc_dsp_console
+END
+ethertypes
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/ethertypes
+END
+config_mmu.arch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/config_mmu.arch
+END
+profile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/profile
+END
+rc_voip
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rc_voip
+END
+config_default_hs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/57065/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/config_default_hs.xml
+END
+initramfs_dev.list
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/52432/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/initramfs_dev.list
+END
+config_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/57065/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/config_default.xml
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/index.html
+END
+config.modules
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/config.modules
+END
+rc-16m-2.6.x
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/rc-16m-2.6.x
+END

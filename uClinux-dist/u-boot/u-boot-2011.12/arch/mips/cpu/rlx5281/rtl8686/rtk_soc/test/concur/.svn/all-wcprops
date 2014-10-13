@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur
+END
+concur_test.c.OK
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/concur_test.c.OK
+END
+concur_cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/concur_cpu.c
+END
+concur_idmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/concur_idmem.c
+END
+concur_cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/concur_cpu.h
+END
+_desktop.ini
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/_desktop.ini
+END
+concur_idmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/concur_idmem.h
+END
+idmem_dma_op.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/idmem_dma_op.c
+END
+concur_gdma.c.bk
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/concur_gdma.c.bk
+END
+idmem_dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/idmem_dma.h
+END
+concur_gdma.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/concur_gdma.c
+END
+concur_gdma.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/concur_gdma.h
+END
+concur_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/concur_test.c
+END
+rlx5281.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/rlx5281.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/Makefile
+END
+concur_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/test/concur/concur_test.h
+END

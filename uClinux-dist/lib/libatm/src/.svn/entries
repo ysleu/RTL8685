@@ -1,0 +1,181 @@
+10
+
+dir
+63278
+http://cadinfo.realtek.com/svn/CN/cnsd5/trunk/adsl/SDK/uClinux-dist/lib/libatm/src
+http://cadinfo.realtek.com/svn/CN/cnsd5
+
+
+
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6205ae0b-4059-46eb-a33d-b14f343f8a53
+
+lane
+dir
+
+test
+dir
+
+saal
+dir
+
+Makefile.in
+file
+
+
+
+
+2014-10-09T08:30:56.828125Z
+cee18ca41fb06dc9b3834b252e14277d
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8645
+
+include
+dir
+
+extra
+dir
+
+debug
+dir
+
+arpd
+dir
+
+sigd
+dir
+
+qgen
+dir
+
+ilmid
+dir
+
+mpoad
+dir
+
+switch
+dir
+
+led
+dir
+
+config
+dir
+
+lib
+dir
+
+maint
+dir
+
+Makefile.am
+file
+
+
+
+
+2014-10-09T08:30:56.843750Z
+010bc5841ce301fffc42d8714cc5be55
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+109
+
+man
+dir
+
+Makefile
+file
+
+
+
+
+2014-10-09T08:30:56.843750Z
+4cb27a7a1b49e4a6ce0b6403da37a8f9
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8715
+

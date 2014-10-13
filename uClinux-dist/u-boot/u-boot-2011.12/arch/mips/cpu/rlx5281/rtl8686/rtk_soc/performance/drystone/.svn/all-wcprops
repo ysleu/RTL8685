@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/performance/drystone
+END
+_desktop.ini
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/performance/drystone/_desktop.ini
+END
+dhry_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/performance/drystone/dhry_test.c
+END
+dhry_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/performance/drystone/dhry_1.c
+END
+dhry_2.c
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/performance/drystone/dhry_2.c
+END
+dhry.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/performance/drystone/dhry.h
+END
+my_dhry_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/performance/drystone/my_dhry_1.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/performance/drystone/Makefile
+END

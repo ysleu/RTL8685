@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/60555/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/dhcpctl
+END
+cltest.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/dhcpctl/cltest.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/60540/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/dhcpctl/Makefile.in
+END
+dhcpctl.3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/dhcpctl/dhcpctl.3
+END
+dhcpctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/dhcpctl/dhcpctl.c
+END
+omshell.1
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/dhcpctl/omshell.1
+END
+omshell.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/dhcpctl/omshell.c
+END
+dhcpctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/dhcpctl/dhcpctl.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/dhcpctl/Makefile.am
+END
+remote.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/dhcpctl/remote.c
+END
+callback.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/dhcpctl/callback.c
+END

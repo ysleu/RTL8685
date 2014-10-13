@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/63268/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX
+END
+adsl_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/61196/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/adsl_drv.c
+END
+rtl_flashdrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtl_flashdrv.h
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/options.h
+END
+rtusr_gpon.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/55833/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_gpon.c
+END
+wireless.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/63046/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/wireless.h
+END
+adsl_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/61139/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/adsl_drv.h
+END
+loadconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/60564/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/loadconfig.c
+END
+cmdedit.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/cmdedit.c
+END
+subr_qos_3.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/63132/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_qos_3.c
+END
+cfgutility.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/cfgutility.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/debug.c
+END
+cfgutility.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/cfgutility.h
+END
+rtl_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtl_types.h
+END
+cli_utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/cli_utility.c
+END
+flash_ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/flash_ui.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/debug.h
+END
+genscript_ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/genscript_ui.c
+END
+climenu.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/climenu.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/62029/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/Makefile
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/.cvsignore
+END
+subr_qos.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/59264/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_qos.c
+END
+start_fon.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/57002/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/start_fon.c
+END
+cli_utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/cli_utility.h
+END
+rtusr_rg_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/63220/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_rg_api.c
+END
+climenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/61921/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/climenu.h
+END
+msgparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/msgparser.c
+END
+rtusr_rg_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/63212/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_rg_api.h
+END
+mibutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/51791/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/mibutil.c
+END
+rtl_flashdrv_mmu.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/57762/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtl_flashdrv_mmu.c
+END
+subr_vlangroup.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/60167/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_vlangroup.c
+END
+configd.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/62775/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/configd.c
+END
+rtusr_intr.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/55833/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_intr.c
+END
+rtusr_ponmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/55833/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_ponmac.c
+END
+subr_ipv6.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/63212/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_ipv6.c
+END
+arping.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/56474/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/arping.c
+END
+rtl_flashdrv_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/51573/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtl_flashdrv_api.h
+END
+subr_wlan.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/63217/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_wlan.c
+END
+tz.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/63009/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/tz.c
+END
+rtusr_switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/55833/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_switch.c
+END
+rtusr_rldp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/55833/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_rldp.c
+END
+subr_wlan.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/63046/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_wlan.h
+END
+startup.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/startup.c
+END
+tz.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/63009/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/tz.h
+END
+qc.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/qc.c
+END
+fonservice.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/57023/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/fonservice.c
+END
+sysconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/61007/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/sysconfig.c
+END
+rtusr_stp.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/55833/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_stp.c
+END
+slogd.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/slogd.c
+END
+sysconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/61007/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/sysconfig.h
+END
+rtusr_stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/55833/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_stat.c
+END
+rtl_board.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtl_board.h
+END
+rtusr_port.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/55833/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_port.c
+END
+saveconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/60497/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/saveconfig.c
+END
+ShowStatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/ShowStatus.c
+END
+subr_pmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/60167/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_pmap.c
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/Readme.txt
+END
+clicmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/clicmd.c
+END
+subr_natlb.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/59477/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_natlb.c
+END
+mib_reserve.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/60564/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/mib_reserve.c
+END
+subr_nfbi_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_nfbi_api.c
+END
+utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/63268/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/utility.c
+END
+rtusr_trap.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/55833/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_trap.c
+END
+adslif.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/61139/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/adslif.h
+END
+rtusr_rg.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/51525/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_rg.c
+END
+mib.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/61798/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/mib.c
+END
+mib_reserve.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/mib_reserve.h
+END
+subr_nfbi_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_nfbi_api.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/utility.h
+END
+mibtbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/63226/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/mibtbl.c
+END
+config-srv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/config-srv.txt
+END
+rtusr_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/55833/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_i2c.c
+END
+mib.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/mib.h
+END
+mibtbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/60750/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/mibtbl.h
+END
+hwnat_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/62506/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/hwnat_ioctl.h
+END
+subr_dhcpv6.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/60280/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_dhcpv6.c
+END
+subr_dhcpv6.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_dhcpv6.h
+END
+rtusr_rate.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/55833/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtusr_rate.c
+END
+rtl_flashdrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/rtl_flashdrv.c
+END
+subr_itfgroup.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/60167/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/subr_itfgroup.c
+END
+lzss.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/lzss.c
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/60463/trunk/adsl/SDK/uClinux-dist/user/boa/src/LINUX/flash.c
+END

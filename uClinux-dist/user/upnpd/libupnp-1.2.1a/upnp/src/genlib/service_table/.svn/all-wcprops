@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/genlib/service_table
+END
+service_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/genlib/service_table/service_table.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/genlib/service_table/Makefile
+END

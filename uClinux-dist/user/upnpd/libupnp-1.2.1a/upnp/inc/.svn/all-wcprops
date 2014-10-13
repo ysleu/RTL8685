@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/inc
+END
+ixml.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/inc/ixml.h
+END
+FreeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/inc/FreeList.h
+END
+iasnprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/inc/iasnprintf.h
+END
+ithread.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/inc/ithread.h
+END
+ThreadPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/inc/ThreadPool.h
+END
+LinkedList.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/inc/LinkedList.h
+END
+upnp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/inc/upnp.h
+END
+upnptools.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/inc/upnptools.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/inc/config.h
+END
+TimerThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/inc/TimerThread.h
+END

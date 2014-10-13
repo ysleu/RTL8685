@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/arch/rtl89xxb
+END
+mpi_hal.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/arch/rtl89xxb/mpi_hal.h
+END
+sys_service.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/arch/rtl89xxb/sys_service.c
+END
+vp_hal.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/arch/rtl89xxb/vp_hal.h
+END
+sys_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/arch/rtl89xxb/sys_service.h
+END
+vp_api_profile_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/arch/rtl89xxb/vp_api_profile_type.h
+END
+vp_api_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/arch/rtl89xxb/vp_api_types.h
+END
+vp_hal.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/arch/rtl89xxb/vp_hal.c
+END
+hbi_hal.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/arch/rtl89xxb/hbi_hal.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/zarlink/api_lib-2.22.0/arch/rtl89xxb/Makefile
+END

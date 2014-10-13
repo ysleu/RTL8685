@@ -1,0 +1,120 @@
+<modify-entry
+   name="cachetlb.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="cachetlb.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="cachetlb.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/cachetlb.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="cachetlb.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="cachetlb.txt"
+   name=".svn/tmp/text-base/cachetlb.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/cachetlb.txt.svn-base"
+   name=".svn/tmp/text-base/cachetlb.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/cachetlb.txt.svn-base"/>
+<modify-entry
+   name="cachetlb.txt"
+   checksum="79c459b802535e7e4583b224139b7721"/>
+<modify-entry
+   name="cachetlb.txt"
+   text-time="working"/>
+<modify-entry
+   name="cachetlb.txt"
+   working-size="working"/>
+<modify-entry
+   name="magic-number.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="magic-number.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="magic-number.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/magic-number.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="magic-number.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="magic-number.txt"
+   name=".svn/tmp/text-base/magic-number.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/magic-number.txt.svn-base"
+   name=".svn/tmp/text-base/magic-number.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/magic-number.txt.svn-base"/>
+<modify-entry
+   name="magic-number.txt"
+   checksum="495e760e63d8e310e508fba394ef38d3"/>
+<modify-entry
+   name="magic-number.txt"
+   text-time="working"/>
+<modify-entry
+   name="magic-number.txt"
+   working-size="working"/>
+<modify-entry
+   name="kernel-docs.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="kernel-docs.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="kernel-docs.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/kernel-docs.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="kernel-docs.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="kernel-docs.txt"
+   name=".svn/tmp/text-base/kernel-docs.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/kernel-docs.txt.svn-base"
+   name=".svn/tmp/text-base/kernel-docs.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/kernel-docs.txt.svn-base"/>
+<modify-entry
+   name="kernel-docs.txt"
+   checksum="2296565aed343ad21c62a272228dbbc9"/>
+<modify-entry
+   name="kernel-docs.txt"
+   text-time="working"/>
+<modify-entry
+   name="kernel-docs.txt"
+   working-size="working"/>

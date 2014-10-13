@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/api
+END
+upnptools.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/api/upnptools.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/api/config.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/api/makefile
+END
+upnpapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/upnpd/libupnp-1.2.1a/upnp/src/api/upnpapi.c
+END

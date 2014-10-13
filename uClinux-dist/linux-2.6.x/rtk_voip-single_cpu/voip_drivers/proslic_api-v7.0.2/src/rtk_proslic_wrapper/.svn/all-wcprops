@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/src/rtk_proslic_wrapper
+END
+proslic_ctrl_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/src/rtk_proslic_wrapper/proslic_ctrl_spi.c
+END
+proslic_timer_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/CN/cnsd5/!svn/ver/59870/trunk/adsl/SDK/linux-2.6.30/rtk_voip-single_cpu/voip_drivers/proslic_api-v7.0.2/src/rtk_proslic_wrapper/proslic_timer_linux.c
+END

@@ -1,0 +1,120 @@
+<modify-entry
+   name="credentials.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="credentials.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="credentials.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/credentials.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="credentials.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="credentials.txt"
+   name=".svn/tmp/text-base/credentials.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/credentials.txt.svn-base"
+   name=".svn/tmp/text-base/credentials.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/credentials.txt.svn-base"/>
+<modify-entry
+   name="credentials.txt"
+   checksum="76e6d499ff1801fd5e1a70a0d585d737"/>
+<modify-entry
+   name="credentials.txt"
+   text-time="working"/>
+<modify-entry
+   name="credentials.txt"
+   working-size="working"/>
+<modify-entry
+   name="atomic_ops.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="atomic_ops.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="atomic_ops.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/atomic_ops.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="atomic_ops.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="atomic_ops.txt"
+   name=".svn/tmp/text-base/atomic_ops.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/atomic_ops.txt.svn-base"
+   name=".svn/tmp/text-base/atomic_ops.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/atomic_ops.txt.svn-base"/>
+<modify-entry
+   name="atomic_ops.txt"
+   checksum="d4a41d9a576cc075b18d96f0ba20e02d"/>
+<modify-entry
+   name="atomic_ops.txt"
+   text-time="working"/>
+<modify-entry
+   name="atomic_ops.txt"
+   working-size="working"/>
+<modify-entry
+   name="IPMI.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="IPMI.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="IPMI.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/IPMI.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="IPMI.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="IPMI.txt"
+   name=".svn/tmp/text-base/IPMI.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/IPMI.txt.svn-base"
+   name=".svn/tmp/text-base/IPMI.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/IPMI.txt.svn-base"/>
+<modify-entry
+   name="IPMI.txt"
+   checksum="b4a034de35137c69e4dca25ec1d7368e"/>
+<modify-entry
+   name="IPMI.txt"
+   text-time="working"/>
+<modify-entry
+   name="IPMI.txt"
+   working-size="working"/>

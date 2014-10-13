@@ -1,0 +1,177 @@
+10
+
+dir
+63278
+http://cadinfo.realtek.com/svn/CN/cnsd5/trunk/adsl/SDK/uClinux-dist/freeswan/klips/doc/klipsNGreq/requirements
+http://cadinfo.realtek.com/svn/CN/cnsd5
+
+
+
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6205ae0b-4059-46eb-a33d-b14f343f8a53
+
+requirements.tex
+file
+
+
+
+
+2014-10-09T08:37:57.625000Z
+cc54ec1ade36da34f25e1fb9a3866203
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1197
+
+010
+dir
+
+001
+dir
+
+011
+dir
+
+002
+dir
+
+020
+dir
+
+012
+dir
+
+003
+dir
+
+021
+dir
+
+013
+dir
+
+004
+dir
+
+022
+dir
+
+014
+dir
+
+005
+dir
+
+023
+dir
+
+015
+dir
+
+006
+dir
+
+024
+dir
+
+007
+dir
+
+016
+dir
+
+025
+dir
+
+008
+dir
+
+017
+dir
+
+026
+dir
+
+009
+dir
+
+018
+dir
+
+027
+dir
+
+019
+dir
+
+.cvsignore
+file
+
+
+
+
+2014-10-09T08:37:57.640625Z
+312e2250ae9d9d69bae7234b835157c9
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17
+

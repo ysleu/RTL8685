@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/xmlconfig
+END
+xml_data_end.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/52001/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/xml_data_end.c
+END
+xml_config_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/55521/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/xml_config_parser.c
+END
+xml_data_mib_chain.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/63235/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/xml_data_mib_chain.c
+END
+config_xmlconfig.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/56908/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/config_xmlconfig.sh
+END
+flash.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/58097/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/flash.sh
+END
+xml_data_voip.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/61291/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/xml_data_voip.c
+END
+xml_data_mib_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/63234/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/xml_data_mib_table.c
+END
+xml_config_gramma.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/53666/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/xml_config_gramma.c
+END
+xml_config_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/59457/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/xml_config_main.c
+END
+xml_config_generator.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/53666/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/xml_config_generator.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/58496/trunk/adsl/SDK/uClinux-dist/user/xmlconfig/Makefile
+END

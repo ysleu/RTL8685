@@ -1,0 +1,137 @@
+10
+
+dir
+63278
+http://cadinfo.realtek.com/svn/CN/cnsd5/trunk/adsl/SDK/uClinux-dist/uClibc/libc/misc
+http://cadinfo.realtek.com/svn/CN/cnsd5
+
+
+
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6205ae0b-4059-46eb-a33d-b14f343f8a53
+
+file
+dir
+
+fnmatch
+dir
+
+syslog
+dir
+
+glob
+dir
+
+ctype
+dir
+
+dirent
+dir
+
+utmp
+dir
+
+pthread
+dir
+
+ttyent
+dir
+
+wordexp
+dir
+
+gnu
+dir
+
+error
+dir
+
+time
+dir
+
+locale
+dir
+
+internals
+dir
+
+ftw
+dir
+
+sysvipc
+dir
+
+assert
+dir
+
+statfs
+dir
+
+wchar
+dir
+
+mntent
+dir
+
+search
+dir
+
+intl
+dir
+
+regex
+dir
+
+wctype
+dir
+
+Makefile
+file
+
+
+
+
+2014-10-09T08:36:55.562500Z
+7f59f30d0e2abe134dcf2f0b4202f156
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2012
+

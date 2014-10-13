@@ -1,0 +1,80 @@
+<modify-entry
+   name="DMA-attributes.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="DMA-attributes.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="DMA-attributes.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/DMA-attributes.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="DMA-attributes.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="DMA-attributes.txt"
+   name=".svn/tmp/text-base/DMA-attributes.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/DMA-attributes.txt.svn-base"
+   name=".svn/tmp/text-base/DMA-attributes.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/DMA-attributes.txt.svn-base"/>
+<modify-entry
+   name="DMA-attributes.txt"
+   checksum="d86ec7b531a442ef8a8d39bff2411fc2"/>
+<modify-entry
+   name="DMA-attributes.txt"
+   text-time="working"/>
+<modify-entry
+   name="DMA-attributes.txt"
+   working-size="working"/>
+<modify-entry
+   name="rt-mutex.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="rt-mutex.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="rt-mutex.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/rt-mutex.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="rt-mutex.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="rt-mutex.txt"
+   name=".svn/tmp/text-base/rt-mutex.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/rt-mutex.txt.svn-base"
+   name=".svn/tmp/text-base/rt-mutex.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/rt-mutex.txt.svn-base"/>
+<modify-entry
+   name="rt-mutex.txt"
+   checksum="b449bdf78dad3a5ff62eb7a0853c0c99"/>
+<modify-entry
+   name="rt-mutex.txt"
+   text-time="working"/>
+<modify-entry
+   name="rt-mutex.txt"
+   working-size="working"/>

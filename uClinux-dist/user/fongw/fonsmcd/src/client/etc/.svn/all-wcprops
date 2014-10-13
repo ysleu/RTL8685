@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/fonsmcd/src/client/etc
+END
+fonsmcd.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/fonsmcd/src/client/etc/fonsmcd.conf.in
+END
+public_sm_rsa_key.pem
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/fonsmcd/src/client/etc/public_sm_rsa_key.pem
+END
+fonsmcd.init
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/fonsmcd/src/client/etc/fonsmcd.init
+END
+fonsmcd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/fonsmcd/src/client/etc/fonsmcd.conf
+END
+public_fon_rsa_key_b.pem
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/fonsmcd/src/client/etc/public_fon_rsa_key_b.pem
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/util/rlx5281
+END
+rlx5281_idmem.S
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/util/rlx5281/rlx5281_idmem.S
+END
+_desktop.ini
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/util/rlx5281/_desktop.ini
+END
+rlx5281_cache.S
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/util/rlx5281/rlx5281_cache.S
+END
+rlx5181.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/util/rlx5281/rlx5181.h
+END
+rlx5281_perCounter.S
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/util/rlx5281/rlx5281_perCounter.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/u-boot/u-boot-2011.12/arch/mips/cpu/rlx5281/rtl8686/rtk_soc/util/rlx5281/Makefile
+END

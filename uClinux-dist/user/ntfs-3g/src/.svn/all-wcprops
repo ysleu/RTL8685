@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/CN/cnsd5/!svn/ver/60488/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src
+END
+ntfs-3g_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/ntfs-3g_common.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/Makefile.in
+END
+ntfs-3g.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/ntfs-3g.c
+END
+ntfs-3g.probe.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/ntfs-3g.probe.8.in
+END
+secaudit.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/secaudit.c
+END
+lowntfs-3g.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/lowntfs-3g.c
+END
+ntfs-3g.usermap.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/ntfs-3g.usermap.8.in
+END
+secaudit.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/secaudit.h
+END
+ntfs-3g.probe.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/ntfs-3g.probe.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/Makefile.am
+END
+ntfs-3g_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/ntfs-3g_common.c
+END
+ntfs-3g.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/ntfs-3g.8.in
+END
+ntfs-3g.secaudit.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/ntfs-3g.secaudit.8.in
+END
+usermap.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/src/usermap.c
+END

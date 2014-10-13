@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4
+END
+00gnulib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/00gnulib.m4
+END
+stddef_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/stddef_h.m4
+END
+gnulib-cache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/gnulib-cache.m4
+END
+include_next.m4
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/include_next.m4
+END
+strdup.m4
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/strdup.m4
+END
+getopt.m4
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/getopt.m4
+END
+gnulib-common.m4
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/gnulib-common.m4
+END
+onceonly.m4
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/onceonly.m4
+END
+wchar_t.m4
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/wchar_t.m4
+END
+warn-on-use.m4
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/warn-on-use.m4
+END
+gnulib-comp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/gnulib-comp.m4
+END
+string_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/string_h.m4
+END
+unistd_h.m4
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/unistd_h.m4
+END
+extensions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/gl/m4/extensions.m4
+END

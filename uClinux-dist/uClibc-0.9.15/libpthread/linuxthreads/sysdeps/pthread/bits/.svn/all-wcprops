@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libpthread/linuxthreads/sysdeps/pthread/bits
+END
+pthreadtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libpthread/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h
+END
+libc-tsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/uClibc-0.9.15/libpthread/linuxthreads/sysdeps/pthread/bits/libc-tsd.h
+END

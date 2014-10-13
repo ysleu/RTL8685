@@ -1,0 +1,240 @@
+<modify-entry
+   name="SELinux.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="SELinux.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="SELinux.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/SELinux.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="SELinux.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="SELinux.txt"
+   name=".svn/tmp/text-base/SELinux.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/SELinux.txt.svn-base"
+   name=".svn/tmp/text-base/SELinux.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/SELinux.txt.svn-base"/>
+<modify-entry
+   name="SELinux.txt"
+   checksum="4a4f598ff478c4c9575d9e4575167ba8"/>
+<modify-entry
+   name="SELinux.txt"
+   text-time="working"/>
+<modify-entry
+   name="SELinux.txt"
+   working-size="working"/>
+<modify-entry
+   name="dmaengine.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="dmaengine.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="dmaengine.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/dmaengine.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="dmaengine.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="dmaengine.txt"
+   name=".svn/tmp/text-base/dmaengine.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/dmaengine.txt.svn-base"
+   name=".svn/tmp/text-base/dmaengine.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/dmaengine.txt.svn-base"/>
+<modify-entry
+   name="dmaengine.txt"
+   checksum="6fece5998e66ac7fb468fff9a9cdc77d"/>
+<modify-entry
+   name="dmaengine.txt"
+   text-time="working"/>
+<modify-entry
+   name="dmaengine.txt"
+   working-size="working"/>
+<modify-entry
+   name="rt-mutex-design.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="rt-mutex-design.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="rt-mutex-design.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/rt-mutex-design.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="rt-mutex-design.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="rt-mutex-design.txt"
+   name=".svn/tmp/text-base/rt-mutex-design.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/rt-mutex-design.txt.svn-base"
+   name=".svn/tmp/text-base/rt-mutex-design.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/rt-mutex-design.txt.svn-base"/>
+<modify-entry
+   name="rt-mutex-design.txt"
+   checksum="6fd8f594a22d546ec9ef7c9d257c1413"/>
+<modify-entry
+   name="rt-mutex-design.txt"
+   text-time="working"/>
+<modify-entry
+   name="rt-mutex-design.txt"
+   working-size="working"/>
+<modify-entry
+   name="sysfs-rules.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="sysfs-rules.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="sysfs-rules.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/sysfs-rules.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="sysfs-rules.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="sysfs-rules.txt"
+   name=".svn/tmp/text-base/sysfs-rules.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/sysfs-rules.txt.svn-base"
+   name=".svn/tmp/text-base/sysfs-rules.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/sysfs-rules.txt.svn-base"/>
+<modify-entry
+   name="sysfs-rules.txt"
+   checksum="31df4193a1aadb8e5bd263a72329bd35"/>
+<modify-entry
+   name="sysfs-rules.txt"
+   text-time="working"/>
+<modify-entry
+   name="sysfs-rules.txt"
+   working-size="working"/>
+<modify-entry
+   name="io_ordering.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="io_ordering.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="io_ordering.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/io_ordering.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="io_ordering.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="io_ordering.txt"
+   name=".svn/tmp/text-base/io_ordering.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/io_ordering.txt.svn-base"
+   name=".svn/tmp/text-base/io_ordering.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/io_ordering.txt.svn-base"/>
+<modify-entry
+   name="io_ordering.txt"
+   checksum="f7a404c9794d133f9167ff1a7e2953bb"/>
+<modify-entry
+   name="io_ordering.txt"
+   text-time="working"/>
+<modify-entry
+   name="io_ordering.txt"
+   working-size="working"/>
+<modify-entry
+   name="pi-futex.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="pi-futex.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="pi-futex.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/pi-futex.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="pi-futex.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="pi-futex.txt"
+   name=".svn/tmp/text-base/pi-futex.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/pi-futex.txt.svn-base"
+   name=".svn/tmp/text-base/pi-futex.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/pi-futex.txt.svn-base"/>
+<modify-entry
+   name="pi-futex.txt"
+   checksum="492ac92f69716bfaa0c40a909c992ade"/>
+<modify-entry
+   name="pi-futex.txt"
+   text-time="working"/>
+<modify-entry
+   name="pi-futex.txt"
+   working-size="working"/>

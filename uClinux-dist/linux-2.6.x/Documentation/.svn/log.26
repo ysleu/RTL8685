@@ -1,0 +1,40 @@
+<modify-entry
+   name="svga.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="svga.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="svga.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/svga.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="svga.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="svga.txt"
+   name=".svn/tmp/text-base/svga.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/svga.txt.svn-base"
+   name=".svn/tmp/text-base/svga.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/svga.txt.svn-base"/>
+<modify-entry
+   name="svga.txt"
+   checksum="ffc4306708801c3489dc575998ecca43"/>
+<modify-entry
+   name="svga.txt"
+   text-time="working"/>
+<modify-entry
+   name="svga.txt"
+   working-size="working"/>

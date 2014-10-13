@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos
+END
+ndis2.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/ndis2.c
+END
+readme.dos
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/readme.dos
+END
+pktdrvr.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/pktdrvr.h
+END
+common.dj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/common.dj
+END
+makefile.wc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/makefile.wc
+END
+ndis2.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/ndis2.h
+END
+pkt_rx0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/pkt_rx0.asm
+END
+makefile.dj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/makefile.dj
+END
+pkt_rx1.s
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/pkt_rx1.s
+END
+ndis_0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/ndis_0.asm
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/makefile
+END
+pktdrvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/pktdrvr.c
+END
+bin2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/msdos/bin2c.c
+END

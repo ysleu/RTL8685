@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/Suse
+END
+README.susefirewall
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/Suse/README.susefirewall
+END
+dnsmasq-SuSE.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/Suse/dnsmasq-SuSE.patch
+END
+rc.dnsmasq-suse
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/Suse/rc.dnsmasq-suse
+END
+dnsmasq-suse.spec
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/Suse/dnsmasq-suse.spec
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dnsmasq-2.45/contrib/Suse/README
+END

@@ -1,0 +1,5 @@
+/home/krammer/apollo/SD6_repo/u-boot/u-boot-2011.12/config/scripts/Menuconfig: line 1262: off: command not found
+/home/krammer/apollo/SD6_repo/u-boot/u-boot-2011.12/config/scripts/Menuconfig: line 1262: erase: command not found
+/home/krammer/apollo/SD6_repo/u-boot/u-boot-2011.12/config/scripts/Menuconfig: line 1262: cp.b: command not found
+/home/krammer/apollo/SD6_repo/u-boot/u-boot-2011.12/config/scripts/Menuconfig: line 1262: cmp.b: command not found
+/home/krammer/apollo/SD6_repo/u-boot/u-boot-2011.12/config/scripts/Menuconfig: line 1262: 0: command not found

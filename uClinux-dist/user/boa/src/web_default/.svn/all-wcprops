@@ -1,0 +1,857 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default
+END
+ping.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/ping.asp
+END
+status_pon.asp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/62820/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/status_pon.asp
+END
+pptpv6.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/pptpv6.asp
+END
+password.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/password.asp
+END
+gaming.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/gaming.asp
+END
+igmproxy.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/igmproxy.asp
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/common.js
+END
+fw-ipportfilter-v6_IfId.asp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/63212/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/fw-ipportfilter-v6_IfId.asp
+END
+dot1ag_status.asp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/59299/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/dot1ag_status.asp
+END
+dhcpmode.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/dhcpmode.asp
+END
+portBaseFilterDhcp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/59247/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/portBaseFilterDhcp.asp
+END
+dot1ag_conf.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/59299/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/dot1ag_conf.asp
+END
+bridging.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/bridging.asp
+END
+init_script.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/init_script.asp
+END
+ipqos.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/ipqos.asp
+END
+wlwpa_mbssid.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlwpa_mbssid.asp
+END
+algonoff.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/algonoff.asp
+END
+acl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/acl.asp
+END
+devicetbl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/devicetbl.asp
+END
+wlwdstbl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlwdstbl.asp
+END
+syslog_server.asp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/syslog_server.asp
+END
+parental-ctrl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/parental-ctrl.asp
+END
+wlwapiinstallcert.asp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlwapiinstallcert.asp
+END
+wlbandmode.asp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlbandmode.asp
+END
+date.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/date.asp
+END
+index_vdsl.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/index_vdsl.html
+END
+mtmcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/mtmcode.js
+END
+upnp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/upnp.asp
+END
+dms.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/dms.asp
+END
+wan3gconf.asp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wan3gconf.asp
+END
+waneth.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/63046/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/waneth.asp
+END
+routing.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/routing.asp
+END
+oamloopback.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/oamloopback.asp
+END
+wanwl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/63046/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wanwl.asp
+END
+app_mld_snooping.asp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/app_mld_snooping.asp
+END
+multi_wan_generic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/multi_wan_generic.asp
+END
+macIptbl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/macIptbl.asp
+END
+eth2pvc_vlan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/eth2pvc_vlan.asp
+END
+net_qos_imq_policy.asp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/62506/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/net_qos_imq_policy.asp
+END
+l2tpv6.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/l2tpv6.asp
+END
+ipqos_queue.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/ipqos_queue.asp
+END
+wlwds.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/62389/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlwds.asp
+END
+linkmode_eth.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/linkmode_eth.asp
+END
+wlstatbl_vap.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlstatbl_vap.asp
+END
+ipsec.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/ipsec.asp
+END
+others.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/others.asp
+END
+net_qos_traffictl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/net_qos_traffictl.asp
+END
+fw-macfilter_rg.asp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/54516/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/fw-macfilter_rg.asp
+END
+osgi_fwork.asp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/60441/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/osgi_fwork.asp
+END
+tr069config.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/59699/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/tr069config.asp
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/favicon.ico
+END
+snmp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/snmp.asp
+END
+ipv6_enabledisable.asp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/ipv6_enabledisable.asp
+END
+portfw-advance.asp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/portfw-advance.asp
+END
+l2tp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/l2tp.asp
+END
+wlstatus.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/62383/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlstatus.asp
+END
+adslpsd.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/adslpsd.asp
+END
+fw-ipportfilter.asp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/53674/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/fw-ipportfilter.asp
+END
+osgi_bndins.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/60441/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/osgi_bndins.asp
+END
+multi_addr_mapping.asp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/multi_addr_mapping.asp
+END
+wlwdsenp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlwdsenp.asp
+END
+saveconf.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/saveconf.asp
+END
+wlactrl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/62995/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlactrl.asp
+END
+adsltone.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/adsltone.asp
+END
+url_blocking.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/url_blocking.asp
+END
+dhcptbl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/dhcptbl.asp
+END
+ipqos_sc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/ipqos_sc.asp
+END
+diag-test.asp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/diag-test.asp
+END
+dos.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/dos.asp
+END
+EndScriptContent.asp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/EndScriptContent.asp
+END
+pptpd.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/pptpd.asp
+END
+toupgrade.asp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/toupgrade.asp
+END
+reboot.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/57047/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/reboot.asp
+END
+osgi_bndmgt.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/60441/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/osgi_bndmgt.asp
+END
+fdbtbl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/fdbtbl.asp
+END
+routetbl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/routetbl.asp
+END
+ipip.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/ipip.asp
+END
+gpon.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/63036/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/gpon.asp
+END
+dhcpd_sc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/dhcpd_sc.asp
+END
+wladvanced.asp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/62849/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wladvanced.asp
+END
+tcpiplan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/tcpiplan.asp
+END
+app_mldProxy.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/app_mldProxy.asp
+END
+index_user_vdsl.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/index_user_vdsl.html
+END
+fw-ipfw.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/fw-ipfw.asp
+END
+dhcpd.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/57993/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/dhcpd.asp
+END
+pptp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/pptp.asp
+END
+addr_mapping.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/addr_mapping.asp
+END
+index_user.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/55131/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/index_user.html
+END
+routetbl_ipv6.asp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/routetbl_ipv6.asp
+END
+rmtacc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/rmtacc.asp
+END
+net_qos_cls.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/59337/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/net_qos_cls.asp
+END
+net_qos_traffictl_edit.asp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/57030/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/net_qos_traffictl_edit.asp
+END
+ipqos_shape.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/ipqos_shape.asp
+END
+wlmultipleap.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/63217/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlmultipleap.asp
+END
+fw-macfilter.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/52118/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/fw-macfilter.asp
+END
+samba.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/samba.asp
+END
+printServer.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/printServer.asp
+END
+wlbasic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/63087/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlbasic.asp
+END
+wanatm.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wanatm.asp
+END
+ddns.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/57308/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/ddns.asp
+END
+wanmode.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/63046/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wanmode.asp
+END
+rip.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/rip.asp
+END
+wlwpa.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/63217/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlwpa.asp
+END
+routing_ipv6.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/routing_ipv6.asp
+END
+connlimit.asp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/connlimit.asp
+END
+tz.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/63009/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/tz.asp
+END
+stats.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/stats.asp
+END
+dhcpdv6.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/63262/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/dhcpdv6.asp
+END
+domainblk.asp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/domainblk.asp
+END
+wlsurvey.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/63046/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlsurvey.asp
+END
+epon.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/62880/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/epon.asp
+END
+linkmode.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/linkmode.asp
+END
+userconfig.asp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/userconfig.asp
+END
+radvdconf.asp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/54765/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/radvdconf.asp
+END
+diffserv.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/diffserv.asp
+END
+code.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/53870/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/code.asp
+END
+eth2pvc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/eth2pvc.asp
+END
+qos_pred.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/qos_pred.asp
+END
+landing.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/landing.asp
+END
+dot1ag_action.asp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/59299/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/dot1ag_action.asp
+END
+wlwps.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/62995/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlwps.asp
+END
+StartScriptContent.asp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/StartScriptContent.asp
+END
+syslog.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/syslog.asp
+END
+status.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/61102/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/status.asp
+END
+finishmaintenance.asp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/finishmaintenance.asp
+END
+dns.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/53758/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/dns.asp
+END
+wlfon.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/59571/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlfon.asp
+END
+pdump.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/pdump.asp
+END
+status_ipv6.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/status_ipv6.asp
+END
+wanadsl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/63046/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wanadsl.asp
+END
+arptable.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/arptable.asp
+END
+fw-portfw.asp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/53674/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/fw-portfw.asp
+END
+wlstatbl.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlstatbl.asp
+END
+wlwapiRekey.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/wlwapiRekey.asp
+END
+fw-dmz.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/fw-dmz.asp
+END
+net_qos_cls_edit.asp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/59337/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/net_qos_cls_edit.asp
+END
+l2tpd.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/62840/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/l2tpd.asp
+END
+fw-ipportfilter-v6.asp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/53674/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/fw-ipportfilter-v6.asp
+END
+upgrade.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/upgrade.asp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/55131/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/index.html
+END
+index2.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/index2.asp
+END
+share.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/boa/src/web_default/share.js
+END

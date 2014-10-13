@@ -1,0 +1,6 @@
+/* Automatically generated - do not edit */
+#define CONFIG_BOARDDIR board/Realtek/rtl8686demo
+#include <config_cmd_defaults.h>
+#include <config_defaults.h>
+#include <configs/rtl8686.h>
+#include <asm/config.h>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/53733/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/scripts
+END
+udhcpc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/53733/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/scripts/udhcpc.sh
+END
+udhcpc2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/53733/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/scripts/udhcpc2.sh
+END
+udhcpc.deconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/scripts/udhcpc.deconfig
+END
+wlan.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/scripts/wlan.sh
+END
+init.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/scripts/init.sh
+END
+udhcpc.bound
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/vendors/Realtek/RTL8670/scripts/udhcpc.bound
+END

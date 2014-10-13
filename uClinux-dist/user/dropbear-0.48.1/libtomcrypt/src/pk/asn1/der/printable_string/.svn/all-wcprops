@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/printable_string
+END
+der_length_printable_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/printable_string/der_length_printable_string.c
+END
+der_decode_printable_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/printable_string/der_decode_printable_string.c
+END
+der_encode_printable_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der/printable_string/der_encode_printable_string.c
+END

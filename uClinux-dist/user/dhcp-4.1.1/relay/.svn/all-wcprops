@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/60555/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/relay
+END
+dhcrelay.8
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/relay/dhcrelay.8
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/60540/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/relay/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/relay/Makefile.am
+END
+dhcrelay.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/dhcp-4.1.1/relay/dhcrelay.c
+END

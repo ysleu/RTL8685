@@ -1,0 +1,320 @@
+<modify-entry
+   name="volatile-considered-harmful.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="volatile-considered-harmful.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="volatile-considered-harmful.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/volatile-considered-harmful.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="volatile-considered-harmful.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="volatile-considered-harmful.txt"
+   name=".svn/tmp/text-base/volatile-considered-harmful.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/volatile-considered-harmful.txt.svn-base"
+   name=".svn/tmp/text-base/volatile-considered-harmful.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/volatile-considered-harmful.txt.svn-base"/>
+<modify-entry
+   name="volatile-considered-harmful.txt"
+   checksum="3d9b3b37b81680286adfd87e2518bed3"/>
+<modify-entry
+   name="volatile-considered-harmful.txt"
+   text-time="working"/>
+<modify-entry
+   name="volatile-considered-harmful.txt"
+   working-size="working"/>
+<modify-entry
+   name="rtc.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="rtc.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="rtc.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/rtc.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="rtc.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="rtc.txt"
+   name=".svn/tmp/text-base/rtc.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/rtc.txt.svn-base"
+   name=".svn/tmp/text-base/rtc.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/rtc.txt.svn-base"/>
+<modify-entry
+   name="rtc.txt"
+   checksum="aaf0af51bcefae329754fa63326e9aed"/>
+<modify-entry
+   name="rtc.txt"
+   text-time="working"/>
+<modify-entry
+   name="rtc.txt"
+   working-size="working"/>
+<modify-entry
+   name="initrd.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="initrd.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="initrd.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/initrd.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="initrd.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="initrd.txt"
+   name=".svn/tmp/text-base/initrd.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/initrd.txt.svn-base"
+   name=".svn/tmp/text-base/initrd.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/initrd.txt.svn-base"/>
+<modify-entry
+   name="initrd.txt"
+   checksum="c889974503df36fc073c891e6d9b8b0a"/>
+<modify-entry
+   name="initrd.txt"
+   text-time="working"/>
+<modify-entry
+   name="initrd.txt"
+   working-size="working"/>
+<modify-entry
+   name="DMA-mapping.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="DMA-mapping.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="DMA-mapping.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/DMA-mapping.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="DMA-mapping.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="DMA-mapping.txt"
+   name=".svn/tmp/text-base/DMA-mapping.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/DMA-mapping.txt.svn-base"
+   name=".svn/tmp/text-base/DMA-mapping.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/DMA-mapping.txt.svn-base"/>
+<modify-entry
+   name="DMA-mapping.txt"
+   checksum="80679a48336e70f84b93eec6fadae102"/>
+<modify-entry
+   name="DMA-mapping.txt"
+   text-time="working"/>
+<modify-entry
+   name="DMA-mapping.txt"
+   working-size="working"/>
+<modify-entry
+   name="numastat.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="numastat.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="numastat.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/numastat.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="numastat.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="numastat.txt"
+   name=".svn/tmp/text-base/numastat.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/numastat.txt.svn-base"
+   name=".svn/tmp/text-base/numastat.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/numastat.txt.svn-base"/>
+<modify-entry
+   name="numastat.txt"
+   checksum="e2e09d6b02d39f23fa76208ce586604e"/>
+<modify-entry
+   name="numastat.txt"
+   text-time="working"/>
+<modify-entry
+   name="numastat.txt"
+   working-size="working"/>
+<modify-entry
+   name="Makefile"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="Makefile"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="Makefile"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/Makefile"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Makefile"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="Makefile"
+   name=".svn/tmp/text-base/Makefile.svn-base"/>
+<mv
+   dest=".svn/text-base/Makefile.svn-base"
+   name=".svn/tmp/text-base/Makefile.svn-base"/>
+<readonly
+   name=".svn/text-base/Makefile.svn-base"/>
+<modify-entry
+   name="Makefile"
+   checksum="958ec9778bea3a570ea35b4d144c53bc"/>
+<modify-entry
+   name="Makefile"
+   text-time="working"/>
+<modify-entry
+   name="Makefile"
+   working-size="working"/>
+<modify-entry
+   name="preempt-locking.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="preempt-locking.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="preempt-locking.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/preempt-locking.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="preempt-locking.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="preempt-locking.txt"
+   name=".svn/tmp/text-base/preempt-locking.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/preempt-locking.txt.svn-base"
+   name=".svn/tmp/text-base/preempt-locking.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/preempt-locking.txt.svn-base"/>
+<modify-entry
+   name="preempt-locking.txt"
+   checksum="5b7ed3fd44bb218e897492667b316a56"/>
+<modify-entry
+   name="preempt-locking.txt"
+   text-time="working"/>
+<modify-entry
+   name="preempt-locking.txt"
+   working-size="working"/>
+<modify-entry
+   name="robust-futex-ABI.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="robust-futex-ABI.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="robust-futex-ABI.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/robust-futex-ABI.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="robust-futex-ABI.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="robust-futex-ABI.txt"
+   name=".svn/tmp/text-base/robust-futex-ABI.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/robust-futex-ABI.txt.svn-base"
+   name=".svn/tmp/text-base/robust-futex-ABI.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/robust-futex-ABI.txt.svn-base"/>
+<modify-entry
+   name="robust-futex-ABI.txt"
+   checksum="34f4d768980ecc21dbbe7f41b42444ab"/>
+<modify-entry
+   name="robust-futex-ABI.txt"
+   text-time="working"/>
+<modify-entry
+   name="robust-futex-ABI.txt"
+   working-size="working"/>

@@ -1,0 +1,121 @@
+END
+dev.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/dev.tgz
+END
+.oldconfig
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/.oldconfig
+END
+.config
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/.config
+END
+mksquashfs-lzma
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/mksquashfs-lzma
+END
+sel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/sel.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/README
+END
+SOURCE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/SOURCE
+END
+pad_file
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/pad_file
+END
+mkcramfs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/mkcramfs
+END
+m.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/m.sh
+END
+rom.script.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/rom.script.in
+END
+mkuser
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/mkuser
+END
+mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/mk
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/COPYING
+END
+LDLMakefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CN/cnsd5/!svn/ver/56113/trunk/adsl/SDK/uClinux-dist/LDLMakefile
+END
+config.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/config.in
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/MAINTAINERS
+END
+e8b_config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/e8b_config.sh
+END
+rootfs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/rootfs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CN/cnsd5/!svn/ver/62449/trunk/adsl/SDK/uClinux-dist/Makefile
+END

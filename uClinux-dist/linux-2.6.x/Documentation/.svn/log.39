@@ -1,0 +1,200 @@
+<modify-entry
+   name="kprobes.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="kprobes.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="kprobes.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/kprobes.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="kprobes.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="kprobes.txt"
+   name=".svn/tmp/text-base/kprobes.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/kprobes.txt.svn-base"
+   name=".svn/tmp/text-base/kprobes.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/kprobes.txt.svn-base"/>
+<modify-entry
+   name="kprobes.txt"
+   checksum="80ac8cfecc202b7c053215aa9d7b62fb"/>
+<modify-entry
+   name="kprobes.txt"
+   text-time="working"/>
+<modify-entry
+   name="kprobes.txt"
+   working-size="working"/>
+<modify-entry
+   name="dynamic-debug-howto.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="dynamic-debug-howto.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="dynamic-debug-howto.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/dynamic-debug-howto.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="dynamic-debug-howto.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="dynamic-debug-howto.txt"
+   name=".svn/tmp/text-base/dynamic-debug-howto.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/dynamic-debug-howto.txt.svn-base"
+   name=".svn/tmp/text-base/dynamic-debug-howto.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/dynamic-debug-howto.txt.svn-base"/>
+<modify-entry
+   name="dynamic-debug-howto.txt"
+   checksum="051da384a17600c210a7f74bb91e1bc2"/>
+<modify-entry
+   name="dynamic-debug-howto.txt"
+   text-time="working"/>
+<modify-entry
+   name="dynamic-debug-howto.txt"
+   working-size="working"/>
+<modify-entry
+   name="SubmittingDrivers"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="SubmittingDrivers"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="SubmittingDrivers"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/SubmittingDrivers"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="SubmittingDrivers"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="SubmittingDrivers"
+   name=".svn/tmp/text-base/SubmittingDrivers.svn-base"/>
+<mv
+   dest=".svn/text-base/SubmittingDrivers.svn-base"
+   name=".svn/tmp/text-base/SubmittingDrivers.svn-base"/>
+<readonly
+   name=".svn/text-base/SubmittingDrivers.svn-base"/>
+<modify-entry
+   name="SubmittingDrivers"
+   checksum="33073e9517419954924803ff34b24c7f"/>
+<modify-entry
+   name="SubmittingDrivers"
+   text-time="working"/>
+<modify-entry
+   name="SubmittingDrivers"
+   working-size="working"/>
+<modify-entry
+   name="applying-patches.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="applying-patches.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="applying-patches.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/applying-patches.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="applying-patches.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="applying-patches.txt"
+   name=".svn/tmp/text-base/applying-patches.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/applying-patches.txt.svn-base"
+   name=".svn/tmp/text-base/applying-patches.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/applying-patches.txt.svn-base"/>
+<modify-entry
+   name="applying-patches.txt"
+   checksum="8d65812b01d64c9df1529509083e189d"/>
+<modify-entry
+   name="applying-patches.txt"
+   text-time="working"/>
+<modify-entry
+   name="applying-patches.txt"
+   working-size="working"/>
+<modify-entry
+   name="braille-console.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="braille-console.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="braille-console.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/braille-console.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="braille-console.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="braille-console.txt"
+   name=".svn/tmp/text-base/braille-console.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/braille-console.txt.svn-base"
+   name=".svn/tmp/text-base/braille-console.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/braille-console.txt.svn-base"/>
+<modify-entry
+   name="braille-console.txt"
+   checksum="7bce40b63941ec641bb06312771ec686"/>
+<modify-entry
+   name="braille-console.txt"
+   text-time="working"/>
+<modify-entry
+   name="braille-console.txt"
+   working-size="working"/>

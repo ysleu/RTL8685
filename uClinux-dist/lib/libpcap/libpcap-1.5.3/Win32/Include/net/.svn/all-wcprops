@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/Win32/Include/net
+END
+netdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/Win32/Include/net/netdb.h
+END
+if.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/Win32/Include/net/if.h
+END
+paths.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/59292/trunk/adsl/SDK/uClinux-dist/lib/libpcap/libpcap-1.5.3/Win32/Include/net/paths.h
+END

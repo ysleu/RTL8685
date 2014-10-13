@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src
+END
+terminal_interface-curses-forms-field_types-enumeration.ads
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-enumeration.ads
+END
+terminal_interface-curses-forms-field_types-ipv4_address.ads
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-ipv4_address.ads
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/Makefile.in
+END
+terminal_interface-curses-forms-field_types-regexp.ads
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-regexp.ads
+END
+terminal_interface-curses-trace.adb_p
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-trace.adb_p
+END
+terminal_interface-curses-text_io-integer_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-integer_io.ads
+END
+terminal_interface-curses-forms-form_user_data.adb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-form_user_data.adb
+END
+terminal_interface-curses-menus-menu_user_data.adb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-menus-menu_user_data.adb
+END
+terminal_interface-curses-panels.adb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-panels.adb
+END
+terminal_interface-curses-putwin.adb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-putwin.adb
+END
+terminal_interface-curses-forms.adb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms.adb
+END
+terminal_interface-curses-forms-field_types-intfield.adb
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-intfield.adb
+END
+terminal_interface-curses-mouse.adb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-mouse.adb
+END
+modules
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/modules
+END
+terminal_interface-curses-aux.adb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-aux.adb
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/Makefile
+END
+terminal_interface-curses-forms-field_user_data.adb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_user_data.adb
+END
+terminal_interface-curses-text_io-fixed_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-fixed_io.adb
+END
+terminal_interface-curses-forms-field_types-alphanumeric.adb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-alphanumeric.adb
+END
+terminal_interface-curses-text_io-modular_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-modular_io.adb
+END
+terminal_interface-curses-text_io-aux.adb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-aux.adb
+END
+terminal_interface-curses-putwin.ads
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-putwin.ads
+END
+terminal_interface-curses-forms-field_types-intfield.ads
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-intfield.ads
+END
+terminal_interface-curses-menus-item_user_data.adb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-menus-item_user_data.adb
+END
+c_varargs_to_ada.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/c_varargs_to_ada.c
+END
+terminal_interface-curses-text_io-fixed_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-fixed_io.ads
+END
+terminal_interface-curses-forms-field_types-alphanumeric.ads
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-alphanumeric.ads
+END
+terminal_interface-curses-text_io-modular_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-modular_io.ads
+END
+c_varargs_to_ada.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/c_varargs_to_ada.h
+END
+terminal_interface-curses-text_io-aux.ads
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-aux.ads
+END
+terminal_interface-curses-termcap.adb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-termcap.adb
+END
+terminal_interface-curses-forms-field_types.adb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types.adb
+END
+terminal_interface-curses-text_io-float_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-float_io.adb
+END
+terminal_interface-curses-text_io-complex_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-complex_io.adb
+END
+terminal_interface-curses-forms-field_types-user.adb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-user.adb
+END
+library.gpr
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/library.gpr
+END
+terminal_interface-curses-termcap.ads
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-termcap.ads
+END
+terminal_interface-curses-forms-field_types-alpha.adb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-alpha.adb
+END
+terminal_interface-curses-terminfo.adb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-terminfo.adb
+END
+terminal_interface-curses-text_io-float_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-float_io.ads
+END
+terminal_interface-curses-text_io-enumeration_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-enumeration_io.adb
+END
+terminal_interface-curses-menus.adb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-menus.adb
+END
+terminal_interface-curses-text_io-complex_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-complex_io.ads
+END
+terminal_interface-curses-forms-field_types-user.ads
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-user.ads
+END
+terminal_interface-curses-forms-field_types-numeric.adb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-numeric.adb
+END
+terminal_interface-curses-text_io-decimal_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-decimal_io.adb
+END
+terminal_interface-curses-forms-field_types-alpha.ads
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-alpha.ads
+END
+terminal_interface-curses-forms-field_types-user-choice.adb
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-user-choice.adb
+END
+terminal_interface-curses-forms-field_types-enumeration-ada.adb
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-enumeration-ada.adb
+END
+terminal_interface-curses-terminfo.ads
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-terminfo.ads
+END
+terminal_interface-curses-text_io-enumeration_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-enumeration_io.ads
+END
+terminal_interface-curses-text_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io.adb
+END
+terminal_interface-curses-forms-field_types-numeric.ads
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-numeric.ads
+END
+terminal_interface-curses-text_io-decimal_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-decimal_io.ads
+END
+terminal_interface-curses-forms-field_types-enumeration.adb
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-enumeration.adb
+END
+terminal_interface-curses-forms-field_types-ipv4_address.adb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-ipv4_address.adb
+END
+terminal_interface-curses-forms-field_types-user-choice.ads
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-user-choice.ads
+END
+terminal_interface.ads
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface.ads
+END
+terminal_interface-curses-forms-field_types-enumeration-ada.ads
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-enumeration-ada.ads
+END
+terminal_interface-curses-forms-field_types-regexp.adb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-forms-field_types-regexp.adb
+END
+ncurses_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/ncurses_compat.c
+END
+terminal_interface-curses-panels-user_data.adb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-panels-user_data.adb
+END
+terminal_interface-curses-text_io.ads
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io.ads
+END
+terminal_interface-curses-text_io-integer_io.adb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/lib/ncurses/Ada95/src/terminal_interface-curses-text_io-integer_io.adb
+END

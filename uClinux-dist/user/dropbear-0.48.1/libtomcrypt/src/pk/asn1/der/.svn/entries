@@ -1,0 +1,58 @@
+10
+
+dir
+63278
+http://cadinfo.realtek.com/svn/CN/cnsd5/trunk/adsl/SDK/uClinux-dist/user/dropbear-0.48.1/libtomcrypt/src/pk/asn1/der
+http://cadinfo.realtek.com/svn/CN/cnsd5
+
+
+
+2013-01-28T16:29:13.583536Z
+50489
+tsaitc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6205ae0b-4059-46eb-a33d-b14f343f8a53
+
+printable_string
+dir
+
+object_identifier
+dir
+
+sequence
+dir
+
+choice
+dir
+
+utctime
+dir
+
+short_integer
+dir
+
+integer
+dir
+
+bit
+dir
+
+ia5
+dir
+
+octet
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/psmisc
+END
+fuser.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/psmisc/fuser.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/psmisc/COPYING
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/psmisc/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/psmisc/README
+END
+testing.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/psmisc/testing.c
+END

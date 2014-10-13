@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom
+END
+proslic_api_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/proslic_api_config.h
+END
+vdaa_api_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/vdaa_api_config.h
+END
+si3226x_QCUK_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226x_QCUK_constants.c
+END
+si3226_FLBK_QCUK_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226_FLBK_QCUK_constants.c
+END
+si3226_patch_C_FLBK_2010AUG10.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226_patch_C_FLBK_2010AUG10.c
+END
+vdaa_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/vdaa_constants.c
+END
+si3226_patch_E_FLBK_2010AUG10.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226_patch_E_FLBK_2010AUG10.c
+END
+si3217x_FLBK_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3217x_FLBK_constants.c
+END
+vdaa_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/vdaa_constants.h
+END
+si3226x_LCQCUK_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226x_LCQCUK_constants.c
+END
+si3217x_BKBT_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3217x_BKBT_constants.c
+END
+si3226x_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226x_constants.h
+END
+si324x_patch_D_2010AUG15.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si324x_patch_D_2010AUG15.c
+END
+si3226x_patch_B_FB_2010SEP22.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226x_patch_B_FB_2010SEP22.c
+END
+si321x_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si321x_constants.c
+END
+si321x_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si321x_constants.h
+END
+si3226_patch_C_QCUK_2010AUG10.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226_patch_C_QCUK_2010AUG10.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/Makefile
+END
+si32xxx_multibom_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si32xxx_multibom_constants.h
+END
+si3226x_TSS_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226x_TSS_constants.c
+END
+si3226_patch_D_FLBK_2010AUG10.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226_patch_D_FLBK_2010AUG10.c
+END
+si3226x_FLBK_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226x_FLBK_constants.c
+END
+si3226_patch_E_FLBK_2010JAN06.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226_patch_E_FLBK_2010JAN06.c
+END
+si3217x_FLBK_BKBT_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3217x_FLBK_BKBT_constants.c
+END
+proslic_tstin_limits.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/proslic_tstin_limits.c
+END
+si3226x_patch_C_TSS_2011MAY19.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226x_patch_C_TSS_2011MAY19.c
+END
+si3226x_TSS_ISO_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226x_TSS_ISO_constants.c
+END
+si3217x_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3217x_constants.h
+END
+proslic_tstin_limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/proslic_tstin_limits.h
+END
+si3226x_MULTI_BOM_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226x_MULTI_BOM_constants.c
+END
+si3217x_PBB5_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3217x_PBB5_constants.c
+END
+si3226_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226_constants.c
+END
+si3217x_patch_B_BB_2010DEC16.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3217x_patch_B_BB_2010DEC16.c
+END
+si3226x_patch_C_TSS_ISO_2011MAY19.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226x_patch_C_TSS_ISO_2011MAY19.c
+END
+si324x_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si324x_constants.c
+END
+si3226_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226_constants.h
+END
+si3226x_patch_C_FB_2011MAY19.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226x_patch_C_FB_2011MAY19.c
+END
+si3217x_patch_B_FB_2010DEC16.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3217x_patch_B_FB_2010DEC16.c
+END
+si3226_patch_D_QCUK_2010AUG10.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si3226_patch_D_QCUK_2010AUG10.c
+END
+si324x_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/rtk_voip-asmp/voip_drivers/proslic_api-v6.4.0/custom/si324x_constants.h
+END

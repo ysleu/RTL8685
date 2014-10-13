@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/CN/cnsd5/!svn/ver/60457/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/configure
+END
+PORTING
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/PORTING
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/60457/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/AUTHORS
+END
+README.IPAQ
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/README.IPAQ
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/config.sub
+END
+install-japanese.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/install-japanese.html
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/ltmain.sh
+END
+buildtest
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/buildtest
+END
+ltconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/ltconfig
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/COPYING
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/autogen.sh
+END
+RMISecurityManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/RMISecurityManager.html
+END
+Makefile.lcc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/Makefile.lcc
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/.cvsignore
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/stamp-h.in
+END
+README.SCO
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/README.SCO
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/mkinstalldirs
+END
+buildwin32
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/buildwin32
+END
+Makefile.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/Makefile.msvc
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/configure.in
+END
+SerialPortInstructions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/SerialPortInstructions.txt
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/ChangeLog
+END
+BeOS
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/BeOS
+END
+MacOSX
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/MacOSX
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/README
+END
+rxtx.spec
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/rxtx.spec
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/config.h.in
+END
+Makefile.mingw32
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/Makefile.mingw32
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/TODO
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/acinclude.m4
+END
+Makefile.macosx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/Makefile.macosx
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/missing
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/install-sh
+END

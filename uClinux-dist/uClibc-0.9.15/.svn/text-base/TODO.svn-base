@@ -1,0 +1,130 @@
+
+Erik's TODO list for the next release:
+
+    1) Release gcc 2.95.x native uClibc toolchain with
+	STLport (to provide full C++ support)
+    2) Commit new configuration system (CML1 + kbuild + menuconfig)
+	work is already done and ready to commit...
+    3) Fix profiling support
+    4) Implement getgrgid_r and getgrnam_r, per SuSv3 
+    5) Fix libc/inet/rpc/rpc_thread.c thread local storage
+    6) Change HAS_FLOATING_POINT so we can support -msoft-float
+    7) When options are disabled, also disable them in the
+	include files as well.
+    8) Make all small objects (>~50 bytes) into either inlines or
+	into a static library
+    9) Rework code that fails POSIX conformance tests
+   10) Document all differences between the feature set of uClibc 
+	and glibc.
+   11) Add missing syscall() function to ports that are still 
+	missing it.  (x86 and arm are finished so far).
+   12) Make sure that shared library constructors that depend on 
+	prior libc initialization work correctly
+
+
+
+-----------------------------------------------------------------------------
+Manuel's todo:
+
+In the next couple of months, I plan on completing the wide char and locale
+support.  Here's my current list of things to implement by early November.
+
+  1) Little things that need fixing:
+  ----------------------------------
+  a) Use locale decimal point in *printf() and strto*d() -- slightly
+     complicated by the fact that at least one locale uses a wchar
+     radix that does not map to a single byte in UTF-8.
+  b) Use locale digit grouping in *printf().
+  c) Implement %lc (%C) and %ls (%S) handling for printf.
+  d) Deal with mb format string issues in printf, scanf, 
+  strftime (at least).
+  e) Implement wcwidth() and wcswidth() -- use Markus Kuhn's versions.
+  
+  2) Implement wide char numeric conversion functions -- wcsto*().
+  ----------------------------------------------------------------
+     These should be relatively minor modifications to the corresponding
+     strto*() functions, unless locale specific alternate digit support
+     is desired.
+  
+  3) Implement wide formatted output -- *wprintf():
+  -------------------------------------------------
+     The stream output variants should be easily created by appropriately
+     modifying the char *printf() functions.
+  
+     The string buffer variants may take some time to implement because
+     they need to store wchars in a buffer.  It will be necessary to hack
+     the core stdio code slightly to support this.
+  
+  4) Reimplement scanf for narrow and wide streams.
+  -------------------------------------------------
+     The current char version of scanf() needs some cleanup.  Also,
+     modifying the char version of scanf() to create the wchar versions
+     will require reworking the implementation of matching char sets
+     (enclosed in []).
+  
+     Also, as with *wprintf() above, the string buffer variants of wscanf()
+     may require some additional work to the core stdio code.
+  
+  5) Additional str{f|p}time issues.
+  ----------------------------------
+     Support locale specific alternate digits.
+     Support locale era in year designations.
+  
+  6) Other locale issues (my implementation):
+  -------------------------------------------
+  a) Clean up locale code to make building easier.  Fix alt_digits.
+     (Note: This is only _clean_up_ of the current stuff in extra/locale
+      so that it can be cross-compiled, etc.  I'm not talking about the
+      complete rewrite that should really be done.)
+  b) Additional clean up of ctype and wctype.
+  c) Implement collation support for char and wchar -- *xfrm() and *coll().
+  d) transliteration of unsupported wchars in 8-bit locales (like glibc).
+
+
+Other stuff:
+
+Reimplement _dtostr to correct its deficiencies (%A support!) and hopefully
+	reduce its size.
+
+Move the target-specific sysconf.c generator to extra (as it needs to be
+	run on the target) and fix libc/unistd/Makefile.
+
+Make errno and endptr handling the default in the strto* functions and
+	document how to turn those off to save space.
+
+-----------------------------------------------------------------------------
+ds's list:
+
+Search for string literals that are not in the .rodata section.  (Varies
+by architecture and gcc version.)
+
+man pages for binaries
+
+add obstack stuff for gettext (?)
+
+check compiling without FP support -- are FP instructions still generated?
+Needs a uClibc_config.h entry dependent on HAS_FLOATING_POINT.
+
+Why does ld.so search /usr/powerpc-uclibc/lib before LD_LIBRARY_PATH?
+
+-----------------------------------------------------------------------------
+
+Any takers?
+
+*) Fix regex so it isn't so stinking big
+*) Fix glob so it isn't so stinking big
+*) Documentation
+	- List all differences between the feature set of uClibc and glibc.
+*) run 'nm -D --size-sort -t d libuClibc-0.9.5.so' and work on the biggest things 
+	(i.e. stuff at the end of the list) to make them smaller.
+*) make inb/outb work for all arches.  This is complete for i386 and arm.  
+	Other archs like powerpc, still need fixing.
+
+-----------------------------------------------------------------------------
+
+PORTING
+-------
+
+bits/dirent.h currently differs from the glibc version (d_type unsupported)
+
+

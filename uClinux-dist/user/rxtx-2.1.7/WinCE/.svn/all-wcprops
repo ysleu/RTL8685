@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/StdAfx.h
+END
+gnu_io_RXTXPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/gnu_io_RXTXPort.h
+END
+gnu_io_RXTXCommDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/gnu_io_RXTXCommDriver.h
+END
+rxtxSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/rxtxSerial.cpp
+END
+rxtxHelpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/rxtxHelpers.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/StdAfx.cpp
+END
+rxtxserial.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/rxtxserial.dsp
+END
+gnu_io_RXTXPort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/gnu_io_RXTXPort.cpp
+END
+rxtxSerial.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/rxtxSerial.vcp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/README
+END
+gnu_io_RXTXCommDriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/gnu_io_RXTXCommDriver.cpp
+END
+rxtxHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/WinCE/rxtxHelpers.h
+END

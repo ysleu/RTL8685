@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src
+END
+RawPortEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RawPortEvent.java
+END
+RS485Imp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RS485Imp.h
+END
+ParallelPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/ParallelPort.java
+END
+RS485PortEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RS485PortEventListener.java
+END
+LPRPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/LPRPort.java
+END
+ParallelPortEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/ParallelPortEvent.java
+END
+ParallelImp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/ParallelImp.c
+END
+UnsupportedCommOperationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/UnsupportedCommOperationException.java
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/init.c
+END
+CommPortOwnershipListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/CommPortOwnershipListener.java
+END
+CommDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/CommDriver.java
+END
+UnSupportedLoggerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/UnSupportedLoggerException.java
+END
+init.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/init.cc
+END
+ParallelImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/ParallelImp.h
+END
+Parallel.def
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/Parallel.def
+END
+win32termios.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/win32termios.h
+END
+I2C.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/I2C.java
+END
+I2CPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/I2CPort.java
+END
+NoSuchPortException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/NoSuchPortException.java
+END
+I2CImp.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/I2CImp.c
+END
+SerialImp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/SerialImp.cpp
+END
+SerialPortEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/SerialPortEvent.java
+END
+I2CImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/I2CImp.h
+END
+Raw.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/Raw.java
+END
+I2CPortEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/I2CPortEventListener.java
+END
+portmode.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/portmode.c
+END
+Zystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/Zystem.java
+END
+fuserImp.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/fuserImp.c
+END
+RS485PortEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RS485PortEvent.java
+END
+Serial.def
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/Serial.def
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/.cvsignore
+END
+RXTXCommDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RXTXCommDriver.java
+END
+RawPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RawPort.java
+END
+CommPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/CommPort.java
+END
+RawImp.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RawImp.c
+END
+CommPortEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/CommPortEnumerator.java
+END
+CommPortIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/CommPortIdentifier.java
+END
+RawImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RawImp.h
+END
+RawPortEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RawPortEventListener.java
+END
+PortInUseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/PortInUseException.java
+END
+ParallelPortEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/ParallelPortEventListener.java
+END
+RXTXPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RXTXPort.java
+END
+RXTXVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RXTXVersion.java
+END
+Configure.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/Configure.java
+END
+termios.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/termios.c
+END
+I2CPortEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/I2CPortEvent.java
+END
+SerialPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/SerialPort.java
+END
+RS485.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RS485.java
+END
+SerialImp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/SerialImp.c
+END
+RS485Port.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RS485Port.java
+END
+SerialImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/SerialImp.h
+END
+RS485Imp.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/RS485Imp.c
+END
+SerialPortEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/SerialPortEventListener.java
+END
+fixup.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CN/cnsd5/!svn/ver/59462/trunk/adsl/SDK/uClinux-dist/user/rxtx-2.1.7/src/fixup.c
+END

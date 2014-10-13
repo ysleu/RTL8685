@@ -1,0 +1,200 @@
+<modify-entry
+   name="hw_random.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="hw_random.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="hw_random.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/hw_random.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="hw_random.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="hw_random.txt"
+   name=".svn/tmp/text-base/hw_random.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/hw_random.txt.svn-base"
+   name=".svn/tmp/text-base/hw_random.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/hw_random.txt.svn-base"/>
+<modify-entry
+   name="hw_random.txt"
+   checksum="6c78af2ee2fab6ae30aca725c3970da1"/>
+<modify-entry
+   name="hw_random.txt"
+   text-time="working"/>
+<modify-entry
+   name="hw_random.txt"
+   working-size="working"/>
+<modify-entry
+   name="serial-console.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="serial-console.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="serial-console.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/serial-console.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="serial-console.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="serial-console.txt"
+   name=".svn/tmp/text-base/serial-console.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/serial-console.txt.svn-base"
+   name=".svn/tmp/text-base/serial-console.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/serial-console.txt.svn-base"/>
+<modify-entry
+   name="serial-console.txt"
+   checksum="814e90de90e893f56eb12cc536dc7d42"/>
+<modify-entry
+   name="serial-console.txt"
+   text-time="working"/>
+<modify-entry
+   name="serial-console.txt"
+   working-size="working"/>
+<modify-entry
+   name="ManagementStyle"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="ManagementStyle"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ManagementStyle"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ManagementStyle"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ManagementStyle"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="ManagementStyle"
+   name=".svn/tmp/text-base/ManagementStyle.svn-base"/>
+<mv
+   dest=".svn/text-base/ManagementStyle.svn-base"
+   name=".svn/tmp/text-base/ManagementStyle.svn-base"/>
+<readonly
+   name=".svn/text-base/ManagementStyle.svn-base"/>
+<modify-entry
+   name="ManagementStyle"
+   checksum="8c13f89f4c0bf4788bbe5f42cace3e1a"/>
+<modify-entry
+   name="ManagementStyle"
+   text-time="working"/>
+<modify-entry
+   name="ManagementStyle"
+   working-size="working"/>
+<modify-entry
+   name="SubmitChecklist"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="SubmitChecklist"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="SubmitChecklist"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/SubmitChecklist"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="SubmitChecklist"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="SubmitChecklist"
+   name=".svn/tmp/text-base/SubmitChecklist.svn-base"/>
+<mv
+   dest=".svn/text-base/SubmitChecklist.svn-base"
+   name=".svn/tmp/text-base/SubmitChecklist.svn-base"/>
+<readonly
+   name=".svn/text-base/SubmitChecklist.svn-base"/>
+<modify-entry
+   name="SubmitChecklist"
+   checksum="fdc54875ed30ac8fbf4f8475ec71cd61"/>
+<modify-entry
+   name="SubmitChecklist"
+   text-time="working"/>
+<modify-entry
+   name="SubmitChecklist"
+   working-size="working"/>
+<modify-entry
+   name="dontdiff"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="dontdiff"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="dontdiff"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/dontdiff"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="dontdiff"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="dontdiff"
+   name=".svn/tmp/text-base/dontdiff.svn-base"/>
+<mv
+   dest=".svn/text-base/dontdiff.svn-base"
+   name=".svn/tmp/text-base/dontdiff.svn-base"/>
+<readonly
+   name=".svn/text-base/dontdiff.svn-base"/>
+<modify-entry
+   name="dontdiff"
+   checksum="8e00e1353ea7ca329ffd927784a3befe"/>
+<modify-entry
+   name="dontdiff"
+   text-time="working"/>
+<modify-entry
+   name="dontdiff"
+   working-size="working"/>

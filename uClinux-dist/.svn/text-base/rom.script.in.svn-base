@@ -1,0 +1,11 @@
+OUTPUT_ARCH(mips)
+SECTIONS
+{
+  .data      :
+  {
+    *(.boot)
+    . = @@ROOTFS_OFFSET@@;
+    *(.run)
+    *(.data)
+  } = 0xFF
+}

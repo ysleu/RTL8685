@@ -1,0 +1,120 @@
+<modify-entry
+   name="keys-request-key.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="keys-request-key.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="keys-request-key.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/keys-request-key.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="keys-request-key.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="keys-request-key.txt"
+   name=".svn/tmp/text-base/keys-request-key.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/keys-request-key.txt.svn-base"
+   name=".svn/tmp/text-base/keys-request-key.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/keys-request-key.txt.svn-base"/>
+<modify-entry
+   name="keys-request-key.txt"
+   checksum="b533ff60d0c4340e48f1360c85cc3696"/>
+<modify-entry
+   name="keys-request-key.txt"
+   text-time="working"/>
+<modify-entry
+   name="keys-request-key.txt"
+   working-size="working"/>
+<modify-entry
+   name="memory-hotplug.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="memory-hotplug.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="memory-hotplug.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/memory-hotplug.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="memory-hotplug.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="memory-hotplug.txt"
+   name=".svn/tmp/text-base/memory-hotplug.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/memory-hotplug.txt.svn-base"
+   name=".svn/tmp/text-base/memory-hotplug.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/memory-hotplug.txt.svn-base"/>
+<modify-entry
+   name="memory-hotplug.txt"
+   checksum="0a5c0b31ff70b659a2e6faab8dda6ad6"/>
+<modify-entry
+   name="memory-hotplug.txt"
+   text-time="working"/>
+<modify-entry
+   name="memory-hotplug.txt"
+   working-size="working"/>
+<modify-entry
+   name="binfmt_misc.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="binfmt_misc.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="binfmt_misc.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/binfmt_misc.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="binfmt_misc.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="binfmt_misc.txt"
+   name=".svn/tmp/text-base/binfmt_misc.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/binfmt_misc.txt.svn-base"
+   name=".svn/tmp/text-base/binfmt_misc.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/binfmt_misc.txt.svn-base"/>
+<modify-entry
+   name="binfmt_misc.txt"
+   checksum="c17bd890a2c870e609bfd4fe1b5bd6af"/>
+<modify-entry
+   name="binfmt_misc.txt"
+   text-time="working"/>
+<modify-entry
+   name="binfmt_misc.txt"
+   working-size="working"/>

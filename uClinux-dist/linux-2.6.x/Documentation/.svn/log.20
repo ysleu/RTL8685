@@ -1,0 +1,200 @@
+<modify-entry
+   name="cpu-hotplug.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="cpu-hotplug.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="cpu-hotplug.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/cpu-hotplug.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="cpu-hotplug.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="cpu-hotplug.txt"
+   name=".svn/tmp/text-base/cpu-hotplug.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/cpu-hotplug.txt.svn-base"
+   name=".svn/tmp/text-base/cpu-hotplug.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/cpu-hotplug.txt.svn-base"/>
+<modify-entry
+   name="cpu-hotplug.txt"
+   checksum="bd5abf4a7b2cf29abb15e83f1c5e0278"/>
+<modify-entry
+   name="cpu-hotplug.txt"
+   text-time="working"/>
+<modify-entry
+   name="cpu-hotplug.txt"
+   working-size="working"/>
+<modify-entry
+   name="mono.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="mono.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="mono.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/mono.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="mono.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="mono.txt"
+   name=".svn/tmp/text-base/mono.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/mono.txt.svn-base"
+   name=".svn/tmp/text-base/mono.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/mono.txt.svn-base"/>
+<modify-entry
+   name="mono.txt"
+   checksum="ff254e1fb8c1094d411c330bed2827fc"/>
+<modify-entry
+   name="mono.txt"
+   text-time="working"/>
+<modify-entry
+   name="mono.txt"
+   working-size="working"/>
+<modify-entry
+   name="memory.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="memory.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="memory.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/memory.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="memory.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="memory.txt"
+   name=".svn/tmp/text-base/memory.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/memory.txt.svn-base"
+   name=".svn/tmp/text-base/memory.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/memory.txt.svn-base"/>
+<modify-entry
+   name="memory.txt"
+   checksum="b8638a354177cdbd6c8e4c6200a3b0c4"/>
+<modify-entry
+   name="memory.txt"
+   text-time="working"/>
+<modify-entry
+   name="memory.txt"
+   working-size="working"/>
+<modify-entry
+   name="zorro.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="zorro.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="zorro.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/zorro.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="zorro.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="zorro.txt"
+   name=".svn/tmp/text-base/zorro.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/zorro.txt.svn-base"
+   name=".svn/tmp/text-base/zorro.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/zorro.txt.svn-base"/>
+<modify-entry
+   name="zorro.txt"
+   checksum="5afccd5699a870edbaeeb4842171e637"/>
+<modify-entry
+   name="zorro.txt"
+   text-time="working"/>
+<modify-entry
+   name="zorro.txt"
+   working-size="working"/>
+<modify-entry
+   name="voyager.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="voyager.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="voyager.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/voyager.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="voyager.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="voyager.txt"
+   name=".svn/tmp/text-base/voyager.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/voyager.txt.svn-base"
+   name=".svn/tmp/text-base/voyager.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/voyager.txt.svn-base"/>
+<modify-entry
+   name="voyager.txt"
+   checksum="5032540b876282d5ba1d107ee9c54b76"/>
+<modify-entry
+   name="voyager.txt"
+   text-time="working"/>
+<modify-entry
+   name="voyager.txt"
+   working-size="working"/>

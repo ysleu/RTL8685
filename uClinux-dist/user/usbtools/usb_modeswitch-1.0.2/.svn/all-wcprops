@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/usb_modeswitch-1.0.2
+END
+usb_modeswitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/usb_modeswitch-1.0.2/usb_modeswitch.c
+END
+usb_modeswitch.conf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/usb_modeswitch-1.0.2/usb_modeswitch.conf
+END
+usb_modeswitch.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/usb_modeswitch-1.0.2/usb_modeswitch.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/usb_modeswitch-1.0.2/COPYING
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/usb_modeswitch-1.0.2/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/usb_modeswitch-1.0.2/README
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CN/cnsd5/!svn/ver/61222/trunk/adsl/SDK/uClinux-dist/user/wsc
+END
+wscd.conf_e8b
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/wsc/wscd.conf_e8b
+END
+wscd.conf_one_wps_led
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/57338/trunk/adsl/SDK/uClinux-dist/user/wsc/wscd.conf_one_wps_led
+END
+wscd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/wsc/wscd.conf
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CN/cnsd5/!svn/ver/57338/trunk/adsl/SDK/uClinux-dist/user/wsc/Makefile
+END

@@ -1,0 +1,120 @@
+<modify-entry
+   name="edac.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="edac.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="edac.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/edac.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="edac.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="edac.txt"
+   name=".svn/tmp/text-base/edac.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/edac.txt.svn-base"
+   name=".svn/tmp/text-base/edac.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/edac.txt.svn-base"/>
+<modify-entry
+   name="edac.txt"
+   checksum="6b8128e7c16b748b58a2472c8f93bf98"/>
+<modify-entry
+   name="edac.txt"
+   text-time="working"/>
+<modify-entry
+   name="edac.txt"
+   working-size="working"/>
+<modify-entry
+   name="pnp.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="pnp.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="pnp.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/pnp.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="pnp.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="pnp.txt"
+   name=".svn/tmp/text-base/pnp.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/pnp.txt.svn-base"
+   name=".svn/tmp/text-base/pnp.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/pnp.txt.svn-base"/>
+<modify-entry
+   name="pnp.txt"
+   checksum="d8110df5adc30b2a1e42ef92b0d2edc0"/>
+<modify-entry
+   name="pnp.txt"
+   text-time="working"/>
+<modify-entry
+   name="pnp.txt"
+   working-size="working"/>
+<modify-entry
+   name="IO-mapping.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="IO-mapping.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="IO-mapping.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/IO-mapping.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="IO-mapping.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="IO-mapping.txt"
+   name=".svn/tmp/text-base/IO-mapping.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/IO-mapping.txt.svn-base"
+   name=".svn/tmp/text-base/IO-mapping.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/IO-mapping.txt.svn-base"/>
+<modify-entry
+   name="IO-mapping.txt"
+   checksum="356dc66d1357870a5e3805bd35372efd"/>
+<modify-entry
+   name="IO-mapping.txt"
+   text-time="working"/>
+<modify-entry
+   name="IO-mapping.txt"
+   working-size="working"/>

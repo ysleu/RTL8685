@@ -1,0 +1,360 @@
+<modify-entry
+   name="sgi-ioc4.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="sgi-ioc4.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="sgi-ioc4.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/sgi-ioc4.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="sgi-ioc4.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="sgi-ioc4.txt"
+   name=".svn/tmp/text-base/sgi-ioc4.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/sgi-ioc4.txt.svn-base"
+   name=".svn/tmp/text-base/sgi-ioc4.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/sgi-ioc4.txt.svn-base"/>
+<modify-entry
+   name="sgi-ioc4.txt"
+   checksum="f4e0584fa5b55907435c3374c6ae6601"/>
+<modify-entry
+   name="sgi-ioc4.txt"
+   text-time="working"/>
+<modify-entry
+   name="sgi-ioc4.txt"
+   working-size="working"/>
+<modify-entry
+   name="kobject.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="kobject.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="kobject.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/kobject.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="kobject.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="kobject.txt"
+   name=".svn/tmp/text-base/kobject.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/kobject.txt.svn-base"
+   name=".svn/tmp/text-base/kobject.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/kobject.txt.svn-base"/>
+<modify-entry
+   name="kobject.txt"
+   checksum="3475e55038f11f2a1c0c2d984e09dddd"/>
+<modify-entry
+   name="kobject.txt"
+   text-time="working"/>
+<modify-entry
+   name="kobject.txt"
+   working-size="working"/>
+<modify-entry
+   name="kernel-parameters.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="kernel-parameters.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="kernel-parameters.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/kernel-parameters.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="kernel-parameters.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="kernel-parameters.txt"
+   name=".svn/tmp/text-base/kernel-parameters.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/kernel-parameters.txt.svn-base"
+   name=".svn/tmp/text-base/kernel-parameters.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/kernel-parameters.txt.svn-base"/>
+<modify-entry
+   name="kernel-parameters.txt"
+   checksum="0f9292e70dfde7488206f8fbd01cbd52"/>
+<modify-entry
+   name="kernel-parameters.txt"
+   text-time="working"/>
+<modify-entry
+   name="kernel-parameters.txt"
+   working-size="working"/>
+<modify-entry
+   name="stable_kernel_rules.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="stable_kernel_rules.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="stable_kernel_rules.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/stable_kernel_rules.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="stable_kernel_rules.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="stable_kernel_rules.txt"
+   name=".svn/tmp/text-base/stable_kernel_rules.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/stable_kernel_rules.txt.svn-base"
+   name=".svn/tmp/text-base/stable_kernel_rules.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/stable_kernel_rules.txt.svn-base"/>
+<modify-entry
+   name="stable_kernel_rules.txt"
+   checksum="290cc4c4a029a6635bc2ed39de495fc3"/>
+<modify-entry
+   name="stable_kernel_rules.txt"
+   text-time="working"/>
+<modify-entry
+   name="stable_kernel_rules.txt"
+   working-size="working"/>
+<modify-entry
+   name="email-clients.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="email-clients.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="email-clients.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/email-clients.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="email-clients.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="email-clients.txt"
+   name=".svn/tmp/text-base/email-clients.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/email-clients.txt.svn-base"
+   name=".svn/tmp/text-base/email-clients.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/email-clients.txt.svn-base"/>
+<modify-entry
+   name="email-clients.txt"
+   checksum="02046e88503738f6a462ea4745a4adf1"/>
+<modify-entry
+   name="email-clients.txt"
+   text-time="working"/>
+<modify-entry
+   name="email-clients.txt"
+   working-size="working"/>
+<modify-entry
+   name="tomoyo.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="tomoyo.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="tomoyo.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/tomoyo.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="tomoyo.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="tomoyo.txt"
+   name=".svn/tmp/text-base/tomoyo.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/tomoyo.txt.svn-base"
+   name=".svn/tmp/text-base/tomoyo.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/tomoyo.txt.svn-base"/>
+<modify-entry
+   name="tomoyo.txt"
+   checksum="9a0f4a60ec7bf25c4c1d7bb8f0c5e2cc"/>
+<modify-entry
+   name="tomoyo.txt"
+   text-time="working"/>
+<modify-entry
+   name="tomoyo.txt"
+   working-size="working"/>
+<modify-entry
+   name="kref.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="kref.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="kref.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/kref.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="kref.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="kref.txt"
+   name=".svn/tmp/text-base/kref.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/kref.txt.svn-base"
+   name=".svn/tmp/text-base/kref.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/kref.txt.svn-base"/>
+<modify-entry
+   name="kref.txt"
+   checksum="93fe6236f79178b8b501a6808ecb2583"/>
+<modify-entry
+   name="kref.txt"
+   text-time="working"/>
+<modify-entry
+   name="kref.txt"
+   working-size="working"/>
+<modify-entry
+   name="DMA-ISA-LPC.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="DMA-ISA-LPC.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="DMA-ISA-LPC.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/DMA-ISA-LPC.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="DMA-ISA-LPC.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="DMA-ISA-LPC.txt"
+   name=".svn/tmp/text-base/DMA-ISA-LPC.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/DMA-ISA-LPC.txt.svn-base"
+   name=".svn/tmp/text-base/DMA-ISA-LPC.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/DMA-ISA-LPC.txt.svn-base"/>
+<modify-entry
+   name="DMA-ISA-LPC.txt"
+   checksum="a0b20e82cadca3595c95a9b7909a2120"/>
+<modify-entry
+   name="DMA-ISA-LPC.txt"
+   text-time="working"/>
+<modify-entry
+   name="DMA-ISA-LPC.txt"
+   working-size="working"/>
+<modify-entry
+   name="dell_rbu.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="dell_rbu.txt"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="dell_rbu.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/dell_rbu.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="dell_rbu.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="dell_rbu.txt"
+   name=".svn/tmp/text-base/dell_rbu.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/dell_rbu.txt.svn-base"
+   name=".svn/tmp/text-base/dell_rbu.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/dell_rbu.txt.svn-base"/>
+<modify-entry
+   name="dell_rbu.txt"
+   checksum="089c8337558c9fe08980e33d0cc307f8"/>
+<modify-entry
+   name="dell_rbu.txt"
+   text-time="working"/>
+<modify-entry
+   name="dell_rbu.txt"
+   working-size="working"/>

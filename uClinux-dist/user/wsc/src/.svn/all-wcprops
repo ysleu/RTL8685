@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/CN/cnsd5/!svn/ver/61222/trunk/adsl/SDK/uClinux-dist/user/wsc/src
+END
+wscd.conf.kb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/wsc/src/wscd.conf.kb
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/61222/trunk/adsl/SDK/uClinux-dist/user/wsc/src/utils.c
+END
+wsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/57938/trunk/adsl/SDK/uClinux-dist/user/wsc/src/wsc.h
+END
+wscd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/wsc/src/wscd.conf
+END
+simplecfgservice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/wsc/src/simplecfgservice.xml
+END
+simplecfg_mini_upnp_main.old.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/wsc/src/simplecfg_mini_upnp_main.old.c
+END
+rxpkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/57938/trunk/adsl/SDK/uClinux-dist/user/wsc/src/rxpkt.c
+END
+txpkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/CN/cnsd5/!svn/ver/57938/trunk/adsl/SDK/uClinux-dist/user/wsc/src/txpkt.c
+END
+sample_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/wsc/src/sample_util.c
+END
+simplecfg_upnp_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/wsc/src/simplecfg_upnp_main.c
+END
+simplecfg_upnp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/wsc/src/simplecfg_upnp.h
+END
+sample_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/wsc/src/sample_util.h
+END
+wscd.conf.tr
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/wsc/src/wscd.conf.tr
+END
+simplecfg_mini_upnp_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/54597/trunk/adsl/SDK/uClinux-dist/user/wsc/src/simplecfg_mini_upnp_main.c
+END
+wsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/CN/cnsd5/!svn/ver/57938/trunk/adsl/SDK/uClinux-dist/user/wsc/src/wsc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CN/cnsd5/!svn/ver/58028/trunk/adsl/SDK/uClinux-dist/user/wsc/src/Makefile
+END

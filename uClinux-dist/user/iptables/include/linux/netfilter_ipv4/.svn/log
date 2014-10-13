@@ -1,0 +1,865 @@
+<modify-entry
+   name="ipt_helper.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_helper.h.svn-base"
+   name=".svn/prop-base/tempfile.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_helper.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_helper.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_helper.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_helper.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_helper.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_helper.h"
+   name=".svn/tmp/text-base/ipt_helper.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_helper.h.svn-base"
+   name=".svn/tmp/text-base/ipt_helper.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_helper.h.svn-base"/>
+<modify-entry
+   name="ipt_helper.h"
+   checksum="ee74c89ec2f5eb29af79df78a862c515"/>
+<modify-entry
+   name="ipt_helper.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_helper.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_length.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_length.h.svn-base"
+   name=".svn/prop-base/tempfile.2.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_length.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_length.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_length.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_length.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_length.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_length.h"
+   name=".svn/tmp/text-base/ipt_length.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_length.h.svn-base"
+   name=".svn/tmp/text-base/ipt_length.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_length.h.svn-base"/>
+<modify-entry
+   name="ipt_length.h"
+   checksum="cee092f1d4fb173f9a257df3077318e7"/>
+<modify-entry
+   name="ipt_length.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_length.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_conntrack.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_conntrack.h.svn-base"
+   name=".svn/prop-base/tempfile.3.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_conntrack.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_conntrack.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_conntrack.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_conntrack.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_conntrack.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_conntrack.h"
+   name=".svn/tmp/text-base/ipt_conntrack.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_conntrack.h.svn-base"
+   name=".svn/tmp/text-base/ipt_conntrack.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_conntrack.h.svn-base"/>
+<modify-entry
+   name="ipt_conntrack.h"
+   checksum="a4e33b11f7fed85897fe4ec967f832b9"/>
+<modify-entry
+   name="ipt_conntrack.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_conntrack.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_SAME.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_SAME.h.svn-base"
+   name=".svn/prop-base/tempfile.4.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_SAME.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_SAME.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_SAME.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_SAME.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_SAME.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_SAME.h"
+   name=".svn/tmp/text-base/ipt_SAME.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_SAME.h.svn-base"
+   name=".svn/tmp/text-base/ipt_SAME.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_SAME.h.svn-base"/>
+<modify-entry
+   name="ipt_SAME.h"
+   checksum="a05200f639c33ed0eb1d91d96759a40f"/>
+<modify-entry
+   name="ipt_SAME.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_SAME.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_esp.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_esp.h.svn-base"
+   name=".svn/prop-base/tempfile.5.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_esp.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_esp.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_esp.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_esp.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_esp.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_esp.h"
+   name=".svn/tmp/text-base/ipt_esp.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_esp.h.svn-base"
+   name=".svn/tmp/text-base/ipt_esp.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_esp.h.svn-base"/>
+<modify-entry
+   name="ipt_esp.h"
+   checksum="b8e092fc83e058ddf92c2fadc8c1c256"/>
+<modify-entry
+   name="ipt_esp.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_esp.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_ah.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_ah.h.svn-base"
+   name=".svn/prop-base/tempfile.6.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_ah.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_ah.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_ah.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_ah.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_ah.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_ah.h"
+   name=".svn/tmp/text-base/ipt_ah.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_ah.h.svn-base"
+   name=".svn/tmp/text-base/ipt_ah.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_ah.h.svn-base"/>
+<modify-entry
+   name="ipt_ah.h"
+   checksum="8a67323e3c4f37827b33675d893a3efe"/>
+<modify-entry
+   name="ipt_ah.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_ah.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_DSCP.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_DSCP.h.svn-base"
+   name=".svn/prop-base/tempfile.7.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_DSCP.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_DSCP.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_DSCP.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_DSCP.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_DSCP.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_DSCP.h"
+   name=".svn/tmp/text-base/ipt_DSCP.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_DSCP.h.svn-base"
+   name=".svn/tmp/text-base/ipt_DSCP.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_DSCP.h.svn-base"/>
+<modify-entry
+   name="ipt_DSCP.h"
+   checksum="d042b5b887203c2955e1fa287d7b911c"/>
+<modify-entry
+   name="ipt_DSCP.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_DSCP.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_dscp.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_dscp.h.svn-base"
+   name=".svn/prop-base/tempfile.8.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_dscp.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_dscp.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_dscp.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_dscp.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_dscp.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_dscp.h"
+   name=".svn/tmp/text-base/ipt_dscp.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_dscp.h.svn-base"
+   name=".svn/tmp/text-base/ipt_dscp.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_dscp.h.svn-base"/>
+<modify-entry
+   name="ipt_dscp.h"
+   checksum="7d7748c66c5401eaaa428a9026000157"/>
+<modify-entry
+   name="ipt_dscp.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_dscp.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_pkttype.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_pkttype.h.svn-base"
+   name=".svn/prop-base/tempfile.9.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_pkttype.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_pkttype.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_pkttype.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_pkttype.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_pkttype.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_pkttype.h"
+   name=".svn/tmp/text-base/ipt_pkttype.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_pkttype.h.svn-base"
+   name=".svn/tmp/text-base/ipt_pkttype.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_pkttype.h.svn-base"/>
+<modify-entry
+   name="ipt_pkttype.h"
+   checksum="c93e01aad335858f2b7ce09c423b72c3"/>
+<modify-entry
+   name="ipt_pkttype.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_pkttype.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_ttl.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_ttl.h.svn-base"
+   name=".svn/prop-base/tempfile.10.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_ttl.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_ttl.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_ttl.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_ttl.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_ttl.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_ttl.h"
+   name=".svn/tmp/text-base/ipt_ttl.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_ttl.h.svn-base"
+   name=".svn/tmp/text-base/ipt_ttl.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_ttl.h.svn-base"/>
+<modify-entry
+   name="ipt_ttl.h"
+   checksum="b8a5ed3ecb0245feb4174ead151d681c"/>
+<modify-entry
+   name="ipt_ttl.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_ttl.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_TRIGGER.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_TRIGGER.h.svn-base"
+   name=".svn/prop-base/tempfile.11.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_TRIGGER.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_TRIGGER.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_TRIGGER.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_TRIGGER.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_TRIGGER.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_TRIGGER.h"
+   name=".svn/tmp/text-base/ipt_TRIGGER.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_TRIGGER.h.svn-base"
+   name=".svn/tmp/text-base/ipt_TRIGGER.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_TRIGGER.h.svn-base"/>
+<modify-entry
+   name="ipt_TRIGGER.h"
+   checksum="61965ba854d034cd7f206e93b018a1af"/>
+<modify-entry
+   name="ipt_TRIGGER.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_TRIGGER.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_TTL.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_TTL.h.svn-base"
+   name=".svn/prop-base/tempfile.12.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_TTL.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_TTL.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_TTL.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_TTL.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_TTL.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_TTL.h"
+   name=".svn/tmp/text-base/ipt_TTL.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_TTL.h.svn-base"
+   name=".svn/tmp/text-base/ipt_TTL.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_TTL.h.svn-base"/>
+<modify-entry
+   name="ipt_TTL.h"
+   checksum="c375fc90b4cdded38542cc8d86bff083"/>
+<modify-entry
+   name="ipt_TTL.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_TTL.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_ECN.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_ECN.h.svn-base"
+   name=".svn/prop-base/tempfile.13.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_ECN.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_ECN.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_ECN.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_ECN.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_ECN.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_ECN.h"
+   name=".svn/tmp/text-base/ipt_ECN.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_ECN.h.svn-base"
+   name=".svn/tmp/text-base/ipt_ECN.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_ECN.h.svn-base"/>
+<modify-entry
+   name="ipt_ECN.h"
+   checksum="76bc72fb1e2b1bd752198dd91d00d512"/>
+<modify-entry
+   name="ipt_ECN.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_ECN.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_ecn.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_ecn.h.svn-base"
+   name=".svn/prop-base/tempfile.14.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_ecn.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_ecn.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_ecn.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_ecn.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_ecn.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_ecn.h"
+   name=".svn/tmp/text-base/ipt_ecn.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_ecn.h.svn-base"
+   name=".svn/tmp/text-base/ipt_ecn.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_ecn.h.svn-base"/>
+<modify-entry
+   name="ipt_ecn.h"
+   checksum="1963206e084785f7d312ab575272a554"/>
+<modify-entry
+   name="ipt_ecn.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_ecn.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_ULOG.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_ULOG.h.svn-base"
+   name=".svn/prop-base/tempfile.15.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_ULOG.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_ULOG.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_ULOG.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_ULOG.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_ULOG.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_ULOG.h"
+   name=".svn/tmp/text-base/ipt_ULOG.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_ULOG.h.svn-base"
+   name=".svn/tmp/text-base/ipt_ULOG.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_ULOG.h.svn-base"/>
+<modify-entry
+   name="ipt_ULOG.h"
+   checksum="5bca2f20002cc2604f917819563aa1ee"/>
+<modify-entry
+   name="ipt_ULOG.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_ULOG.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_iplimit.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_iplimit.h.svn-base"
+   name=".svn/prop-base/tempfile.16.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_iplimit.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_iplimit.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_iplimit.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_iplimit.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_iplimit.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_iplimit.h"
+   name=".svn/tmp/text-base/ipt_iplimit.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_iplimit.h.svn-base"
+   name=".svn/tmp/text-base/ipt_iplimit.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_iplimit.h.svn-base"/>
+<modify-entry
+   name="ipt_iplimit.h"
+   checksum="d892527a4b13c87d48c8643d2fc2b7a1"/>
+<modify-entry
+   name="ipt_iplimit.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_iplimit.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_TCPMSS.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_TCPMSS.h.svn-base"
+   name=".svn/prop-base/tempfile.17.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_TCPMSS.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_TCPMSS.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_TCPMSS.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_TCPMSS.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_TCPMSS.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_TCPMSS.h"
+   name=".svn/tmp/text-base/ipt_TCPMSS.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_TCPMSS.h.svn-base"
+   name=".svn/tmp/text-base/ipt_TCPMSS.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_TCPMSS.h.svn-base"/>
+<modify-entry
+   name="ipt_TCPMSS.h"
+   checksum="7ede8bd363299bbeca7254d67d327d27"/>
+<modify-entry
+   name="ipt_TCPMSS.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_TCPMSS.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_tcpmss.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_tcpmss.h.svn-base"
+   name=".svn/prop-base/tempfile.18.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_tcpmss.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_tcpmss.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_tcpmss.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_tcpmss.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_tcpmss.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_tcpmss.h"
+   name=".svn/tmp/text-base/ipt_tcpmss.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_tcpmss.h.svn-base"
+   name=".svn/tmp/text-base/ipt_tcpmss.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_tcpmss.h.svn-base"/>
+<modify-entry
+   name="ipt_tcpmss.h"
+   checksum="a66b4269eed80c5b84d9473a1fe9226b"/>
+<modify-entry
+   name="ipt_tcpmss.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_tcpmss.h"
+   working-size="working"/>
+<modify-entry
+   name="ipt_FTOS.h"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ipt_FTOS.h.svn-base"
+   name=".svn/prop-base/tempfile.19.tmp"/>
+<readonly
+   name=".svn/prop-base/ipt_FTOS.h.svn-base"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name="ipt_FTOS.h"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ipt_FTOS.h"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4/ipt_FTOS.h"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ipt_FTOS.h"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63278"/>
+<cp-and-translate
+   dest="ipt_FTOS.h"
+   name=".svn/tmp/text-base/ipt_FTOS.h.svn-base"/>
+<mv
+   dest=".svn/text-base/ipt_FTOS.h.svn-base"
+   name=".svn/tmp/text-base/ipt_FTOS.h.svn-base"/>
+<readonly
+   name=".svn/text-base/ipt_FTOS.h.svn-base"/>
+<modify-entry
+   name="ipt_FTOS.h"
+   checksum="b4326c8ba36b4d01a4e4c6acdd67b840"/>
+<modify-entry
+   name="ipt_FTOS.h"
+   text-time="working"/>
+<modify-entry
+   name="ipt_FTOS.h"
+   working-size="working"/>
+<modify-entry
+   committed-rev="50489"
+   committed-date="2013-01-28T16:29:13.583536Z"
+   name=""
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name=""
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/iptables/include/linux/netfilter_ipv4"/>

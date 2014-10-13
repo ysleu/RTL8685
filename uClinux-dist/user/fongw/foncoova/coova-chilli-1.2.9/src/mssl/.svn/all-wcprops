@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/mssl
+END
+sslSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/mssl/sslSocket.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/mssl/Makefile.in
+END
+httpsClient.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/mssl/httpsClient.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/mssl/Makefile.am
+END
+sslSocket.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/foncoova/coova-chilli-1.2.9/src/mssl/sslSocket.c
+END

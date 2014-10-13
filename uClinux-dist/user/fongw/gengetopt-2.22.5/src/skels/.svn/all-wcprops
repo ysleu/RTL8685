@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels
+END
+free_list.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/free_list.h_skel
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/Makefile.in
+END
+multiple_fill_array.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/multiple_fill_array.cc
+END
+multiple_fill_array.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/multiple_fill_array.h
+END
+generic_option.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/generic_option.cc
+END
+file_save_multiple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/file_save_multiple.cc
+END
+multiple_opt_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/multiple_opt_list.h
+END
+given_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/given_field.cc
+END
+enum_decl.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/enum_decl.h_skel
+END
+free_multiple.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/free_multiple.h_skel
+END
+update_given.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/update_given.h
+END
+given_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/given_field.h
+END
+free_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/free_list.h
+END
+handle_version.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/handle_version.h_skel
+END
+clear_given.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/clear_given.h
+END
+c_source.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/c_source.h_skel
+END
+handle_help.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/handle_help.h_skel
+END
+group_option.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/group_option.cc
+END
+custom_getopt_gen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/custom_getopt_gen.cc
+END
+header.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/header.cc
+END
+required_option.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/required_option.h_skel
+END
+init_args_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/init_args_info.cc
+END
+group_counter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/group_counter.cc
+END
+dependant_option.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/dependant_option.h
+END
+print_help_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/print_help_string.h
+END
+group_counter.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/group_counter.h
+END
+free_multiple.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/free_multiple.h
+END
+reset_group.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/reset_group.cc
+END
+file_save.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/file_save.h
+END
+handle_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/handle_version.h
+END
+option_arg.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/option_arg.h
+END
+multiple_opt_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/multiple_opt_list.cc
+END
+required_option.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/required_option.h
+END
+free_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/free_list.cc
+END
+file_save.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/file_save.h_skel
+END
+option_arg.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/option_arg.h_skel
+END
+check_modes.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/check_modes.h_skel
+END
+free_string.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/free_string.h_skel
+END
+copyright.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/copyright.h_skel
+END
+update_given.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/update_given.h_skel
+END
+enum_decl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/enum_decl.cc
+END
+free_multiple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/free_multiple.cc
+END
+init_args_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/init_args_info.h
+END
+enum_decl.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/enum_decl.h
+END
+clear_given.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/clear_given.h_skel
+END
+clear_arg.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/clear_arg.h_skel
+END
+handle_version.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/handle_version.cc
+END
+exit_failure.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/exit_failure.h_skel
+END
+reset_group.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/reset_group.h
+END
+c_source.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/c_source.cc
+END
+handle_help.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/handle_help.cc
+END
+handle_help.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/handle_help.h
+END
+check_modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/check_modes.h
+END
+required_option.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/required_option.cc
+END
+copyright.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/copyright.h
+END
+dependant_option.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/dependant_option.h_skel
+END
+print_help_string.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/print_help_string.h_skel
+END
+multiple_fill_array.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/multiple_fill_array.h_skel
+END
+exit_failure.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/exit_failure.h
+END
+generic_option.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/generic_option.h_skel
+END
+custom_getopt_gen.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/custom_getopt_gen.h
+END
+file_save_multiple.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/file_save_multiple.h_skel
+END
+given_field.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/given_field.h_skel
+END
+file_save.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/file_save.cc
+END
+option_arg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/option_arg.cc
+END
+group_option.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/group_option.h_skel
+END
+check_modes.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/check_modes.cc
+END
+c_source.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/c_source.h
+END
+custom_getopt_gen.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/custom_getopt_gen.h_skel
+END
+generic_option.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/generic_option.h
+END
+free_string.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/free_string.cc
+END
+copyright.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/copyright.cc
+END
+header.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/header.h_skel
+END
+free_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/free_string.h
+END
+file_save_multiple.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/file_save_multiple.h
+END
+init_args_info.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/init_args_info.h_skel
+END
+update_given.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/update_given.cc
+END
+group_counter.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/group_counter.h_skel
+END
+clear_given.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/clear_given.cc
+END
+reset_group.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/reset_group.h_skel
+END
+clear_arg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/clear_arg.cc
+END
+exit_failure.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/exit_failure.cc
+END
+clear_arg.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/clear_arg.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/Makefile.am
+END
+group_option.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/group_option.h
+END
+multiple_opt_list.h_skel
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/multiple_opt_list.h_skel
+END
+header.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/header.h
+END
+dependant_option.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/dependant_option.cc
+END
+print_help_string.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/src/skels/print_help_string.cc
+END

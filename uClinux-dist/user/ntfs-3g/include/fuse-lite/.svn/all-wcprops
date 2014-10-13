@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CN/cnsd5/!svn/ver/60488/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/include/fuse-lite
+END
+fuse_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/include/fuse-lite/fuse_common.h
+END
+fuse_lowlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/include/fuse-lite/fuse_lowlevel.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/include/fuse-lite/Makefile.in
+END
+fuse_lowlevel_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/include/fuse-lite/fuse_lowlevel_compat.h
+END
+fuse.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/include/fuse-lite/fuse.h
+END
+fuse_kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/include/fuse-lite/fuse_kernel.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/include/fuse-lite/Makefile.am
+END
+fuse_opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/ntfs-3g/include/fuse-lite/fuse_opt.h
+END

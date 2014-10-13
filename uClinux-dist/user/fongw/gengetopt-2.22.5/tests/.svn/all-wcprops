@@ -1,0 +1,1151 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests
+END
+test_default_values.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_default_values.sh.in
+END
+test_manual_help_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_manual_help_cmd.ggo
+END
+canonize-names-cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/canonize-names-cmd.ggo
+END
+no_strings_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_strings_cmd.ggo
+END
+wrong_group.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_group.ggo
+END
+test_conf_parser_ov.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_ov.c
+END
+no_optgiven_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_optgiven_cmd.ggo
+END
+default_values_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/default_values_cmd.c.test
+END
+cmdline.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/cmdline.ggo
+END
+test_all_opts.save.test
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_all_opts.save.test
+END
+test_manual_help_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_manual_help_cmd.c
+END
+test_simple_multiple_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_simple_multiple_cmd.h.test
+END
+no_unamed_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_unamed_cmd.h.test
+END
+test_values_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_values_cmd.ggo
+END
+test_manual_help_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_manual_help_cmd.h
+END
+wrong_flag2.err
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_flag2.err
+END
+wrong_dep.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_dep.ggo
+END
+test_multiple.save.test
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_multiple.save.test
+END
+valgrind_tests.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/valgrind_tests.sh.in
+END
+canonize-names-cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/canonize-names-cmd.c.test
+END
+no_strings_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_strings_cmd.c.test
+END
+test_no_options_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_no_options_cmd.c.test
+END
+test_text_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_text_cmd.h.test
+END
+wrong_flag.err
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_flag.err
+END
+test_redef_help.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_redef_help.c
+END
+test_multiple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_multiple.cc
+END
+more_than_once_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/more_than_once_cmd.ggo
+END
+test_no_handle_help.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_no_handle_help.c
+END
+test_simple_multiple.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_simple_multiple.sh.in
+END
+test_conf_parser_ov.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_ov.sh.in
+END
+wrong_flag2.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_flag2.ggo
+END
+test_conf_inc2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_inc2.conf
+END
+no_prog_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_prog_name.c
+END
+test_sections_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_sections_cmd.ggo
+END
+test_values_err.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_values_err.sh.in
+END
+test_conf_parser_err.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_err.sh.in
+END
+test_align_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_align_cmd.ggo
+END
+default_values_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/default_values_cmd.h.test
+END
+test_all_opts.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_all_opts.c
+END
+test_all_opts_option_help.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_all_opts_option_help.c
+END
+test_groups_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_groups_cmd.c.test
+END
+wrong_flag.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_flag.ggo
+END
+test_first_cmdline_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_first_cmdline_cmd.c.test
+END
+test_manual_help.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_manual_help.c
+END
+test_conf_parser_ov3.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_ov3.sh.in
+END
+test_first_cmdline_cmd.ggostr
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_first_cmdline_cmd.ggostr
+END
+cmdline.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/cmdline.c.test
+END
+test_values_cmd_cc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_values_cmd_cc.cc
+END
+test_main_cmdline_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_main_cmdline_cmd.ggo
+END
+canonize-names-cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/canonize-names-cmd.h.test
+END
+no_strings_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_strings_cmd.h.test
+END
+test_no_options_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_no_options_cmd.h.test
+END
+test_conf_parser_ov4.c.in
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_ov4.c.in
+END
+test.output
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test.output
+END
+wrong_group2.err
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_group2.err
+END
+test_required_optional_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_required_optional_cmd.ggo
+END
+no_unamed.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_unamed.c
+END
+wrong_default.err
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_default.err
+END
+test_modes_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_modes_cmd.c.test
+END
+test_all_opts.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_all_opts.sh.in
+END
+test_conf3.conf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf3.conf
+END
+more_than_once.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/more_than_once.c
+END
+test_manual_help.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_manual_help.sh.in
+END
+more_than_once_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/more_than_once_cmd.c.test
+END
+test_conf_parser_cmd.ggoconf
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_cmd.ggoconf
+END
+test_groups_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_groups_cmd.h.test
+END
+wrong_group2.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_group2.ggo
+END
+test_conf_inc.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_inc.conf.in
+END
+test_no_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_no_options.c
+END
+test_multiple_parsers.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_multiple_parsers.sh.in
+END
+test_conf_parser_ov2.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_ov2.c
+END
+test_multiple.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_multiple.sh.in
+END
+test_first_cmdline_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_first_cmdline_cmd.h.test
+END
+wrong_default.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_default.ggo
+END
+test_conf_parser_err_string.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_err_string.sh.in
+END
+test_only_flags_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_only_flags_cmd.c.test
+END
+cmdline.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/cmdline.h.test
+END
+no_multi_strings_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_multi_strings_cmd.c.test
+END
+no_multi_types.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_multi_types.c
+END
+test_no_handle_help_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_no_handle_help_cmd.ggo
+END
+test_modes_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_modes_cmd.h.test
+END
+more_than_once.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/more_than_once.sh.in
+END
+test_groups_option_help.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_groups_option_help.c
+END
+test_groups.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_groups.c
+END
+suppressions.supp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/suppressions.supp
+END
+test_conf_parser_ov2.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_ov2.sh.in
+END
+no_strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_strings.c
+END
+no_unamed_cmd.ggonu
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_unamed_cmd.ggonu
+END
+more_than_once_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/more_than_once_cmd.h.test
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/Makefile.am
+END
+test_multiple_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_multiple_cmd.c.test
+END
+no_multi_strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_multi_strings.c
+END
+test_values_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_values_cmd.c.test
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/Makefile.in
+END
+test_only_flags_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_only_flags_cmd.h.test
+END
+no_multi_strings_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_multi_strings_cmd.h.test
+END
+test_modes_option_help.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_modes_option_help.c
+END
+test_modes.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_modes.c
+END
+test_simple_multiple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_simple_multiple.cc
+END
+test_multiple_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_multiple_cmd.ggo
+END
+test_groups.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_groups.sh.in
+END
+no_multi_strings_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_multi_strings_cmd.ggo
+END
+wrong_help_redef.err
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_help_redef.err
+END
+test_simple_multiple_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_simple_multiple_cmd.ggo
+END
+test_text.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_text.c
+END
+test_err.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_err.sh.in
+END
+no_optgiven.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_optgiven.sh.in
+END
+wrong_multiple_occurrence.err
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_multiple_occurrence.err
+END
+test_conf_parser_ov3.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_ov3.c
+END
+test_sections_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_sections_cmd.c.test
+END
+test_values.save.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_values.save.test
+END
+test_conf_parser.save.test
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser.save.test
+END
+test_conf_parser_ov3.c.in
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_ov3.c.in
+END
+test_conf.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf.conf.in
+END
+test_redef_help_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_redef_help_cmd.c.test
+END
+test_multiple_err.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_multiple_err.sh.in
+END
+test_multiple_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_multiple_cmd.h.test
+END
+test_text_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_text_cmd.ggo
+END
+valgrind_suppressions.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/valgrind_suppressions.sh.in
+END
+test_no_options_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_no_options_cmd.ggo
+END
+test_modes.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_modes.sh.in
+END
+default_values.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/default_values.c
+END
+wrong_help_redef.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_help_redef.ggo
+END
+test_dep.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_dep.sh.in
+END
+test_values_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_values_cmd.h.test
+END
+test_conf_parser_grp.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_grp.sh.in
+END
+test_second_cmdline_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_second_cmdline_cmd.c.test
+END
+test_conf_err_string2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_err_string2.conf
+END
+no_optgiven2.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_optgiven2.c
+END
+test_conf2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf2.conf
+END
+test_only_flags_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_only_flags_cmd.ggo
+END
+wrong_multiple_occurrence.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_multiple_occurrence.ggo
+END
+test_conf_parser_save.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_save.sh.in
+END
+test_second_cmdline_cmd.ggostr
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_second_cmdline_cmd.ggostr
+END
+test_all_opts_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_all_opts_cmd.c.test
+END
+test_main_cmdline_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_main_cmdline_cmd.c.test
+END
+default_cmdline.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/default_cmdline.c
+END
+default_values_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/default_values_cmd.ggo
+END
+test_show_help.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_show_help.sh.in
+END
+no_multi_types_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_multi_types_cmd.ggo
+END
+test_multiple_parsers.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_multiple_parsers.c
+END
+test_align_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_align_cmd.c.test
+END
+test_groups_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_groups_cmd.ggo
+END
+test_values.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_values.c
+END
+test_conf_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser.c
+END
+test_conf_parser_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_cmd.c.test
+END
+test_redef_help_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_redef_help_cmd.h.test
+END
+wrong_enum_use.err
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_enum_use.err
+END
+test_usage.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_usage.c
+END
+test_simple_multiple_default.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_simple_multiple_default.sh.in
+END
+test_conf_inc_inc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_inc_inc.conf
+END
+test_second_cmdline_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_second_cmdline_cmd.h.test
+END
+wrong_version_redef.err
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_version_redef.err
+END
+test_conf_parser_file_save.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_file_save.c
+END
+test_usage_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_usage_cmd.ggo
+END
+wrong_numeric_value.err
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_numeric_value.err
+END
+test_all_opts_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_all_opts_cmd.h.test
+END
+test_newlines.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_newlines.c
+END
+test_modes_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_modes_cmd.ggo
+END
+test_main_cmdline_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_main_cmdline_cmd.h.test
+END
+test_conf_err_string.conf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_err_string.conf
+END
+test_all_opts_file_save.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_all_opts_file_save.sh.in
+END
+test_sections.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_sections.c
+END
+test_sections_option_help.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_sections_option_help.c
+END
+wrong_enum_use.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_enum_use.ggo
+END
+test_conf_parser_ov4.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_ov4.c
+END
+no_optgiven_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_optgiven_cmd.c.test
+END
+test_section_with_all_hidden.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_section_with_all_hidden.ggo
+END
+test_values.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_values.sh.in
+END
+test_only_flags.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_only_flags.c
+END
+test_conf_parser.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser.sh.in
+END
+test_align_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_align_cmd.h.test
+END
+test_conf_err.conf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_err.conf
+END
+test_newlines_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_newlines_cmd.ggo
+END
+wrong_version_redef.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_version_redef.ggo
+END
+test_simple_multiple_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_simple_multiple_cmd.c.test
+END
+wrong_numeric_value.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_numeric_value.ggo
+END
+test_conf_parser_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_cmd.h.test
+END
+no_unamed_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_unamed_cmd.c.test
+END
+test_values_cc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_values_cc.cc
+END
+canonize-names.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/canonize-names.c
+END
+test_redef_help_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_redef_help_cmd.ggo
+END
+wrong_group.err
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_group.err
+END
+test_sections.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_sections.sh.in
+END
+test_text_cmd.c.test
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_text_cmd.c.test
+END
+test_conf_parser_ov4.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_ov4.sh.in
+END
+no_optgiven.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_optgiven.c
+END
+test_all_opts_cmd.ggo
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_all_opts_cmd.ggo
+END
+wrong_dep.err
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/wrong_dep.err
+END
+test_conf_parser_ov2.c.in
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/test_conf_parser_ov2.c.in
+END
+no_optgiven_cmd.h.test
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/fongw/gengetopt-2.22.5/tests/no_optgiven_cmd.h.test
+END

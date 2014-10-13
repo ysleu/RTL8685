@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/.deps
+END
+get_resolution.Po
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/.deps/get_resolution.Po
+END
+hub_strings.Po
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/.deps/hub_strings.Po
+END
+driver_name.Po
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/.deps/driver_name.Po
+END
+id_test.Po
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/.deps/id_test.Po
+END
+descriptor_test.Po
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/.deps/descriptor_test.Po
+END
+find_mice.Po
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/.deps/find_mice.Po
+END
+testlibusb.Po
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/.deps/testlibusb.Po
+END
+find_hubs.Po
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CN/cnsd5/!svn/ver/50489/trunk/adsl/SDK/uClinux-dist/user/usbtools/libusb-0.1.12/tests/.deps/find_hubs.Po
+END

@@ -1,0 +1,12 @@
+#!/bin/sh
+
+make
+cd linux-2.6.x
+#echo "\033[0;31mexec mkrom_16MB.sh\033[0m"
+#./mkrom_16MB.sh
+echo -e "\033[0;31mexec mkrom.sh\033[0m"
+echo -e "\e[34;1m################################################\e[0m"
+./mkrom.sh
+echo -e "\033[0;31mvm2.img is for double-backup-img, while bootloader must support\033[0m"
+echo -e "\033[0;31mif you don't want to backup img, please select vm.img to download...\033[0m"
+cd ../

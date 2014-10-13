@@ -1,0 +1,40 @@
+<modify-entry
+   name="ics932s401"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="50488"
+   committed-date="2013-01-28T16:16:19.766067Z"
+   name="ics932s401"
+   last-author="tsaitc"
+   uuid="6205ae0b-4059-46eb-a33d-b14f343f8a53"/>
+<modify-wcprop
+   name="ics932s401"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/CN/cnsd5/!svn/ver/50488/trunk/adsl/SDK/linux-2.6.30/Documentation/ics932s401"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ics932s401"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63279"/>
+<cp-and-translate
+   dest="ics932s401"
+   name=".svn/tmp/text-base/ics932s401.svn-base"/>
+<mv
+   dest=".svn/text-base/ics932s401.svn-base"
+   name=".svn/tmp/text-base/ics932s401.svn-base"/>
+<readonly
+   name=".svn/text-base/ics932s401.svn-base"/>
+<modify-entry
+   name="ics932s401"
+   checksum="cbddb5d9595c34c25c268c753011b065"/>
+<modify-entry
+   name="ics932s401"
+   text-time="working"/>
+<modify-entry
+   name="ics932s401"
+   working-size="working"/>

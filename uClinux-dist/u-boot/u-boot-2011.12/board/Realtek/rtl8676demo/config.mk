@@ -1,0 +1,9 @@
+TBASE=0
+ifeq ($(TBASE),0)
+TEXT_BASE = 0
+CONFIG_SYS_TEXT_BASE = 0x9fc00000
+else
+ifeq ($(TBASE),1)
+CONFIG_SYS_TEXT_BASE = 0x80008000
+endif
+endif

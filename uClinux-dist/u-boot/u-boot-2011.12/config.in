@@ -1,0 +1,178 @@
+mainmenu_name "U-Boot Configuration"
+
+mainmenu_option next_comment
+comment 'Board'
+
+choice 'Realtek' "RTL8676 CONFIG_RTL8676 \
+                  RTL8686  CONFIG_RTL8686" RTL8686
+
+choice 'Console ' \
+	"UART0 CONFIG_UART0 \
+	 UART1 CONFIG_UART1"  UART0
+	 
+endmenu
+
+
+mainmenu_option next_comment
+comment 'Frequency configuration'
+	#bool 'Software Overwrite Freq.' CONFIG_SOFTWARE_OVERWRITE_FREQ n
+	define_bool CONFIG_SOFTWARE_OVERWRITE_FREQ y
+	if [ "$CONFIG_SOFTWARE_OVERWRITE_FREQ" = "n" ]; then
+		comment 'CPU Frequency 500MHz'
+		comment 'DSP Frequency 500MHz'
+		int 'Memory Clock in MHz (Board Strapping pin setting)' CONFIG_MEMCLK_MHZ 100
+		define_int CONFIG_CPUCLK_MHZ 500
+		define_int CONFIG_DSPCLK_MHZ 500
+	else
+		#bool 'Env. Variable Decide' CONFIG_SOFTWARE_FREQUENCY_ENV_DECIDE n
+		define_bool CONFIG_SOFTWARE_FREQUENCY_ENV_DECIDE n
+		if [ "$CONFIG_SOFTWARE_FREQUENCY_ENV_DECIDE" = "n" ]; then
+			#int 'CPU Frequency in MHz' CONFIG_CPUCLK_MHZ 500
+			#int 'DSP Frequency in MHz' CONFIG_DSPCLK_MHZ 500
+			#int 'Memory Frequency in MHz' CONFIG_MEMCLK_MHZ 100
+			comment 'CPU Frequency 700 MHz'
+			comment 'DSP Frequency 550 MHz'
+			comment 'MEM Frequency 300 MHz'
+			define_int CONFIG_CPUCLK_MHZ 700
+			define_int CONFIG_DSPCLK_MHZ 550
+			define_int CONFIG_MEMCLK_MHZ 300
+		fi
+	fi
+endmenu
+
+
+mainmenu_option next_comment
+comment 'Memory configuration'
+
+if [ "$CONFIG_RTL8686" = "y" ]; then
+	comment 'DRAM Configuration'
+		bool 'DRAM Size Auto-Detectoin' CONFIG_DRAM_AUTO_SIZE_DETECTION n
+		if [ "$CONFIG_DRAM_AUTO_SIZE_DETECTION" = "n" ]; then
+			bool 'Force DCR value' CONFIG_DRAM_FROCE_DCR_VALUE n
+			if [ "$CONFIG_DRAM_FROCE_DCR_VALUE" = "n" ]; then
+				choice 'Bus width'  \
+					"8bit CONFIG_DRAM_BUS_WIDTH_8BIT \
+				 	 16bit CONFIG_DRAM_BUS_WIDTH_16BIT"  8bit
+	
+				choice 'Chip number'  \
+					"one CONFIG_DRAM_CHIP_NUM_ONE \
+				 	 two CONFIG_DRAM_CHIP_NUM_TWO"  one
+
+				choice 'Chip size'  \
+					"32MB CONFIG_ONE_DRAM_CHIP_SIZE_32MB \
+					 64MB CONFIG_ONE_DRAM_CHIP_SIZE_64MB \
+					128MB CONFIG_ONE_DRAM_CHIP_SIZE_128MB \
+					256MB CONFIG_ONE_DRAM_CHIP_SIZE_256MB \
+				 	512MB CONFIG_ONE_DRAM_CHIP_SIZE_512MB"  64MB
+
+				if [ "$CONFIG_ONE_DRAM_CHIP_SIZE_32MB" = "y" ]; then
+					define_hex CONFIG_ONE_DRAM_CHIP_SIZE 0x2000000
+				fi
+				if [ "$CONFIG_ONE_DRAM_CHIP_SIZE_64MB" = "y" ]; then
+					define_hex CONFIG_ONE_DRAM_CHIP_SIZE 0x4000000
+				fi
+				if [ "$CONFIG_ONE_DRAM_CHIP_SIZE_128MB" = "y" ]; then
+					define_hex CONFIG_ONE_DRAM_CHIP_SIZE 0x8000000
+				fi
+				if [ "$CONFIG_ONE_DRAM_CHIP_SIZE_256MB" = "y" ]; then
+					define_hex CONFIG_ONE_DRAM_CHIP_SIZE 0x10000000
+				fi
+				if [ "$CONFIG_ONE_DRAM_CHIP_SIZE_512MB" = "y" ]; then
+					define_hex CONFIG_ONE_DRAM_CHIP_SIZE 0x20000000
+				fi
+			
+			else
+				hex 'DCR value' CONFIG_DRAM_DCR 0x11220000
+			fi 
+		fi
+	#bool 'ZQ Auto-Calibration' CONFIG_ZQ_AUTO_CALI n
+	#bool 'Digital Delay line ' CONFIG_DIGITAL_DELAY_LINE y
+	#bool 'Auto DRAM Timing Setting' CONFIG_AUTO_DRAM_TIMING_SETTING n
+	define_bool CONFIG_ZQ_AUTO_CALI y
+	define_bool CONFIG_DIGITAL_DELAY_LINE y
+	define_bool CONFIG_AUTO_DRAM_TIMING_SETTING y
+	comment '*****************************'
+	if [ "$CONFIG_AUTO_DRAM_TIMING_SETTING" = "y" ]; then
+		int '  tWR(ns)' CONFIG_DRAM_WR_NS 15
+		int '  tRTP(ns)' CONFIG_DRAM_RTP_NS 8
+		int '  tWTR(ns)' CONFIG_DRAM_WTR_NS 8
+		int '  tREFI(ns)' CONFIG_DRAM_REFI_NS 7800
+		int '  tRP(ns)' CONFIG_DRAM_RP_NS 15
+		int '  tRCD(ns)' CONFIG_DRAM_RCD_NS 15
+		int '  tRRD(ns)' CONFIG_DRAM_RRD_NS 10
+		int '  tFAWG(ns)' CONFIG_DRAM_FAWG_NS 50
+		int '  tRFC(ns)' CONFIG_DRAM_RFC_NS 328
+		int '  tRAS(ns)' CONFIG_DRAM_RAS_NS 45
+		define_int CONFIG_DRAM_REFI_MS 64
+	else
+		hex 'DTR0' CONFIG_DRAM_DTR0 0x55488b00
+		hex 'DTR1' CONFIG_DRAM_DTR1 0x06060313
+		hex 'DTR2' CONFIG_DRAM_DTR2 0x04321000
+		define_int CONFIG_DRAM_WR_NS 15
+		define_int CONFIG_DRAM_RTP_NS 8
+		define_int CONFIG_DRAM_WTR_NS 9
+		define_int CONFIG_DRAM_REFI_MS 64
+		define_int CONFIG_DRAM_RP_NS 15
+		define_int CONFIG_DRAM_RCD_NS 15
+		define_int CONFIG_DRAM_RRD_NS 10
+		define_int CONFIG_DRAM_FAWG_NS 50
+		define_int CONFIG_DRAM_RFC_NS 328
+		define_int CONFIG_DRAM_RAS_NS 45
+	fi
+	comment '*****************************'
+
+	comment 'SPI Flash Configuration'
+	define_bool CONFIG_FLASH_SPI y
+	int '  MAX. SPI Clock' CONFIG_FLASH_SPI_MAXCLK 50
+	choice 'IO Operaton Mode'  \
+			"Serial_IO CONFIG_FLASH_SPI_OP_SIO \
+			 Dual_IO CONFIG_FLASH_SPI_OP_DIO \
+		 	 Quad_IO CONFIG_FLASH_SPI_OP_QIO"  Quad_IO
+fi
+endmenu
+
+mainmenu_option next_comment
+comment 'Command Configuration'
+
+if [ "$CONFIG_RTL8686" = "y" ]; then
+	#bool 'DRAM Test' CONFIG_CMD_DRAM_TEST y
+	#bool 'DRAM Diagnose' CONFIG_CMD_DRAM_DIG y
+	define_bool CONFIG_CMD_DRAM_TEST y
+	define_bool CONFIG_CMD_DRAM_DIG y
+	bool 'GDMA Test' CONFIG_CMD_GDMA_TEST n
+	bool 'SRAM Test' CONFIG_CMD_SRAM_TEST n
+	bool 'IDMEM Test' CONFIG_CMD_IDMEM_TEST n
+	bool 'CONCURENT Test' CONFIG_CMD_CONCURENT_TEST n
+	bool 'FOREVER Test' CONFIG_CMD_FOREVER_TEST n
+	bool 'Boot Bin' CONFIG_CMD_BOOT_BIN n
+	bool 'Boot DSP' CONFIG_CMD_BOOT_DSP n
+	bool 'Next FREQ' CONFIG_CMD_NEXT_FREQ n
+	bool 'DRAM AC DC Test' CONFIG_CMD_DRAM_AC_TEST n
+	bool 'Booting Up Dialog' CONFIG_SYS_BOOTING_DIALOG n
+	bool 'CPU Clock Measurement' CONFIG_CMD_MEASURE_CPU_CLK n
+fi
+
+endmenu
+
+if [ "$CONFIG_RTL8686" = "y" ]; then
+       	define_int  CFG_DCACHE_SIZE 32768
+        define_int  CFG_ICACHE_SIZE 32768
+       	define_int  CFG_CACHELINE_SIZE  32
+        define_hex  CONFIG_SRAM_START 02000000
+        define_hex  CFG_SRAM_SIZE      0x00008000 #32KB
+        define_hex  CFG_SRAM_SIZE_SET 0x00000008 #32KB
+        define_int  CONFIG_CONS_INDEX 1
+        define_bool CFG_NS16550 y
+        define_bool CFG_NS16550_SERIAL y
+        define_int  CFG_NS16550_REG_SIZE -4
+        define_hex  CFG_NS16550_COM1 0xB8002000
+        define_bool CONFIG_SERIAL_SOFTWARE_FIFO n
+	define_int  CFG_SDRAM_BASE 0x80000000
+	define_int  CONFIG_SYS_TEMP_SRAM_ADDR 0x90000000
+	define_int  CONFIG_SYS_TEMP_SRAM_SIZE 0x8000
+	define_hex  CONFIG_ENV_OFFSET 0x80000
+        define_int CONFIG_LXBUS_MHZ 200
+	define_string CONFIG_EXTRA_ENV_SETTINGS \
+		"upb=protect off all;erase bd000000 bd07ffff;cp.b 80000000 bd000000 7ffff;cmp.b 80000000 bd000000 7ffff;\0"
+fi
+
